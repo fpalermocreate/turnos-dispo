@@ -17,7 +17,6 @@ input{width:100%;padding:10px 14px;border:1px solid var(--border);border-radius:
 input:focus{border-color:var(--azul)}
 .btn{width:100%;padding:11px;border-radius:8px;font-family:'DM Sans',sans-serif;font-size:14px;font-weight:500;cursor:pointer;border:none;background:var(--azul);color:#fff;margin-top:26px;transition:opacity .15s}
 .btn:hover{opacity:.88}
-.btn:active{opacity:.75}
 .msg{font-size:13px;padding:10px 14px;border-radius:8px;margin-top:16px;display:none;background:var(--rojo-light);color:var(--rojo)}
 .shake{animation:shake .35s ease}
 @keyframes shake{0%,100%{transform:translateX(0)}20%,60%{transform:translateX(-6px)}40%,80%{transform:translateX(6px)}}
@@ -36,9 +35,7 @@ input:focus{border-color:var(--azul)}
 </div>
 
 <script>
-// Usuarios con acceso de LECTURA (ver turnos)
-// Contraseñas hasheadas con SHA-256
-// Por defecto: consulta/turnos2024  recepcion/turno2024  admin/admin123
+// usuarios: consulta/turnos  recepcion/turnos  admin/admin123
 const VIEWERS = [
   {user:'consulta',  passHash:'de0547eab79e19e4acbd26594e898ef676fe696c8c48e76f71497d3348077b8d'},
   {user:'recepcion', passHash:'de0547eab79e19e4acbd26594e898ef676fe696c8c48e76f71497d3348077b8d'},
@@ -72,7 +69,6 @@ function shake(){
   void c.offsetWidth;
   c.classList.add('shake');
 }
-// Si ya tiene sesión, redirigir directo
 if(sessionStorage.getItem('viewer_user')) window.location.href='turnos.html';
 </script>
 </body>
