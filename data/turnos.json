@@ -1,1 +1,4667 @@
-{"updated":"","turnos":[]}
+{
+  "updated": "2026-05-13T17:16:55.768Z",
+  "turnos": [
+    {
+      "centro": "Especialidad",
+      "esp": "ESPECIALIDAD",
+      "prof": "Especialidad",
+      "fecha": "Fecha",
+      "hora": "Hora"
+    },
+    {
+      "centro": "ANESTESIOLOGIA",
+      "esp": "ANESTESIOLOGIA",
+      "prof": "Anestesiologia",
+      "fecha": "2026-05-15",
+      "hora": "19:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-13",
+      "hora": "18:00"
+    },
+    {
+      "centro": "CIRUGIA CARDIOVASCULAR",
+      "esp": "CIRUGIA CARDIOVASCULAR",
+      "prof": "Cirugia Cardiovascular",
+      "fecha": "2026-05-14",
+      "hora": "15:00"
+    },
+    {
+      "centro": "CIRUGIA TORAXICA",
+      "esp": "CIRUGIA TORAXICA",
+      "prof": "Cirugia Toraxica",
+      "fecha": "2026-05-14",
+      "hora": "15:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "08:50"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-20",
+      "hora": "08:00"
+    },
+    {
+      "centro": "CIRUGiA GINECOLOGICA",
+      "esp": "CIRUGIA GINECOLOGICA",
+      "prof": "Cirugia Ginecologica",
+      "fecha": "2026-05-13",
+      "hora": "15:30"
+    },
+    {
+      "centro": "CIRUGiA GINECOLOGICA",
+      "esp": "CIRUGIA GINECOLOGICA",
+      "prof": "Cirugia Ginecologica",
+      "fecha": "2026-05-13",
+      "hora": "13:15"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-26",
+      "hora": "09:50"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-18",
+      "hora": "18:40"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-18",
+      "hora": "15:15"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-13",
+      "hora": "14:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "15:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "17:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-18",
+      "hora": "09:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "13:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-28",
+      "hora": "09:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-20",
+      "hora": "08:00"
+    },
+    {
+      "centro": "HEMODINAMIA",
+      "esp": "HEMODINAMIA",
+      "prof": "Hemodinamia",
+      "fecha": "2026-05-15",
+      "hora": "14:30"
+    },
+    {
+      "centro": "HEMODINAMIA",
+      "esp": "HEMODINAMIA",
+      "prof": "Hemodinamia",
+      "fecha": "2026-05-13",
+      "hora": "18:00"
+    },
+    {
+      "centro": "INFECTOLOGIA",
+      "esp": "INFECTOLOGIA",
+      "prof": "Infectologia",
+      "fecha": "2026-05-15",
+      "hora": "11:15"
+    },
+    {
+      "centro": "MASTOLOGIA",
+      "esp": "MASTOLOGIA",
+      "prof": "Mastologia",
+      "fecha": "2026-05-14",
+      "hora": "17:15"
+    },
+    {
+      "centro": "ODONTOLOGIA CLINICA",
+      "esp": "ODONTOLOGIA CLINICA",
+      "prof": "Odontologia Clinica",
+      "fecha": "2026-06-12",
+      "hora": "16:00"
+    },
+    {
+      "centro": "ODONTOLOGIA CLINICA",
+      "esp": "ODONTOLOGIA CLINICA",
+      "prof": "Odontologia Clinica",
+      "fecha": "2026-06-12",
+      "hora": "08:45"
+    },
+    {
+      "centro": "ODONTOLOGIA CLINICA",
+      "esp": "ODONTOLOGIA CLINICA",
+      "prof": "Odontologia Clinica",
+      "fecha": "2026-06-12",
+      "hora": "17:30"
+    },
+    {
+      "centro": "ODONTOLOGIA CLINICA",
+      "esp": "ODONTOLOGIA CLINICA",
+      "prof": "Odontologia Clinica",
+      "fecha": "2026-06-01",
+      "hora": "08:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-13",
+      "hora": "14:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-18",
+      "hora": "12:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-19",
+      "hora": "08:40"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-06-03",
+      "hora": "08:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-18",
+      "hora": "09:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-06-02",
+      "hora": "08:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-16",
+      "hora": "09:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-13",
+      "hora": "17:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-26",
+      "hora": "19:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-29",
+      "hora": "17:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-13",
+      "hora": "13:20"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-18",
+      "hora": "09:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-20",
+      "hora": "18:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-18",
+      "hora": "09:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-15",
+      "hora": "10:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-27",
+      "hora": "18:40"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-19",
+      "hora": "08:40"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-13",
+      "hora": "14:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-26",
+      "hora": "10:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-19",
+      "hora": "15:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-14",
+      "hora": "09:20"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-18",
+      "hora": "10:40"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-13",
+      "hora": "13:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "esp": "TRAUMATOLOGIA DE RODILLA",
+      "prof": "Traumatologia De Rodilla",
+      "fecha": "2026-05-13",
+      "hora": "14:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "esp": "TRAUMATOLOGIA DE RODILLA",
+      "prof": "Traumatologia De Rodilla",
+      "fecha": "2026-06-03",
+      "hora": "08:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "esp": "TRAUMATOLOGIA DE RODILLA",
+      "prof": "Traumatologia De Rodilla",
+      "fecha": "2026-06-02",
+      "hora": "08:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "esp": "TRAUMATOLOGIA DE RODILLA",
+      "prof": "Traumatologia De Rodilla",
+      "fecha": "2026-05-29",
+      "hora": "17:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "esp": "TRAUMATOLOGIA DE RODILLA",
+      "prof": "Traumatologia De Rodilla",
+      "fecha": "2026-05-13",
+      "hora": "13:20"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "esp": "TRAUMATOLOGIA DE HOMBRO",
+      "prof": "Traumatologia De Hombro",
+      "fecha": "2026-06-03",
+      "hora": "08:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "esp": "TRAUMATOLOGIA DE HOMBRO",
+      "prof": "Traumatologia De Hombro",
+      "fecha": "2026-06-02",
+      "hora": "08:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "esp": "TRAUMATOLOGIA DE HOMBRO",
+      "prof": "Traumatologia De Hombro",
+      "fecha": "2026-05-29",
+      "hora": "17:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "esp": "TRAUMATOLOGIA DE HOMBRO",
+      "prof": "Traumatologia De Hombro",
+      "fecha": "2026-05-13",
+      "hora": "13:20"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "esp": "TRAUMATOLOGIA DE HOMBRO",
+      "prof": "Traumatologia De Hombro",
+      "fecha": "2026-05-19",
+      "hora": "08:40"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE CADERA",
+      "esp": "TRAUMATOLOGIA DE CADERA",
+      "prof": "Traumatologia De Cadera",
+      "fecha": "2026-05-19",
+      "hora": "08:40"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE CADERA",
+      "esp": "TRAUMATOLOGIA DE CADERA",
+      "prof": "Traumatologia De Cadera",
+      "fecha": "2026-06-03",
+      "hora": "08:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE CADERA",
+      "esp": "TRAUMATOLOGIA DE CADERA",
+      "prof": "Traumatologia De Cadera",
+      "fecha": "2026-05-20",
+      "hora": "11:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE CADERA",
+      "esp": "TRAUMATOLOGIA DE CADERA",
+      "prof": "Traumatologia De Cadera",
+      "fecha": "2026-05-18",
+      "hora": "09:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE CADERA",
+      "esp": "TRAUMATOLOGIA DE CADERA",
+      "prof": "Traumatologia De Cadera",
+      "fecha": "2026-06-02",
+      "hora": "08:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE CADERA",
+      "esp": "TRAUMATOLOGIA DE CADERA",
+      "prof": "Traumatologia De Cadera",
+      "fecha": "2026-05-13",
+      "hora": "14:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE CADERA Y RODILLA",
+      "esp": "TRAUMATOLOGIA DE CADERA Y RODILLA",
+      "prof": "Traumatologia De Cadera Y Rodilla",
+      "fecha": "2026-05-18",
+      "hora": "09:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA NIÑOS",
+      "esp": "TRAUMATOLOGIA NIÑOS",
+      "prof": "Traumatologia Niños",
+      "fecha": "2026-05-20",
+      "hora": "18:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "esp": "TRAUMATOLOGIA DEL DEPORTE",
+      "prof": "Traumatologia Del Deporte",
+      "fecha": "2026-05-20",
+      "hora": "11:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "esp": "TRAUMATOLOGIA DEL DEPORTE",
+      "prof": "Traumatologia Del Deporte",
+      "fecha": "2026-05-26",
+      "hora": "10:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "esp": "TRAUMATOLOGIA DEL DEPORTE",
+      "prof": "Traumatologia Del Deporte",
+      "fecha": "2026-05-19",
+      "hora": "15:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "esp": "TRAUMATOLOGIA DE TOBILLO",
+      "prof": "Traumatologia De Tobillo",
+      "fecha": "2026-06-03",
+      "hora": "08:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "esp": "TRAUMATOLOGIA DE TOBILLO",
+      "prof": "Traumatologia De Tobillo",
+      "fecha": "2026-06-02",
+      "hora": "08:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "esp": "TRAUMATOLOGIA DE TOBILLO",
+      "prof": "Traumatologia De Tobillo",
+      "fecha": "2026-05-16",
+      "hora": "09:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "esp": "TRAUMATOLOGIA DE TOBILLO",
+      "prof": "Traumatologia De Tobillo",
+      "fecha": "2026-05-18",
+      "hora": "09:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "esp": "TRAUMATOLOGIA DE TOBILLO",
+      "prof": "Traumatologia De Tobillo",
+      "fecha": "2026-05-13",
+      "hora": "13:15"
+    },
+    {
+      "centro": "CARDIOANGIOLOGIA INTERVENCIONISTA",
+      "esp": "CARDIOANGIOLOGIA INTERVENCIONISTA",
+      "prof": "Cardioangiologia Intervencionista",
+      "fecha": "2026-05-15",
+      "hora": "14:30"
+    },
+    {
+      "centro": "CARDIOANGIOLOGIA INTERVENCIONISTA",
+      "esp": "CARDIOANGIOLOGIA INTERVENCIONISTA",
+      "prof": "Cardioangiologia Intervencionista",
+      "fecha": "2026-05-13",
+      "hora": "18:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE COLUMNA",
+      "esp": "TRAUMATOLOGIA DE COLUMNA",
+      "prof": "Traumatologia De Columna",
+      "fecha": "2026-05-15",
+      "hora": "11:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE COLUMNA",
+      "esp": "TRAUMATOLOGIA DE COLUMNA",
+      "prof": "Traumatologia De Columna",
+      "fecha": "2026-05-21",
+      "hora": "08:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "prof": "Traumatologia Muñeca Y Mano",
+      "fecha": "2026-05-13",
+      "hora": "18:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "prof": "Traumatologia Muñeca Y Mano",
+      "fecha": "2026-05-27",
+      "hora": "18:40"
+    },
+    {
+      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "prof": "Traumatologia Muñeca Y Mano",
+      "fecha": "2026-05-18",
+      "hora": "09:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "prof": "Traumatologia Muñeca Y Mano",
+      "fecha": "2026-05-19",
+      "hora": "13:30"
+    },
+    {
+      "centro": "INFECTOLOGIA PRE QUIRURGICA",
+      "esp": "INFECTOLOGIA PRE QUIRURGICA",
+      "prof": "Infectologia Pre Quirurgica",
+      "fecha": "2026-05-18",
+      "hora": "10:30"
+    },
+    {
+      "centro": "INFECTOLOGIA PRE QUIRURGICA",
+      "esp": "INFECTOLOGIA PRE QUIRURGICA",
+      "prof": "Infectologia Pre Quirurgica",
+      "fecha": "2026-05-15",
+      "hora": "09:20"
+    },
+    {
+      "centro": "CIRUGIA OFTALMOLOGICA",
+      "esp": "CIRUGIA OFTALMOLOGICA",
+      "prof": "Cirugia Oftalmologica",
+      "fecha": "2026-05-20",
+      "hora": "11:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-14",
+      "hora": "11:30"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-20",
+      "hora": "11:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-20",
+      "hora": "09:05"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-15",
+      "hora": "15:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-19",
+      "hora": "09:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-06-11",
+      "hora": "08:40"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-19",
+      "hora": "08:45"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-16",
+      "hora": "09:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (5-16 Años)",
+      "fecha": "2026-05-19",
+      "hora": "09:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "esp": "OFTALMOLOGIA QUIRURGICA",
+      "prof": "Oftalmologia Quirurgica",
+      "fecha": "2026-05-20",
+      "hora": "11:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "esp": "OFTALMOLOGIA QUIRURGICA",
+      "prof": "Oftalmologia Quirurgica",
+      "fecha": "2026-06-11",
+      "hora": "08:40"
+    },
+    {
+      "centro": "OFTAMOLOGIA CIRUGIA DE RETINA",
+      "esp": "OFTAMOLOGIA CIRUGIA DE RETINA",
+      "prof": "Oftamologia Cirugia De Retina",
+      "fecha": "2026-06-11",
+      "hora": "08:40"
+    },
+    {
+      "centro": "OFTALMOLOGIA PATOLOGIA DE LA CORNEA",
+      "esp": "OFTALMOLOGIA PATOLOGIA DE LA CORNEA",
+      "prof": "Oftalmologia Patologia De La Cornea",
+      "fecha": "2026-05-15",
+      "hora": "15:15"
+    },
+    {
+      "centro": "CIRUGIA CARDIOVASCULAR",
+      "esp": "CIRUGIA CARDIOVASCULAR",
+      "prof": "Cirugia Cardiovascular",
+      "fecha": "2026-05-14",
+      "hora": "09:00"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-19",
+      "hora": "09:00"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-13",
+      "hora": "12:15"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-14",
+      "hora": "11:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-15",
+      "hora": "11:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-18",
+      "hora": "14:45"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-14",
+      "hora": "14:30"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-16",
+      "hora": "08:30"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-26",
+      "hora": "18:40"
+    },
+    {
+      "centro": "INFECTOLOGIA",
+      "esp": "INFECTOLOGIA",
+      "prof": "Infectologia",
+      "fecha": "2026-05-21",
+      "hora": "13:30"
+    },
+    {
+      "centro": "NEUROCIRUGIA",
+      "esp": "NEUROCIRUGIA",
+      "prof": "Neurocirugia",
+      "fecha": "2026-05-19",
+      "hora": "15:40"
+    },
+    {
+      "centro": "NEUROCIRUGIA",
+      "esp": "NEUROCIRUGIA",
+      "prof": "Neurocirugia",
+      "fecha": "2026-05-13",
+      "hora": "14:30"
+    },
+    {
+      "centro": "NEUROCIRUGIA",
+      "esp": "NEUROCIRUGIA",
+      "prof": "Neurocirugia",
+      "fecha": "2026-05-18",
+      "hora": "16:15"
+    },
+    {
+      "centro": "NEUROCIRUGIA",
+      "esp": "NEUROCIRUGIA",
+      "prof": "Neurocirugia",
+      "fecha": "2026-05-13",
+      "hora": "13:10"
+    },
+    {
+      "centro": "NEUROCIRUGIA",
+      "esp": "NEUROCIRUGIA",
+      "prof": "Neurocirugia",
+      "fecha": "2026-06-12",
+      "hora": "10:00"
+    },
+    {
+      "centro": "NEUROCIRUGIA",
+      "esp": "NEUROCIRUGIA",
+      "prof": "Neurocirugia",
+      "fecha": "2026-05-18",
+      "hora": "09:20"
+    },
+    {
+      "centro": "NEUROLOGIA CLINICA",
+      "esp": "NEUROLOGIA CLINICA",
+      "prof": "Neurologia Clinica",
+      "fecha": "2026-05-30",
+      "hora": "09:30"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-14",
+      "hora": "08:20"
+    },
+    {
+      "centro": "PSIQUIATRIA",
+      "esp": "PSIQUIATRIA",
+      "prof": "Psiquiatria",
+      "fecha": "2026-06-08",
+      "hora": "11:00"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-06-03",
+      "hora": "08:45"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-14",
+      "hora": "17:30"
+    },
+    {
+      "centro": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
+      "esp": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
+      "prof": "Cuidados De Soporte Y Med.paliativa",
+      "fecha": "2026-05-20",
+      "hora": "15:00"
+    },
+    {
+      "centro": "NEUROLOGIA (CEFALEAS)",
+      "esp": "NEUROLOGIA (CEFALEAS)",
+      "prof": "Neurologia (cefaleas)",
+      "fecha": "2026-05-30",
+      "hora": "09:30"
+    },
+    {
+      "centro": "NEURO (NEUROPATIAS-MIOPATIAS-MIAST.",
+      "esp": "NEURO (NEUROPATIAS-MIOPATIAS-MIAST.",
+      "prof": "Neuro (neuropatias-miopatias-miast.",
+      "fecha": "2026-05-30",
+      "hora": "09:30"
+    },
+    {
+      "centro": "ENFERMEDADES DE LA NUTRICION",
+      "esp": "ENFERMEDADES DE LA NUTRICION",
+      "prof": "Enfermedades De La Nutricion",
+      "fecha": "2026-05-16",
+      "hora": "08:30"
+    },
+    {
+      "centro": "TRATAMIENTO DEL DOLOR",
+      "esp": "TRATAMIENTO DEL DOLOR",
+      "prof": "Tratamiento Del Dolor",
+      "fecha": "2026-05-13",
+      "hora": "12:40"
+    },
+    {
+      "centro": "TRATAMIENTO DEL DOLOR",
+      "esp": "TRATAMIENTO DEL DOLOR",
+      "prof": "Tratamiento Del Dolor",
+      "fecha": "2026-05-18",
+      "hora": "12:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "prof": "Traumatologia Muñeca Y Mano",
+      "fecha": "2026-05-26",
+      "hora": "09:15"
+    },
+    {
+      "centro": "CIRUGIA DE CABEZA Y CUELLO",
+      "esp": "CIRUGIA DE CABEZA Y CUELLO",
+      "prof": "Cirugia De Cabeza Y Cuello",
+      "fecha": "2026-05-14",
+      "hora": "14:50"
+    },
+    {
+      "centro": "CIRUGIA BUCOMAXILOFACIAL",
+      "esp": "CIRUGIA BUCOMAXILOFACIAL",
+      "prof": "Cirugia Bucomaxilofacial",
+      "fecha": "2026-06-02",
+      "hora": "13:15"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-14",
+      "hora": "15:30"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-14",
+      "hora": "09:15"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-15",
+      "hora": "09:30"
+    },
+    {
+      "centro": "CIRUGIA TORAXICA",
+      "esp": "CIRUGIA TORAXICA",
+      "prof": "Cirugia Toraxica",
+      "fecha": "2026-05-15",
+      "hora": "10:15"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-13",
+      "hora": "12:15"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-20",
+      "hora": "08:40"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-15",
+      "hora": "12:15"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "10:10"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-21",
+      "hora": "14:00"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-13",
+      "hora": "17:45"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-13",
+      "hora": "15:20"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-13",
+      "hora": "15:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "15:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "08:40"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-15",
+      "hora": "08:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-01",
+      "hora": "09:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-03",
+      "hora": "08:45"
+    },
+    {
+      "centro": "GINECO ONCOLOGIA",
+      "esp": "GINECO ONCOLOGIA",
+      "prof": "Gineco Oncologia",
+      "fecha": "2026-05-14",
+      "hora": "08:40"
+    },
+    {
+      "centro": "HEPATOLOGIA",
+      "esp": "HEPATOLOGIA",
+      "prof": "Hepatologia",
+      "fecha": "2026-05-14",
+      "hora": "13:40"
+    },
+    {
+      "centro": "ANALISIS HEMATOLÓGICOS",
+      "esp": "ANALISIS HEMATOLÓGICOS",
+      "prof": "Analisis Hematológicos",
+      "fecha": "2026-05-14",
+      "hora": "08:10"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-26",
+      "hora": "18:30"
+    },
+    {
+      "centro": "NUTRICION ONCOLOGICA",
+      "esp": "NUTRICION ONCOLOGICA",
+      "prof": "Nutricion Oncologica",
+      "fecha": "2026-05-26",
+      "hora": "18:30"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-14",
+      "hora": "13:45"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-13",
+      "hora": "15:15"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-14",
+      "hora": "10:20"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-27",
+      "hora": "07:45"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-15",
+      "hora": "09:50"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-22",
+      "hora": "08:15"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-13",
+      "hora": "13:30"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-18",
+      "hora": "16:45"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-15",
+      "hora": "17:30"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-06-11",
+      "hora": "12:00"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-26",
+      "hora": "10:30"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-15",
+      "hora": "17:00"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-15",
+      "hora": "15:40"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "prof": "Otorrinolaringologia Quirurgica",
+      "fecha": "2026-05-22",
+      "hora": "08:15"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "prof": "Otorrinolaringologia Quirurgica",
+      "fecha": "2026-05-18",
+      "hora": "16:45"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "prof": "Otorrinolaringologia Quirurgica",
+      "fecha": "2026-05-15",
+      "hora": "15:40"
+    },
+    {
+      "centro": "PROCTOLOGIA",
+      "esp": "PROCTOLOGIA",
+      "prof": "Proctologia",
+      "fecha": "2026-05-14",
+      "hora": "15:30"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-18",
+      "hora": "09:30"
+    },
+    {
+      "centro": "CIRUGIA GENERAL COLOPROCTOLOGIA",
+      "esp": "CIRUGIA GENERAL COLOPROCTOLOGIA",
+      "prof": "Cirugia General Coloproctologia",
+      "fecha": "2026-06-08",
+      "hora": "14:30"
+    },
+    {
+      "centro": "CIRUGIA DE CABEZA Y CUELLO",
+      "esp": "CIRUGIA DE CABEZA Y CUELLO",
+      "prof": "Cirugia De Cabeza Y Cuello",
+      "fecha": "2026-05-13",
+      "hora": "17:30"
+    },
+    {
+      "centro": "CIRUGIA BUCOMAXILOFACIAL",
+      "esp": "CIRUGIA BUCOMAXILOFACIAL",
+      "prof": "Cirugia Bucomaxilofacial",
+      "fecha": "2026-05-13",
+      "hora": "19:40"
+    },
+    {
+      "centro": "CIRUGIA BUCOMAXILOFACIAL",
+      "esp": "CIRUGIA BUCOMAXILOFACIAL",
+      "prof": "Cirugia Bucomaxilofacial",
+      "fecha": "2026-06-11",
+      "hora": "09:00"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-06-02",
+      "hora": "16:15"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-20",
+      "hora": "13:30"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-21",
+      "hora": "13:30"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-14",
+      "hora": "09:45"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-18",
+      "hora": "15:15"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-27",
+      "hora": "12:30"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-13",
+      "hora": "14:00"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-18",
+      "hora": "15:30"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-20",
+      "hora": "12:15"
+    },
+    {
+      "centro": "CIRUGIA TORAXICA",
+      "esp": "CIRUGIA TORAXICA",
+      "prof": "Cirugia Toraxica",
+      "fecha": "2026-05-21",
+      "hora": "13:30"
+    },
+    {
+      "centro": "CIRUGIA TORAXICA",
+      "esp": "CIRUGIA TORAXICA",
+      "prof": "Cirugia Toraxica",
+      "fecha": "2026-05-18",
+      "hora": "10:15"
+    },
+    {
+      "centro": "CIRUGIA MALFORMACIONES VASCULARES",
+      "esp": "CIRUGIA MALFORMACIONES VASCULARES",
+      "prof": "Cirugia Malformaciones Vasculares",
+      "fecha": "2026-05-18",
+      "hora": "13:00"
+    },
+    {
+      "centro": "GASTROENTEROLOGIA",
+      "esp": "GASTROENTEROLOGIA",
+      "prof": "Gastroenterologia",
+      "fecha": "2026-05-14",
+      "hora": "15:45"
+    },
+    {
+      "centro": "HEMODINAMIA",
+      "esp": "HEMODINAMIA",
+      "prof": "Hemodinamia",
+      "fecha": "2026-05-19",
+      "hora": "08:15"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-14",
+      "hora": "10:40"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-18",
+      "hora": "11:15"
+    },
+    {
+      "centro": "OTORRINO(MAREOS/ACUFENOS)",
+      "esp": "OTORRINO(MAREOS/ACUFENOS)",
+      "prof": "Otorrino(mareos/acufenos)",
+      "fecha": "2026-05-18",
+      "hora": "11:15"
+    },
+    {
+      "centro": "PROCTOLOGIA",
+      "esp": "PROCTOLOGIA",
+      "prof": "Proctologia",
+      "fecha": "2026-05-14",
+      "hora": "15:45"
+    },
+    {
+      "centro": "PROCTOLOGIA",
+      "esp": "PROCTOLOGIA",
+      "prof": "Proctologia",
+      "fecha": "2026-06-08",
+      "hora": "14:30"
+    },
+    {
+      "centro": "PROCTOLOGIA",
+      "esp": "PROCTOLOGIA",
+      "prof": "Proctologia",
+      "fecha": "2026-05-18",
+      "hora": "15:15"
+    },
+    {
+      "centro": "PROCTOLOGIA",
+      "esp": "PROCTOLOGIA",
+      "prof": "Proctologia",
+      "fecha": "2026-05-15",
+      "hora": "10:45"
+    },
+    {
+      "centro": "PROCTOLOGIA",
+      "esp": "PROCTOLOGIA",
+      "prof": "Proctologia",
+      "fecha": "2026-05-27",
+      "hora": "12:30"
+    },
+    {
+      "centro": "ALERGIA GENERAL",
+      "esp": "ALERGIA GENERAL",
+      "prof": "Alergia General",
+      "fecha": "2026-05-13",
+      "hora": "17:45"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "11:15"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-26",
+      "hora": "17:30"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-18",
+      "hora": "14:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-18",
+      "hora": "08:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-22",
+      "hora": "14:50"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "14:45"
+    },
+    {
+      "centro": "CIRUGiA GINECOLOGICA",
+      "esp": "CIRUGIA GINECOLOGICA",
+      "prof": "Cirugia Ginecologica",
+      "fecha": "2026-05-15",
+      "hora": "09:30"
+    },
+    {
+      "centro": "CIRUGiA GINECOLOGICA",
+      "esp": "CIRUGIA GINECOLOGICA",
+      "prof": "Cirugia Ginecologica",
+      "fecha": "2026-06-11",
+      "hora": "12:00"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-06-12",
+      "hora": "10:00"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-05-22",
+      "hora": "14:50"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-28",
+      "hora": "18:20"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-06-12",
+      "hora": "10:00"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-21",
+      "hora": "14:30"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-15",
+      "hora": "12:40"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "14:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "17:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "08:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-09",
+      "hora": "16:40"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-15",
+      "hora": "09:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-11",
+      "hora": "12:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-08",
+      "hora": "18:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "15:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "12:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "08:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-27",
+      "hora": "09:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-21",
+      "hora": "17:20"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "15:00"
+    },
+    {
+      "centro": "INFECTOLOGIA",
+      "esp": "INFECTOLOGIA",
+      "prof": "Infectologia",
+      "fecha": "2026-05-22",
+      "hora": "08:45"
+    },
+    {
+      "centro": "INFECTOLOGIA",
+      "esp": "INFECTOLOGIA",
+      "prof": "Infectologia",
+      "fecha": "2026-06-01",
+      "hora": "17:15"
+    },
+    {
+      "centro": "MASTOLOGIA",
+      "esp": "MASTOLOGIA",
+      "prof": "Mastologia",
+      "fecha": "2026-06-01",
+      "hora": "12:30"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-22",
+      "hora": "14:00"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-20",
+      "hora": "12:15"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-14",
+      "hora": "08:45"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-19",
+      "hora": "13:15"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-18",
+      "hora": "14:15"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-14",
+      "hora": "16:00"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-18",
+      "hora": "08:15"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-18",
+      "hora": "09:30"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-18",
+      "hora": "18:20"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-26",
+      "hora": "16:15"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-27",
+      "hora": "12:00"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-13",
+      "hora": "13:15"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-13",
+      "hora": "12:20"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-14",
+      "hora": "13:30"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "prof": "Otorrinolaringologia Quirurgica",
+      "fecha": "2026-05-14",
+      "hora": "13:30"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-18",
+      "hora": "10:00"
+    },
+    {
+      "centro": "SOBREPESO Y OBESIDAD",
+      "esp": "SOBREPESO Y OBESIDAD",
+      "prof": "Sobrepeso Y Obesidad",
+      "fecha": "2026-05-13",
+      "hora": "13:15"
+    },
+    {
+      "centro": "ENFERMEDADES DE LA NUTRICION",
+      "esp": "ENFERMEDADES DE LA NUTRICION",
+      "prof": "Enfermedades De La Nutricion",
+      "fecha": "2026-05-28",
+      "hora": "18:20"
+    },
+    {
+      "centro": "PROGRAMA DE DETECCION TEMPRANA",
+      "esp": "PROGRAMA DE DETECCION TEMPRANA",
+      "prof": "Programa De Deteccion Temprana",
+      "fecha": "2026-05-14",
+      "hora": "16:00"
+    },
+    {
+      "centro": "ASESORIA GENETICA DEL CANCER HEREDI",
+      "esp": "ASESORIA GENETICA DEL CANCER HEREDI",
+      "prof": "Asesoria Genetica Del Cancer Heredi",
+      "fecha": "2026-05-20",
+      "hora": "11:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-29",
+      "hora": "12:20"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-15",
+      "hora": "08:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-18",
+      "hora": "19:15"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-20",
+      "hora": "08:45"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-13",
+      "hora": "17:30"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-06-10",
+      "hora": "09:40"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "17:00"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-10",
+      "hora": "11:40"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-08",
+      "hora": "13:00"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-05-13",
+      "hora": "17:30"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-06-09",
+      "hora": "17:00"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-06-09",
+      "hora": "17:00"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-26",
+      "hora": "09:00"
+    },
+    {
+      "centro": "GASTROENTEROLOGIA",
+      "esp": "GASTROENTEROLOGIA",
+      "prof": "Gastroenterologia",
+      "fecha": "2026-06-04",
+      "hora": "08:00"
+    },
+    {
+      "centro": "GASTROENTEROLOGIA",
+      "esp": "GASTROENTEROLOGIA",
+      "prof": "Gastroenterologia",
+      "fecha": "2026-05-27",
+      "hora": "09:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-20",
+      "hora": "08:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-19",
+      "hora": "16:10"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-18",
+      "hora": "10:50"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-19",
+      "hora": "08:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "13:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-01",
+      "hora": "13:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-15",
+      "hora": "09:45"
+    },
+    {
+      "centro": "INFECTOLOGIA",
+      "esp": "INFECTOLOGIA",
+      "prof": "Infectologia",
+      "fecha": "2026-05-19",
+      "hora": "08:30"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-14",
+      "hora": "17:20"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-22",
+      "hora": "08:15"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-14",
+      "hora": "08:45"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-21",
+      "hora": "12:00"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-14",
+      "hora": "18:00"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-13",
+      "hora": "17:30"
+    },
+    {
+      "centro": "OBSTETRICIA",
+      "esp": "OBSTETRICIA",
+      "prof": "Obstetricia",
+      "fecha": "2026-05-14",
+      "hora": "19:45"
+    },
+    {
+      "centro": "OBSTETRICIA",
+      "esp": "OBSTETRICIA",
+      "prof": "Obstetricia",
+      "fecha": "2026-05-26",
+      "hora": "17:30"
+    },
+    {
+      "centro": "OBSTETRICIA",
+      "esp": "OBSTETRICIA",
+      "prof": "Obstetricia",
+      "fecha": "2026-05-14",
+      "hora": "08:40"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-14",
+      "hora": "12:20"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-20",
+      "hora": "17:45"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (5-16 Años)",
+      "fecha": "2026-05-14",
+      "hora": "12:20"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-18",
+      "hora": "13:20"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-14",
+      "hora": "17:45"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-18",
+      "hora": "09:45"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-19",
+      "hora": "15:15"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-18",
+      "hora": "13:45"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-19",
+      "hora": "08:45"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-20",
+      "hora": "16:45"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-20",
+      "hora": "12:20"
+    },
+    {
+      "centro": "NEUMONOLOGIA PEDIATRICA",
+      "esp": "NEUMONOLOGIA PEDIATRICA",
+      "prof": "Neumonologia Pediatrica",
+      "fecha": "2026-05-28",
+      "hora": "14:20"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-19",
+      "hora": "14:20"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-14",
+      "hora": "17:40"
+    },
+    {
+      "centro": "TRANSPLANTE MEDULA",
+      "esp": "TRANSPLANTE MEDULA",
+      "prof": "Transplante Medula",
+      "fecha": "2026-05-15",
+      "hora": "11:00"
+    },
+    {
+      "centro": "MASTOLOGIA",
+      "esp": "MASTOLOGIA",
+      "prof": "Mastologia",
+      "fecha": "2026-05-27",
+      "hora": "10:20"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-27",
+      "hora": "15:45"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-13",
+      "hora": "18:15"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-06-05",
+      "hora": "08:30"
+    },
+    {
+      "centro": "NUTRICION ONCOLOGICA",
+      "esp": "NUTRICION ONCOLOGICA",
+      "prof": "Nutricion Oncologica",
+      "fecha": "2026-05-27",
+      "hora": "15:45"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-26",
+      "hora": "10:20"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-06-11",
+      "hora": "16:30"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-28",
+      "hora": "12:40"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-15",
+      "hora": "08:20"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-26",
+      "hora": "15:30"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-22",
+      "hora": "13:15"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "10:40"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-27",
+      "hora": "13:40"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-26",
+      "hora": "14:00"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "09:00"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-20",
+      "hora": "16:00"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "13:20"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-05-19",
+      "hora": "17:00"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-06-09",
+      "hora": "08:20"
+    },
+    {
+      "centro": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
+      "esp": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
+      "prof": "Cuidados De Soporte Y Med.paliativa",
+      "fecha": "2026-05-14",
+      "hora": "13:30"
+    },
+    {
+      "centro": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
+      "esp": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
+      "prof": "Cuidados De Soporte Y Med.paliativa",
+      "fecha": "2026-06-01",
+      "hora": "18:30"
+    },
+    {
+      "centro": "ASESORIA GENETICA DEL CANCER HEREDI",
+      "esp": "ASESORIA GENETICA DEL CANCER HEREDI",
+      "prof": "Asesoria Genetica Del Cancer Heredi",
+      "fecha": "2026-05-14",
+      "hora": "14:30"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-05-13",
+      "hora": "12:45"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-05-16",
+      "hora": "09:00"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-06-05",
+      "hora": "10:20"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-06-02",
+      "hora": "08:40"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-05-14",
+      "hora": "10:20"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-05-14",
+      "hora": "17:40"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-05-22",
+      "hora": "10:30"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "13:10"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-19",
+      "hora": "18:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-19",
+      "hora": "09:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-15",
+      "hora": "14:15"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-13",
+      "hora": "13:10"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "19:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-26",
+      "hora": "17:30"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-16",
+      "hora": "08:45"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-26",
+      "hora": "08:30"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-12",
+      "hora": "09:40"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-18",
+      "hora": "15:40"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-04",
+      "hora": "12:20"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-02",
+      "hora": "12:45"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-27",
+      "hora": "15:40"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-08",
+      "hora": "13:15"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-12",
+      "hora": "14:20"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-15",
+      "hora": "08:30"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-01",
+      "hora": "10:10"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-04",
+      "hora": "14:10"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-28",
+      "hora": "09:50"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-15",
+      "hora": "10:00"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-08",
+      "hora": "09:20"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-05-27",
+      "hora": "11:00"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-05-19",
+      "hora": "18:00"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-05-18",
+      "hora": "19:00"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-27",
+      "hora": "11:00"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-27",
+      "hora": "16:20"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-18",
+      "hora": "19:00"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-13",
+      "hora": "13:00"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-14",
+      "hora": "08:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-09",
+      "hora": "11:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-29",
+      "hora": "09:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-22",
+      "hora": "17:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "13:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "12:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-05",
+      "hora": "09:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-26",
+      "hora": "16:10"
+    },
+    {
+      "centro": "MASTOLOGIA",
+      "esp": "MASTOLOGIA",
+      "prof": "Mastologia",
+      "fecha": "2026-05-18",
+      "hora": "08:20"
+    },
+    {
+      "centro": "MASTOLOGIA",
+      "esp": "MASTOLOGIA",
+      "prof": "Mastologia",
+      "fecha": "2026-06-05",
+      "hora": "09:45"
+    },
+    {
+      "centro": "GINECOLOGÍA PEDIÁTRICA",
+      "esp": "GINECOLOGÍA PEDIÁTRICA",
+      "prof": "Ginecología Pediátrica",
+      "fecha": "2026-05-22",
+      "hora": "17:30"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-14",
+      "hora": "19:00"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-14",
+      "hora": "15:00"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-18",
+      "hora": "08:00"
+    },
+    {
+      "centro": "GENETICA",
+      "esp": "GENETICA",
+      "prof": "Genetica",
+      "fecha": "2026-05-16",
+      "hora": "09:20"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-13",
+      "hora": "18:00"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-14",
+      "hora": "16:10"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-20",
+      "hora": "16:30"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-06-09",
+      "hora": "16:40"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-13",
+      "hora": "13:30"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-06-01",
+      "hora": "16:45"
+    },
+    {
+      "centro": "SOBREPESO Y OBESIDAD",
+      "esp": "SOBREPESO Y OBESIDAD",
+      "prof": "Sobrepeso Y Obesidad",
+      "fecha": "2026-05-18",
+      "hora": "08:00"
+    },
+    {
+      "centro": "MEDICO",
+      "esp": "MEDICO",
+      "prof": "Medico",
+      "fecha": "2026-05-16",
+      "hora": "08:45"
+    },
+    {
+      "centro": "COSMETOLOGIA",
+      "esp": "COSMETOLOGIA",
+      "prof": "Cosmetologia",
+      "fecha": "2026-05-19",
+      "hora": "15:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "13:20"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-15",
+      "hora": "15:15"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-06-01",
+      "hora": "11:00"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-06-09",
+      "hora": "17:30"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-19",
+      "hora": "15:30"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-15",
+      "hora": "12:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-19",
+      "hora": "11:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-19",
+      "hora": "10:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-14",
+      "hora": "09:50"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-18",
+      "hora": "18:40"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-15",
+      "hora": "10:20"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-18",
+      "hora": "13:00"
+    },
+    {
+      "centro": "MEDICO",
+      "esp": "MEDICO",
+      "prof": "Medico",
+      "fecha": "2026-05-15",
+      "hora": "15:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA NIÑOS",
+      "esp": "TRAUMATOLOGIA NIÑOS",
+      "prof": "Traumatologia Niños",
+      "fecha": "2026-05-19",
+      "hora": "11:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "esp": "TRAUMATOLOGIA DEL DEPORTE",
+      "prof": "Traumatologia Del Deporte",
+      "fecha": "2026-05-14",
+      "hora": "09:50"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "esp": "TRAUMATOLOGIA DEL DEPORTE",
+      "prof": "Traumatologia Del Deporte",
+      "fecha": "2026-05-18",
+      "hora": "18:40"
+    },
+    {
+      "centro": "TRAUMATOLOGIA INFANTO JUVENIL",
+      "esp": "TRAUMATOLOGIA INFANTO JUVENIL",
+      "prof": "Traumatologia Infanto Juvenil",
+      "fecha": "2026-05-14",
+      "hora": "09:50"
+    },
+    {
+      "centro": "CARDIOLOGIA PEDIATRICA",
+      "esp": "CARDIOLOGIA PEDIATRICA",
+      "prof": "Cardiologia Pediatrica",
+      "fecha": "2026-05-21",
+      "hora": "16:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "prof": "Traumatologia Muñeca Y Mano",
+      "fecha": "2026-05-19",
+      "hora": "13:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "prof": "Traumatologia Muñeca Y Mano",
+      "fecha": "2026-06-05",
+      "hora": "17:45"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-19",
+      "hora": "09:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-18",
+      "hora": "10:40"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-19",
+      "hora": "18:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-13",
+      "hora": "19:10"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-06-12",
+      "hora": "08:30"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-18",
+      "hora": "14:20"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-06-12",
+      "hora": "08:30"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-05-28",
+      "hora": "10:45"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-06-01",
+      "hora": "14:00"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-20",
+      "hora": "08:15"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-14",
+      "hora": "13:45"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-15",
+      "hora": "11:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-19",
+      "hora": "15:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-15",
+      "hora": "16:15"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-21",
+      "hora": "09:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "esp": "TRAUMATOLOGIA DE RODILLA",
+      "prof": "Traumatologia De Rodilla",
+      "fecha": "2026-05-15",
+      "hora": "11:10"
+    },
+    {
+      "centro": "ENFERMEDADES DE LA NUTRICION",
+      "esp": "ENFERMEDADES DE LA NUTRICION",
+      "prof": "Enfermedades De La Nutricion",
+      "fecha": "2026-06-01",
+      "hora": "14:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA NIÑOS",
+      "esp": "TRAUMATOLOGIA NIÑOS",
+      "prof": "Traumatologia Niños",
+      "fecha": "2026-05-19",
+      "hora": "15:10"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "esp": "TRAUMATOLOGIA DEL DEPORTE",
+      "prof": "Traumatologia Del Deporte",
+      "fecha": "2026-05-15",
+      "hora": "16:15"
+    },
+    {
+      "centro": "CIRUGIA OFTALMOLOGICA",
+      "esp": "CIRUGIA OFTALMOLOGICA",
+      "prof": "Cirugia Oftalmologica",
+      "fecha": "2026-05-14",
+      "hora": "17:30"
+    },
+    {
+      "centro": "CIRUGIA OFTALMOLOGICA",
+      "esp": "CIRUGIA OFTALMOLOGICA",
+      "prof": "Cirugia Oftalmologica",
+      "fecha": "2026-05-21",
+      "hora": "08:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-14",
+      "hora": "17:30"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-14",
+      "hora": "09:30"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-21",
+      "hora": "08:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-14",
+      "hora": "16:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-06-05",
+      "hora": "16:50"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-14",
+      "hora": "15:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-18",
+      "hora": "09:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-21",
+      "hora": "09:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-13",
+      "hora": "18:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-14",
+      "hora": "10:10"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-29",
+      "hora": "14:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-18",
+      "hora": "11:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-13",
+      "hora": "13:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-13",
+      "hora": "12:45"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-19",
+      "hora": "09:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-13",
+      "hora": "13:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-18",
+      "hora": "16:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-14",
+      "hora": "16:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-06-03",
+      "hora": "12:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-15",
+      "hora": "15:30"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-18",
+      "hora": "13:10"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-14",
+      "hora": "16:50"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-16",
+      "hora": "10:30"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-20",
+      "hora": "08:30"
+    },
+    {
+      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "prof": "Oftalmologia (solo Adultos)",
+      "fecha": "2026-05-22",
+      "hora": "16:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "fecha": "2026-05-28",
+      "hora": "08:40"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "fecha": "2026-05-29",
+      "hora": "11:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "fecha": "2026-06-03",
+      "hora": "08:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "fecha": "2026-05-29",
+      "hora": "14:15"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "fecha": "2026-06-03",
+      "hora": "12:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (5-16 Años)",
+      "fecha": "2026-05-14",
+      "hora": "16:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "esp": "OFTALMOLOGIA QUIRURGICA",
+      "prof": "Oftalmologia Quirurgica",
+      "fecha": "2026-05-14",
+      "hora": "17:30"
+    },
+    {
+      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "esp": "OFTALMOLOGIA QUIRURGICA",
+      "prof": "Oftalmologia Quirurgica",
+      "fecha": "2026-05-21",
+      "hora": "08:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "esp": "OFTALMOLOGIA QUIRURGICA",
+      "prof": "Oftalmologia Quirurgica",
+      "fecha": "2026-06-05",
+      "hora": "16:50"
+    },
+    {
+      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "esp": "OFTALMOLOGIA QUIRURGICA",
+      "prof": "Oftalmologia Quirurgica",
+      "fecha": "2026-05-13",
+      "hora": "12:45"
+    },
+    {
+      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "esp": "OFTALMOLOGIA QUIRURGICA",
+      "prof": "Oftalmologia Quirurgica",
+      "fecha": "2026-05-18",
+      "hora": "16:00"
+    },
+    {
+      "centro": "ORTOPTISTA",
+      "esp": "ORTOPTISTA",
+      "prof": "Ortoptista",
+      "fecha": "2026-05-13",
+      "hora": "17:15"
+    },
+    {
+      "centro": "ORTOPTISTA",
+      "esp": "ORTOPTISTA",
+      "prof": "Ortoptista",
+      "fecha": "2026-05-19",
+      "hora": "14:45"
+    },
+    {
+      "centro": "ALERGIA OCULAR",
+      "esp": "ALERGIA OCULAR",
+      "prof": "Alergia Ocular",
+      "fecha": "2026-05-18",
+      "hora": "08:00"
+    },
+    {
+      "centro": "OFTAMOLOGIA CIRUGIA DE RETINA",
+      "esp": "OFTAMOLOGIA CIRUGIA DE RETINA",
+      "prof": "Oftamologia Cirugia De Retina",
+      "fecha": "2026-06-05",
+      "hora": "16:50"
+    },
+    {
+      "centro": "OFTAMOLOGIA CIRUGIA DE RETINA",
+      "esp": "OFTAMOLOGIA CIRUGIA DE RETINA",
+      "prof": "Oftamologia Cirugia De Retina",
+      "fecha": "2026-05-13",
+      "hora": "12:45"
+    },
+    {
+      "centro": "OFTALMOLOGIA PATOLOGIA DE LA CORNEA",
+      "esp": "OFTALMOLOGIA PATOLOGIA DE LA CORNEA",
+      "prof": "Oftalmologia Patologia De La Cornea",
+      "fecha": "2026-05-18",
+      "hora": "12:45"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-19",
+      "hora": "09:45"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "19:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-19",
+      "hora": "16:30"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-19",
+      "hora": "14:15"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-18",
+      "hora": "09:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-18",
+      "hora": "14:40"
+    },
+    {
+      "centro": "CIRUGiA GINECOLOGICA",
+      "esp": "CIRUGIA GINECOLOGICA",
+      "prof": "Cirugia Ginecologica",
+      "fecha": "2026-05-19",
+      "hora": "10:30"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-12",
+      "hora": "09:00"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-10",
+      "hora": "14:50"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-14",
+      "hora": "08:30"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-13",
+      "hora": "13:30"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-20",
+      "hora": "09:45"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-06-04",
+      "hora": "16:45"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-14",
+      "hora": "08:30"
+    },
+    {
+      "centro": "GASTROENTEROLOGIA",
+      "esp": "GASTROENTEROLOGIA",
+      "prof": "Gastroenterologia",
+      "fecha": "2026-05-18",
+      "hora": "13:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-09",
+      "hora": "12:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "08:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-18",
+      "hora": "13:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-12",
+      "hora": "08:40"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-22",
+      "hora": "14:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-19",
+      "hora": "10:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-02",
+      "hora": "14:30"
+    },
+    {
+      "centro": "NEFROLOGIA INFANTIL",
+      "esp": "NEFROLOGIA INFANTIL",
+      "prof": "Nefrologia Infantil",
+      "fecha": "2026-05-26",
+      "hora": "12:00"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-20",
+      "hora": "08:50"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-21",
+      "hora": "13:50"
+    },
+    {
+      "centro": "OBSTETRICIA",
+      "esp": "OBSTETRICIA",
+      "prof": "Obstetricia",
+      "fecha": "2026-05-18",
+      "hora": "15:40"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-06-12",
+      "hora": "14:00"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "fecha": "2026-05-20",
+      "hora": "15:50"
+    },
+    {
+      "centro": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "esp": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "prof": "Oftalmologia Pediatrica (5-16 Años)",
+      "fecha": "2026-05-15",
+      "hora": "09:10"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-14",
+      "hora": "14:30"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-19",
+      "hora": "16:45"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-06-04",
+      "hora": "08:30"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-15",
+      "hora": "09:15"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-19",
+      "hora": "09:45"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-13",
+      "hora": "16:15"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-19",
+      "hora": "15:00"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-13",
+      "hora": "17:30"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-06-04",
+      "hora": "10:45"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-16",
+      "hora": "10:15"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-14",
+      "hora": "11:30"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-15",
+      "hora": "08:45"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-18",
+      "hora": "09:45"
+    },
+    {
+      "centro": "PROCTOLOGIA",
+      "esp": "PROCTOLOGIA",
+      "prof": "Proctologia",
+      "fecha": "2026-05-19",
+      "hora": "18:30"
+    },
+    {
+      "centro": "SOBREPESO Y OBESIDAD",
+      "esp": "SOBREPESO Y OBESIDAD",
+      "prof": "Sobrepeso Y Obesidad",
+      "fecha": "2026-05-21",
+      "hora": "13:50"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-13",
+      "hora": "14:10"
+    },
+    {
+      "centro": "NEUMONOLOGIA PEDIATRICA",
+      "esp": "NEUMONOLOGIA PEDIATRICA",
+      "prof": "Neumonologia Pediatrica",
+      "fecha": "2026-05-18",
+      "hora": "08:15"
+    },
+    {
+      "centro": "MEDICO",
+      "esp": "MEDICO",
+      "prof": "Medico",
+      "fecha": "2026-05-14",
+      "hora": "19:00"
+    },
+    {
+      "centro": "NUTRICION PEDIATRICA",
+      "esp": "NUTRICION PEDIATRICA",
+      "prof": "Nutricion Pediatrica",
+      "fecha": "2026-05-14",
+      "hora": "12:00"
+    },
+    {
+      "centro": "NUTRICION PEDIATRICA",
+      "esp": "NUTRICION PEDIATRICA",
+      "prof": "Nutricion Pediatrica",
+      "fecha": "2026-05-15",
+      "hora": "17:30"
+    },
+    {
+      "centro": "DERMATOLOGIA PEDIATRICA",
+      "esp": "DERMATOLOGIA PEDIATRICA",
+      "prof": "Dermatologia Pediatrica",
+      "fecha": "2026-06-11",
+      "hora": "13:00"
+    },
+    {
+      "centro": "DERMATOLOGIA PEDIATRICA",
+      "esp": "DERMATOLOGIA PEDIATRICA",
+      "prof": "Dermatologia Pediatrica",
+      "fecha": "2026-05-19",
+      "hora": "14:00"
+    },
+    {
+      "centro": "UROLOGIA PEDIATRICA",
+      "esp": "UROLOGIA PEDIATRICA",
+      "prof": "Urologia Pediatrica",
+      "fecha": "2026-05-26",
+      "hora": "16:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-18",
+      "hora": "16:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-16",
+      "hora": "11:10"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-21",
+      "hora": "09:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-19",
+      "hora": "09:15"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-06-05",
+      "hora": "12:45"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-21",
+      "hora": "08:15"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-13",
+      "hora": "12:15"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "08:40"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "08:40"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-13",
+      "hora": "17:30"
+    },
+    {
+      "centro": "DEPORTOLOGIA",
+      "esp": "DEPORTOLOGIA",
+      "prof": "Deportologia",
+      "fecha": "2026-05-18",
+      "hora": "14:00"
+    },
+    {
+      "centro": "DEPORTOLOGIA",
+      "esp": "DEPORTOLOGIA",
+      "prof": "Deportologia",
+      "fecha": "2026-05-13",
+      "hora": "16:50"
+    },
+    {
+      "centro": "DEPORTOLOGIA",
+      "esp": "DEPORTOLOGIA",
+      "prof": "Deportologia",
+      "fecha": "2026-05-14",
+      "hora": "12:30"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-06-03",
+      "hora": "11:15"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-14",
+      "hora": "16:00"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-19",
+      "hora": "13:20"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-21",
+      "hora": "14:30"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-22",
+      "hora": "17:00"
+    },
+    {
+      "centro": "PEDIATRIA",
+      "esp": "PEDIATRIA",
+      "prof": "Pediatria",
+      "fecha": "2026-05-13",
+      "hora": "14:15"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-14",
+      "hora": "17:15"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-14",
+      "hora": "08:40"
+    },
+    {
+      "centro": "SIN ESPECIALIDAD",
+      "esp": "SIN ESPECIALIDAD",
+      "prof": "Sin Especialidad",
+      "fecha": "2026-05-16",
+      "hora": "08:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-18",
+      "hora": "08:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-15",
+      "hora": "09:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-15",
+      "hora": "15:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-14",
+      "hora": "16:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA GENERAL",
+      "esp": "TRAUMATOLOGIA GENERAL",
+      "prof": "Traumatologia General",
+      "fecha": "2026-05-18",
+      "hora": "16:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "esp": "TRAUMATOLOGIA DE RODILLA",
+      "prof": "Traumatologia De Rodilla",
+      "fecha": "2026-05-15",
+      "hora": "14:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "esp": "TRAUMATOLOGIA DE RODILLA",
+      "prof": "Traumatologia De Rodilla",
+      "fecha": "2026-05-18",
+      "hora": "08:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "esp": "TRAUMATOLOGIA DE HOMBRO",
+      "prof": "Traumatologia De Hombro",
+      "fecha": "2026-05-18",
+      "hora": "08:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "esp": "TRAUMATOLOGIA DEL DEPORTE",
+      "prof": "Traumatologia Del Deporte",
+      "fecha": "2026-05-15",
+      "hora": "14:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "esp": "TRAUMATOLOGIA DEL DEPORTE",
+      "prof": "Traumatologia Del Deporte",
+      "fecha": "2026-05-15",
+      "hora": "09:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA INFANTO JUVENIL",
+      "esp": "TRAUMATOLOGIA INFANTO JUVENIL",
+      "prof": "Traumatologia Infanto Juvenil",
+      "fecha": "2026-05-15",
+      "hora": "09:30"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "esp": "TRAUMATOLOGIA DE TOBILLO",
+      "prof": "Traumatologia De Tobillo",
+      "fecha": "2026-05-14",
+      "hora": "16:00"
+    },
+    {
+      "centro": "TRAUMATOLOGIA DE COLUMNA",
+      "esp": "TRAUMATOLOGIA DE COLUMNA",
+      "prof": "Traumatologia De Columna",
+      "fecha": "2026-06-01",
+      "hora": "08:10"
+    },
+    {
+      "centro": "CARDIOLOGIA PEDIATRICA",
+      "esp": "CARDIOLOGIA PEDIATRICA",
+      "prof": "Cardiologia Pediatrica",
+      "fecha": "2026-05-19",
+      "hora": "09:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-13",
+      "hora": "18:20"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-12",
+      "hora": "08:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-20",
+      "hora": "11:15"
+    },
+    {
+      "centro": "NEFROLOGIA",
+      "esp": "NEFROLOGIA",
+      "prof": "Nefrologia",
+      "fecha": "2026-05-13",
+      "hora": "15:50"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-18",
+      "hora": "14:20"
+    },
+    {
+      "centro": "ONCOLOGIA CLINICA",
+      "esp": "ONCOLOGIA CLINICA",
+      "prof": "Oncologia Clinica",
+      "fecha": "2026-06-05",
+      "hora": "10:40"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-18",
+      "hora": "12:15"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-14",
+      "hora": "09:00"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-27",
+      "hora": "08:00"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-27",
+      "hora": "14:30"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-06-01",
+      "hora": "16:20"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-06-11",
+      "hora": "09:15"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-28",
+      "hora": "15:00"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-26",
+      "hora": "15:30"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-15",
+      "hora": "15:30"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-21",
+      "hora": "12:45"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-21",
+      "hora": "17:15"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-26",
+      "hora": "08:40"
+    },
+    {
+      "centro": "UROLOGIA",
+      "esp": "UROLOGIA",
+      "prof": "Urologia",
+      "fecha": "2026-05-15",
+      "hora": "09:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-26",
+      "hora": "10:15"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-14",
+      "hora": "17:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-13",
+      "hora": "16:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-14",
+      "hora": "09:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-20",
+      "hora": "17:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-06-04",
+      "hora": "12:15"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-14",
+      "hora": "18:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-18",
+      "hora": "08:45"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-19",
+      "hora": "14:45"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-20",
+      "hora": "09:45"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-22",
+      "hora": "13:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-18",
+      "hora": "13:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-18",
+      "hora": "17:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-15",
+      "hora": "10:45"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-15",
+      "hora": "11:45"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-06-02",
+      "hora": "10:20"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-15",
+      "hora": "14:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-18",
+      "hora": "16:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-06-02",
+      "hora": "15:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-06-02",
+      "hora": "12:15"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-14",
+      "hora": "16:45"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-14",
+      "hora": "15:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-14",
+      "hora": "18:00"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-15",
+      "hora": "13:45"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-13",
+      "hora": "17:20"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-22",
+      "hora": "12:20"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-20",
+      "hora": "12:00"
+    },
+    {
+      "centro": "CIRUGIA CARDIOVASCULAR",
+      "esp": "CIRUGIA CARDIOVASCULAR",
+      "prof": "Cirugia Cardiovascular",
+      "fecha": "2026-05-13",
+      "hora": "14:00"
+    },
+    {
+      "centro": "CIRUGIA CARDIOVASCULAR",
+      "esp": "CIRUGIA CARDIOVASCULAR",
+      "prof": "Cirugia Cardiovascular",
+      "fecha": "2026-05-13",
+      "hora": "12:30"
+    },
+    {
+      "centro": "CIRUGIA CARDIOVASCULAR",
+      "esp": "CIRUGIA CARDIOVASCULAR",
+      "prof": "Cirugia Cardiovascular",
+      "fecha": "2026-05-18",
+      "hora": "15:50"
+    },
+    {
+      "centro": "CIRUGIA TORAXICA",
+      "esp": "CIRUGIA TORAXICA",
+      "prof": "Cirugia Toraxica",
+      "fecha": "2026-05-13",
+      "hora": "14:00"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-15",
+      "hora": "16:00"
+    },
+    {
+      "centro": "CARDIOLOGIA-ELECTROFISIOLOGIA",
+      "esp": "CARDIOLOGIA-ELECTROFISIOLOGIA",
+      "prof": "Cardiologia-electrofisiologia",
+      "fecha": "2026-05-26",
+      "hora": "10:15"
+    },
+    {
+      "centro": "ALERGIA GENERAL",
+      "esp": "ALERGIA GENERAL",
+      "prof": "Alergia General",
+      "fecha": "2026-05-29",
+      "hora": "09:00"
+    },
+    {
+      "centro": "ALERGIA GENERAL",
+      "esp": "ALERGIA GENERAL",
+      "prof": "Alergia General",
+      "fecha": "2026-05-13",
+      "hora": "12:40"
+    },
+    {
+      "centro": "ALERGIA GENERAL",
+      "esp": "ALERGIA GENERAL",
+      "prof": "Alergia General",
+      "fecha": "2026-05-13",
+      "hora": "17:30"
+    },
+    {
+      "centro": "ALERGIA INFANTIL",
+      "esp": "ALERGIA INFANTIL",
+      "prof": "Alergia Infantil",
+      "fecha": "2026-05-13",
+      "hora": "17:30"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-18",
+      "hora": "11:20"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-15",
+      "hora": "11:40"
+    },
+    {
+      "centro": "CARDIOLOGIA",
+      "esp": "CARDIOLOGIA",
+      "prof": "Cardiologia",
+      "fecha": "2026-05-21",
+      "hora": "14:45"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-05-14",
+      "hora": "15:15"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-05-15",
+      "hora": "09:40"
+    },
+    {
+      "centro": "CIRUGIA PLASTICA",
+      "esp": "CIRUGIA PLASTICA",
+      "prof": "Cirugia Plastica",
+      "fecha": "2026-05-14",
+      "hora": "09:10"
+    },
+    {
+      "centro": "CIRUGIA GENERAL",
+      "esp": "CIRUGIA GENERAL",
+      "prof": "Cirugia General",
+      "fecha": "2026-05-15",
+      "hora": "13:40"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "09:30"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-14",
+      "hora": "12:45"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-18",
+      "hora": "08:15"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-05-18",
+      "hora": "10:00"
+    },
+    {
+      "centro": "CLINICA MEDICA",
+      "esp": "CLINICA MEDICA",
+      "prof": "Clinica Medica",
+      "fecha": "2026-06-03",
+      "hora": "19:00"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-18",
+      "hora": "14:15"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-13",
+      "hora": "13:45"
+    },
+    {
+      "centro": "DERMATOLOGIA ADULTOS",
+      "esp": "DERMATOLOGIA ADULTOS",
+      "prof": "Dermatologia Adultos",
+      "fecha": "2026-05-14",
+      "hora": "08:30"
+    },
+    {
+      "centro": "DIABETOLOGIA",
+      "esp": "DIABETOLOGIA",
+      "prof": "Diabetologia",
+      "fecha": "2026-06-02",
+      "hora": "11:00"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-06-02",
+      "hora": "11:00"
+    },
+    {
+      "centro": "ENDOCRINOLOGIA",
+      "esp": "ENDOCRINOLOGIA",
+      "prof": "Endocrinologia",
+      "fecha": "2026-05-28",
+      "hora": "10:20"
+    },
+    {
+      "centro": "FLEBOLOGIA",
+      "esp": "FLEBOLOGIA",
+      "prof": "Flebologia",
+      "fecha": "2026-05-19",
+      "hora": "16:50"
+    },
+    {
+      "centro": "GASTROENTEROLOGIA",
+      "esp": "GASTROENTEROLOGIA",
+      "prof": "Gastroenterologia",
+      "fecha": "2026-05-14",
+      "hora": "08:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "18:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "10:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-19",
+      "hora": "10:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-12",
+      "hora": "14:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "12:40"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-21",
+      "hora": "14:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-29",
+      "hora": "08:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-14",
+      "hora": "08:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-19",
+      "hora": "08:00"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-09",
+      "hora": "10:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-18",
+      "hora": "10:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-22",
+      "hora": "10:20"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "17:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-19",
+      "hora": "17:10"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-09",
+      "hora": "15:30"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-18",
+      "hora": "15:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-06-08",
+      "hora": "12:45"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-20",
+      "hora": "08:15"
+    },
+    {
+      "centro": "GINECOLOGIA CLINICA",
+      "esp": "GINECOLOGIA CLINICA",
+      "prof": "Ginecologia Clinica",
+      "fecha": "2026-05-13",
+      "hora": "12:40"
+    },
+    {
+      "centro": "INFECTOLOGIA",
+      "esp": "INFECTOLOGIA",
+      "prof": "Infectologia",
+      "fecha": "2026-05-18",
+      "hora": "08:15"
+    },
+    {
+      "centro": "GINECOLOGÍA PEDIÁTRICA",
+      "esp": "GINECOLOGÍA PEDIÁTRICA",
+      "prof": "Ginecología Pediátrica",
+      "fecha": "2026-06-09",
+      "hora": "10:45"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-14",
+      "hora": "19:15"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-19",
+      "hora": "12:30"
+    },
+    {
+      "centro": "NEUMONOLOGIA",
+      "esp": "NEUMONOLOGIA",
+      "prof": "Neumonologia",
+      "fecha": "2026-05-13",
+      "hora": "14:20"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-13",
+      "hora": "12:30"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-14",
+      "hora": "12:45"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-06-01",
+      "hora": "12:30"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-14",
+      "hora": "09:35"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-13",
+      "hora": "12:15"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-18",
+      "hora": "17:45"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-05-14",
+      "hora": "15:15"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-06-02",
+      "hora": "08:45"
+    },
+    {
+      "centro": "NUTRICION",
+      "esp": "NUTRICION",
+      "prof": "Nutricion",
+      "fecha": "2026-06-09",
+      "hora": "13:30"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-18",
+      "hora": "15:30"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-13",
+      "hora": "18:40"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-15",
+      "hora": "15:40"
+    },
+    {
+      "centro": "HEMATOLOGIA GENERAL",
+      "esp": "HEMATOLOGIA GENERAL",
+      "prof": "Hematologia General",
+      "fecha": "2026-05-14",
+      "hora": "19:00"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "prof": "Otorrinolaringologia Clinica Adulto",
+      "fecha": "2026-05-27",
+      "hora": "16:45"
+    },
+    {
+      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "prof": "Otorrinolaringologia Quirurgica",
+      "fecha": "2026-05-27",
+      "hora": "16:45"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-13",
+      "hora": "16:15"
+    },
+    {
+      "centro": "REUMATOLOGIA",
+      "esp": "REUMATOLOGIA",
+      "prof": "Reumatologia",
+      "fecha": "2026-05-13",
+      "hora": "19:25"
+    },
+    {
+      "centro": "OTOLOGÍA(CLÍNICA Y CIRUGÍA DE OÍDO)",
+      "esp": "OTOLOGÍA(CLÍNICA Y CIRUGÍA DE OÍDO)",
+      "prof": "Otología(clínica Y Cirugía De Oído)",
+      "fecha": "2026-05-27",
+      "hora": "16:45"
+    },
+    {
+      "centro": "SEXOLOGIA",
+      "esp": "SEXOLOGIA",
+      "prof": "Sexologia",
+      "fecha": "2026-05-20",
+      "hora": "08:15"
+    }
+  ]
+}
