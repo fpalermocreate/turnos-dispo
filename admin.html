@@ -33,7 +33,6 @@ input:focus{border-color:var(--azul)}
 table{width:100%;border-collapse:collapse;font-size:12px}
 th{background:var(--gris-light);padding:7px 10px;text-align:left;position:sticky;top:0;font-weight:500}
 td{padding:6px 10px;border-top:1px solid var(--border)}
-.divider{border:none;border-top:1px solid var(--border);margin:22px 0}
 .back{font-size:13px;color:var(--gris);text-decoration:none;display:inline-block;margin-bottom:20px}
 .back:hover{color:var(--text)}
 .top-bar{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:4px}
@@ -63,7 +62,6 @@ a{color:var(--azul)}
     <div><h1>Actualizar turnos</h1><p class="sub" id="panel-user"></p></div>
     <button class="btn btn-secondary" onclick="doLogout()">Salir</button>
   </div>
-
   <div class="drop-area" id="drop-area" onclick="document.getElementById('file-input').click()">
     <strong>Arrastrá el Excel acá</strong>
     <p>o hacé click para seleccionar</p>
@@ -96,19 +94,14 @@ a{color:var(--azul)}
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <script>
-const ADMINS = [
-  {user:'admin', passHash:'240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9'},
-];
+const ADMINS=[{user:'admin',passHash:'240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9'}];
 
 async function sha256(msg){
   const buf=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(msg));
   return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');
 }
-
-let currentUser=null;
-let parsedData=null;
-
-function showMsg(id,text,type){const el=document.getElementById(id);el.textContent=text;el.className='msg msg-'+type;el.style.display='block';}
+let currentUser=null,parsedData=null;
+function showMsg(id,t,type){const el=document.getElementById(id);el.textContent=t;el.className='msg msg-'+type;el.style.display='block';}
 function hideMsg(id){document.getElementById(id).style.display='none';}
 
 async function doLogin(){
@@ -118,11 +111,8 @@ async function doLogin(){
   const hash=await sha256(pass);
   const found=ADMINS.find(u=>u.user===user&&u.passHash===hash);
   if(!found){showMsg('login-msg','Usuario o contraseña incorrectos.','err');return;}
-  currentUser=user;
-  sessionStorage.setItem('admin_user',user);
-  showPanel();
+  currentUser=user;sessionStorage.setItem('admin_user',user);showPanel();
 }
-
 function showPanel(){
   document.getElementById('section-login').style.display='none';
   document.getElementById('section-panel').style.display='block';
@@ -130,7 +120,6 @@ function showPanel(){
   document.getElementById('panel-user').textContent='Sesión como '+currentUser;
   loadConfig();
 }
-
 function doLogout(){
   sessionStorage.removeItem('admin_user');
   document.getElementById('section-panel').style.display='none';
@@ -142,10 +131,10 @@ function doLogout(){
 const drop=document.getElementById('drop-area');
 drop.addEventListener('dragover',e=>{e.preventDefault();drop.classList.add('over');});
 drop.addEventListener('dragleave',()=>drop.classList.remove('over'));
-drop.addEventListener('drop',e=>{e.preventDefault();drop.classList.remove('over');const f=e.dataTransfer.files[0];if(f)handleFile(f);});
+drop.addEventListener('drop',e=>{e.preventDefault();drop.classList.remove('over');if(e.dataTransfer.files[0])handleFile(e.dataTransfer.files[0]);});
 
 function handleFile(file){
-  if(!file) return;
+  if(!file)return;
   document.getElementById('file-info').textContent='Procesando '+file.name+'...';
   document.getElementById('preview-wrap').style.display='none';
   document.getElementById('publish-section').style.display='none';
@@ -156,158 +145,126 @@ function handleFile(file){
       const ws=wb.Sheets[wb.SheetNames[0]];
       const rows=XLSX.utils.sheet_to_json(ws,{header:1,defval:''});
       parsedData=parseRows(rows);
-      if(parsedData.length===0){
-        document.getElementById('file-info').textContent='No se encontraron turnos. Verificá que el archivo tenga el formato correcto.';
-        return;
-      }
+      if(!parsedData.length){document.getElementById('file-info').textContent='No se encontraron turnos válidos.';return;}
       showPreview(parsedData);
       document.getElementById('file-info').textContent='✓ '+file.name+' — '+parsedData.length+' turnos encontrados';
       document.getElementById('publish-section').style.display='block';
       hideMsg('publish-msg');
-    }catch(err){
-      document.getElementById('file-info').textContent='Error al leer el archivo: '+err.message;
-    }
-  };
-  reader.onerror=function(){
-    document.getElementById('file-info').textContent='Error al abrir el archivo.';
+    }catch(err){document.getElementById('file-info').textContent='Error: '+err.message;}
   };
   reader.readAsArrayBuffer(file);
 }
 
 function parseRows(rows){
-  if(!rows||rows.length===0) return [];
+  if(!rows||!rows.length)return[];
 
-  // Buscar fila de encabezados — busca la que tenga "Especialidad" y "Profesional"
-  var hi=-1;
-  for(var i=0;i<Math.min(20,rows.length);i++){
-    var row=rows[i];
-    if(!row||!row.length) continue;
-    var hayEsp=false, hayProf=false;
-    for(var k=0;k<row.length;k++){
-      var cell=String(row[k]||'').toLowerCase().trim();
-      if(cell.includes('especialidad')) hayEsp=true;
-      if(cell.includes('profesional')) hayProf=true;
+  // Buscar la fila que tenga AMBAS: "especialidad" Y "profesional"
+  let hi=-1;
+  for(let i=0;i<Math.min(20,rows.length);i++){
+    const row=rows[i];
+    if(!row||!row.length)continue;
+    let hayEsp=false,hayProf=false;
+    for(let k=0;k<row.length;k++){
+      const c=String(row[k]||'').toLowerCase().trim();
+      if(c.includes('especialidad'))hayEsp=true;
+      if(c.includes('profesional'))hayProf=true;
     }
     if(hayEsp&&hayProf){hi=i;break;}
   }
-  // Si no encontró fila con ambas, buscar solo "especialidad"
-  if(hi===-1){
-    for(var i=0;i<Math.min(20,rows.length);i++){
-      var row=rows[i];
-      if(!row||!row.length) continue;
-      for(var k=0;k<row.length;k++){
-        if(String(row[k]||'').toLowerCase().includes('especialidad')){hi=i;break;}
-      }
-      if(hi!==-1) break;
-    }
-  }
-  if(hi===-1) hi=0;
-
-  var h=rows[hi].map(function(c){return String(c||'').toLowerCase().trim();});
+  if(hi===-1)return[];
 
   // Mapear columnas por nombre
-  var ci=-1,ei=-1,pi=-1,fi=-1,oi=-1;
-  for(var k=0;k<h.length;k++){
-    if(ci===-1&&(h[k].includes('lugar')||h[k].includes('centro'))) ci=k;
-    if(ei===-1&&h[k].includes('especialidad')) ei=k;
-    if(pi===-1&&h[k].includes('profesional')) pi=k;
-    if(fi===-1&&h[k].includes('fecha')) fi=k;
-    if(oi===-1&&h[k].includes('hora')) oi=k;
+  const h=rows[hi].map(c=>String(c||'').toLowerCase().trim());
+  let ci=-1,ei=-1,pi=-1,fi=-1,oi=-1;
+  for(let k=0;k<h.length;k++){
+    const col=h[k];
+    if(ci===-1&&(col.includes('lugar')||col.includes('atenci')))ci=k;
+    if(ei===-1&&col.includes('especialidad'))ei=k;
+    if(pi===-1&&col.includes('profesional'))pi=k;
+    if(fi===-1&&col.includes('fecha'))fi=k;
+    if(oi===-1&&col.includes('hora'))oi=k;
   }
+  // Fallback: A=lugar(0), B=especialidad(1), C=profesional(2), D=cod(3), E=fecha(4), F=hora(5)
+  if(ci===-1)ci=0;
+  if(ei===-1)ei=1;
+  if(pi===-1)pi=2;
+  if(fi===-1)fi=4;
+  if(oi===-1)oi=5;
 
-  // Fallback a posiciones fijas del informe estándar (col A=lugar, col B=especialidad, col C=profesional, col D=cod, col E=fecha, col F=hora)
-  if(ci===-1) ci=0;
-  if(ei===-1) ei=1;
-  if(pi===-1) pi=2;
-  if(fi===-1) fi=4;
-  if(oi===-1) oi=5;
-
-  var t=[];
-  // Saltear filas vacías después del encabezado
-  for(var i=hi+1;i<rows.length;i++){
-    var r=rows[i];
-    if(!r||r.length===0) continue;
-
-    var centro=String(r[ci]||'').trim();
-    var esp=String(r[ei]||'').trim();
-    if(!centro&&!esp) continue; // fila vacía
-    if(!esp) continue;
-
-    var prof=(r[pi]!=null&&r[pi]!=='')?toTC(String(r[pi]).trim()):'';
-    var hora=(r[oi]!=null&&r[oi]!=='')?String(r[oi]).trim():'';
-
-    var fecha='';
-    if(r[fi]!=null&&r[fi]!==''){
-      var raw=r[fi];
-      try{
-        if(raw instanceof Date){
-          fecha=raw.toISOString().split('T')[0];
-        } else if(typeof raw==='number'&&raw>1){
-          var d=new Date(Math.round((raw-25569)*86400*1000));
-          fecha=d.toISOString().split('T')[0];
-        } else {
-          var s=String(raw).trim();
-          // formato dd/mm/yyyy
-          var m=s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
-          if(m) fecha=m[3]+'-'+m[2].padStart(2,'0')+'-'+m[1].padStart(2,'0');
-          else {
-            var d2=new Date(s);
-            if(!isNaN(d2)) fecha=d2.toISOString().split('T')[0];
-            else fecha=s.substring(0,10);
-          }
-        }
-      }catch(ex){fecha='';}
-    }
-
-    if(centro&&esp&&fecha){
-      t.push({centro:centro,esp:esp.toUpperCase(),prof:prof,fecha:fecha,hora:hora});
-    }
+  const t=[];
+  for(let i=hi+1;i<rows.length;i++){
+    const r=rows[i];
+    if(!r||!r.length)continue;
+    const centro=String(r[ci]||'').trim();
+    const esp=String(r[ei]||'').trim();
+    // Saltar filas vacías — requiere al menos centro Y especialidad
+    if(!centro||!esp)continue;
+    const prof=String(r[pi]||'').trim()?toTC(String(r[pi]).trim()):'';
+    const hora=String(r[oi]||'').trim();
+    const fecha=parseFecha(r[fi]);
+    if(fecha)t.push({centro,esp:esp.toUpperCase(),prof,fecha,hora});
   }
   return t;
 }
 
-function toTC(s){
-  return s.toLowerCase().replace(/(?:^|\s)\S/g,function(c){return c.toUpperCase();});
+function parseFecha(raw){
+  if(raw===null||raw===undefined||raw==='')return'';
+  try{
+    if(raw instanceof Date){return fmt(raw);}
+    if(typeof raw==='number'&&raw>1){
+      // Serial Excel — ajustar zona horaria usando UTC
+      return fmt(new Date(Math.round((raw-25569)*86400*1000)));
+    }
+    const s=String(raw).trim();
+    // dd/mm/yyyy
+    const m=s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+    if(m)return m[3]+'-'+m[2].padStart(2,'0')+'-'+m[1].padStart(2,'0');
+    const d=new Date(s);
+    if(!isNaN(d))return fmt(d);
+  }catch(e){}
+  return'';
 }
+function fmt(d){
+  return d.getUTCFullYear()+'-'+String(d.getUTCMonth()+1).padStart(2,'0')+'-'+String(d.getUTCDate()).padStart(2,'0');
+}
+function toTC(s){return s.toLowerCase().replace(/(?:^|\s)\S/g,c=>c.toUpperCase());}
 
 function showPreview(data){
   document.getElementById('preview-head').innerHTML='<tr><th>Centro</th><th>Especialidad</th><th>Profesional</th><th>Fecha</th><th>Hora</th></tr>';
-  document.getElementById('preview-body').innerHTML=data.slice(0,10).map(function(r){
-    return '<tr><td>'+r.centro+'</td><td>'+r.esp.charAt(0)+r.esp.slice(1).toLowerCase()+'</td><td>'+r.prof+'</td><td>'+r.fecha+'</td><td>'+r.hora+'</td></tr>';
-  }).join('');
+  document.getElementById('preview-body').innerHTML=data.slice(0,10).map(r=>
+    '<tr><td>'+r.centro+'</td><td>'+r.esp.charAt(0)+r.esp.slice(1).toLowerCase()+'</td><td>'+r.prof+'</td><td>'+r.fecha+'</td><td>'+r.hora+'</td></tr>'
+  ).join('');
   document.getElementById('preview-wrap').style.display='block';
 }
 
 async function publicar(){
-  var token=document.getElementById('gh-token').value.trim();
-  var owner=document.getElementById('gh-owner').value.trim();
-  var repo=document.getElementById('gh-repo').value.trim();
+  const token=document.getElementById('gh-token').value.trim();
+  const owner=document.getElementById('gh-owner').value.trim();
+  const repo=document.getElementById('gh-repo').value.trim();
   if(!token||!owner||!repo){showMsg('publish-msg','Completá la configuración de GitHub.','err');return;}
-  if(!parsedData||!parsedData.length){showMsg('publish-msg','No hay datos para publicar.','err');return;}
+  if(!parsedData||!parsedData.length){showMsg('publish-msg','No hay datos.','err');return;}
   document.getElementById('btn-publish').disabled=true;
   document.getElementById('btn-publish').textContent='Publicando...';
   showMsg('publish-msg','Subiendo a GitHub...','info');
   try{
-    var json={updated:new Date().toISOString(),turnos:parsedData};
-    var content=btoa(unescape(encodeURIComponent(JSON.stringify(json,null,2))));
-    var path='data/turnos.json';
-    var sha='';
-    var gr=await fetch('https://api.github.com/repos/'+owner+'/'+repo+'/contents/'+path,{
+    const json={updated:new Date().toISOString(),turnos:parsedData};
+    const content=btoa(unescape(encodeURIComponent(JSON.stringify(json,null,2))));
+    const path='data/turnos.json';
+    let sha='';
+    const gr=await fetch('https://api.github.com/repos/'+owner+'/'+repo+'/contents/'+path,{
       headers:{Authorization:'token '+token,'Accept':'application/vnd.github.v3+json'}
     });
-    if(gr.ok){var d=await gr.json();sha=d.sha||'';}
-    var body={message:'Actualización de turnos — '+new Date().toLocaleString('es-AR'),content:content,committer:{name:'Admin Turnos',email:'admin@turnos.local'}};
-    if(sha) body.sha=sha;
-    var pr=await fetch('https://api.github.com/repos/'+owner+'/'+repo+'/contents/'+path,{
+    if(gr.ok){const d=await gr.json();sha=d.sha||'';}
+    const body={message:'Actualización de turnos — '+new Date().toLocaleString('es-AR'),content,committer:{name:'Admin Turnos',email:'admin@turnos.local'}};
+    if(sha)body.sha=sha;
+    const pr=await fetch('https://api.github.com/repos/'+owner+'/'+repo+'/contents/'+path,{
       method:'PUT',
       headers:{Authorization:'token '+token,'Accept':'application/vnd.github.v3+json','Content-Type':'application/json'},
       body:JSON.stringify(body)
     });
-    if(!pr.ok){var e=await pr.json();throw new Error(e.message||'Error al publicar');}
-    showMsg('publish-msg','✓ Publicado correctamente. Los cambios se ven en ~1 minuto.','ok');
-  }catch(e){
-    showMsg('publish-msg','Error: '+e.message,'err');
-  }
+    if(!pr.ok){const e=await pr.json();throw new Error(e.message||'Error');}
+    showMsg('publish-msg','✓ Publicado. Los cambios se ven en ~1 minuto.','ok');
+  }catch(e){showMsg('publish-msg','Error: '+e.message,'err');}
   document.getElementById('btn-publish').disabled=false;
   document.getElementById('btn-publish').textContent='Publicar turnos';
 }
@@ -317,7 +274,7 @@ function saveConfig(){
   localStorage.setItem('gh_owner',document.getElementById('gh-owner').value.trim());
   localStorage.setItem('gh_repo',document.getElementById('gh-repo').value.trim());
   showMsg('config-msg','Guardado.','ok');
-  setTimeout(function(){hideMsg('config-msg');},2000);
+  setTimeout(()=>hideMsg('config-msg'),2000);
 }
 function loadConfig(){
   document.getElementById('gh-token').value=localStorage.getItem('gh_token')||'';
@@ -325,12 +282,8 @@ function loadConfig(){
   document.getElementById('gh-repo').value=localStorage.getItem('gh_repo')||'turnos-dispo';
 }
 
-// Auto-login si ya tiene sesión
-var saved=sessionStorage.getItem('admin_user');
-if(saved&&ADMINS.find(function(u){return u.user===saved;})){
-  currentUser=saved;
-  showPanel();
-}
+const saved=sessionStorage.getItem('admin_user');
+if(saved&&ADMINS.find(u=>u.user===saved)){currentUser=saved;showPanel();}
 </script>
 </body>
 </html>
