@@ -1,13 +1,6 @@
 {
-  "updated": "2026-05-13T17:38:24.661Z",
+  "updated": "2026-05-13T18:02:34.643Z",
   "turnos": [
-    {
-      "centro": "Especialidad",
-      "esp": "ESPECIALIDAD",
-      "prof": "Especialidad",
-      "fecha": "Fecha",
-      "hora": "Hora"
-    },
     {
       "centro": "ANESTESIOLOGIA",
       "esp": "ANESTESIOLOGIA",
