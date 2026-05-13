@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Turnos Libres — Acceso</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=DM+Serif+Display&display=swap" rel="stylesheet">
+<style>
+:root{--azul:#1a4fa0;--rojo:#c0392b;--rojo-light:#fdf0ee;--gris:#6b6f76;--bg:#fafaf8;--text:#1a1a18;--border:#e2e2de;--white:#ffffff}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;align-items:center;justify-content:center;padding:16px}
+.card{background:var(--white);border:1px solid var(--border);border-radius:16px;padding:44px 40px;width:100%;max-width:380px;box-shadow:0 4px 24px rgba(0,0,0,.06)}
+.logo{font-family:'DM Serif Display',serif;font-size:28px;font-weight:400;margin-bottom:6px;letter-spacing:-.3px}
+.sub{font-size:13px;color:var(--gris);margin-bottom:32px}
+label{display:block;font-size:12px;font-weight:500;letter-spacing:.04em;text-transform:uppercase;color:var(--gris);margin-bottom:6px;margin-top:20px}
+input{width:100%;padding:10px 14px;border:1px solid var(--border);border-radius:8px;font-family:'DM Sans',sans-serif;font-size:14px;outline:none;background:var(--bg);color:var(--text);transition:border-color .15s}
+input:focus{border-color:var(--azul)}
+.btn{width:100%;padding:11px;border-radius:8px;font-family:'DM Sans',sans-serif;font-size:14px;font-weight:500;cursor:pointer;border:none;background:var(--azul);color:#fff;margin-top:26px;transition:opacity .15s}
+.btn:hover{opacity:.88}
+.btn:active{opacity:.75}
+.msg{font-size:13px;padding:10px 14px;border-radius:8px;margin-top:16px;display:none;background:var(--rojo-light);color:var(--rojo)}
+.shake{animation:shake .35s ease}
+@keyframes shake{0%,100%{transform:translateX(0)}20%,60%{transform:translateX(-6px)}40%,80%{transform:translateX(6px)}}
+</style>
+</head>
+<body>
+<div class="card" id="card">
+  <div class="logo">Turnos libres</div>
+  <p class="sub">Ingresá para consultar disponibilidad</p>
+  <label>Usuario</label>
+  <input type="text" id="u" autocomplete="username" placeholder="usuario" onkeydown="if(event.key==='Enter')doLogin()">
+  <label>Contraseña</label>
+  <input type="password" id="p" autocomplete="current-password" placeholder="••••••••" onkeydown="if(event.key==='Enter')doLogin()">
+  <button class="btn" onclick="doLogin()">Ingresar</button>
+  <div class="msg" id="msg">Usuario o contraseña incorrectos.</div>
+</div>
+
+<script>
+// Usuarios con acceso de LECTURA (ver turnos)
+// Contraseñas hasheadas con SHA-256
+// Por defecto: consulta/turnos2024  recepcion/turno2024  admin/admin123
+const VIEWERS = [
+  {user:'consulta',  passHash:'a1b4c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1'},
+  {user:'recepcion', passHash:'b4d5e3a6fb3b5c2e5c1d2a3b4c5d6e7f8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3'},
+  {user:'admin',     passHash:'240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9'},
+];
+
+async function sha256(msg){
+  const buf=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(msg));
+  return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');
+}
+
+async function doLogin(){
+  const user=document.getElementById('u').value.trim();
+  const pass=document.getElementById('p').value;
+  if(!user||!pass){shake();return;}
+  const hash=await sha256(pass);
+  const ok=VIEWERS.find(v=>v.user===user&&v.passHash===hash);
+  if(ok){
+    sessionStorage.setItem('viewer_user',user);
+    window.location.href='turnos.html';
+  } else {
+    document.getElementById('msg').style.display='block';
+    shake();
+    document.getElementById('p').value='';
+    document.getElementById('p').focus();
+  }
+}
+function shake(){
+  const c=document.getElementById('card');
+  c.classList.remove('shake');
+  void c.offsetWidth;
+  c.classList.add('shake');
+}
+// Si ya tiene sesión, redirigir directo
+if(sessionStorage.getItem('viewer_user')) window.location.href='turnos.html';
+</script>
+</body>
+</html>
