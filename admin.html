@@ -86,9 +86,9 @@ a{color:var(--azul)}
   <input type="password" id="gh-token" placeholder="ghp_xxxxxxxxxxxx">
   <p class="token-note">Token con permisos <code>repo</code>. <a href="https://github.com/settings/tokens/new" target="_blank">Crear acá →</a></p>
   <label>Usuario de GitHub</label>
-  <input type="text" id="gh-owner" placeholder="mi-usuario">
+  <input type="text" id="gh-owner" placeholder="fpalermocreate">
   <label>Nombre del repositorio</label>
-  <input type="text" id="gh-repo" placeholder="turnos-web">
+  <input type="text" id="gh-repo" placeholder="turnos-dispo">
   <br><br>
   <button class="btn btn-secondary" onclick="saveConfig()">Guardar configuración</button>
   <div class="msg" id="config-msg"></div>
@@ -120,12 +120,17 @@ async function doLogin(){
   if(!found){showMsg('login-msg','Usuario o contraseña incorrectos.','err');return;}
   currentUser=user;
   sessionStorage.setItem('admin_user',user);
+  showPanel();
+}
+
+function showPanel(){
   document.getElementById('section-login').style.display='none';
   document.getElementById('section-panel').style.display='block';
   document.getElementById('section-config').style.display='block';
   document.getElementById('panel-user').textContent='Sesión como '+currentUser;
   loadConfig();
 }
+
 function doLogout(){
   sessionStorage.removeItem('admin_user');
   document.getElementById('section-panel').style.display='none';
@@ -140,105 +145,168 @@ drop.addEventListener('dragleave',()=>drop.classList.remove('over'));
 drop.addEventListener('drop',e=>{e.preventDefault();drop.classList.remove('over');const f=e.dataTransfer.files[0];if(f)handleFile(f);});
 
 function handleFile(file){
+  if(!file) return;
   document.getElementById('file-info').textContent='Procesando '+file.name+'...';
+  document.getElementById('preview-wrap').style.display='none';
+  document.getElementById('publish-section').style.display='none';
   const reader=new FileReader();
-  reader.onload=e=>{
+  reader.onload=function(e){
     try{
-      const wb=XLSX.read(e.target.result,{type:'array'});
+      const wb=XLSX.read(e.target.result,{type:'array',cellDates:true});
       const ws=wb.Sheets[wb.SheetNames[0]];
-      const rows=XLSX.utils.sheet_to_json(ws,{header:1});
+      const rows=XLSX.utils.sheet_to_json(ws,{header:1,defval:''});
       parsedData=parseRows(rows);
+      if(parsedData.length===0){
+        document.getElementById('file-info').textContent='No se encontraron turnos. Verificá que el archivo tenga el formato correcto.';
+        return;
+      }
       showPreview(parsedData);
-      document.getElementById('file-info').textContent=`✓ ${file.name} — ${parsedData.length} turnos encontrados`;
+      document.getElementById('file-info').textContent='✓ '+file.name+' — '+parsedData.length+' turnos encontrados';
       document.getElementById('publish-section').style.display='block';
       hideMsg('publish-msg');
-    }catch(err){document.getElementById('file-info').textContent='Error: '+err.message;}
+    }catch(err){
+      document.getElementById('file-info').textContent='Error al leer el archivo: '+err.message;
+    }
+  };
+  reader.onerror=function(){
+    document.getElementById('file-info').textContent='Error al abrir el archivo.';
   };
   reader.readAsArrayBuffer(file);
 }
+
 function parseRows(rows){
-  let hi=0;
-  for(let i=0;i<Math.min(10,rows.length);i++){
-    const r=rows[i].map(c=>String(c||'').toLowerCase());
-    if(r.some(c=>c.includes('especialidad')||c.includes('lugar'))){hi=i;break;}
+  if(!rows||rows.length===0) return [];
+
+  // Buscar fila de encabezados
+  let hi=-1;
+  for(let i=0;i<Math.min(15,rows.length);i++){
+    if(!rows[i]) continue;
+    const r=rows[i].map(function(c){return String(c||'').toLowerCase();});
+    if(r.some(function(c){return c.includes('especialidad');})){hi=i;break;}
   }
-  const h=rows[hi].map(c=>String(c||'').toLowerCase().trim());
-  const ci=h.findIndex(x=>x.includes('lugar'));
-  const ei=h.findIndex(x=>x.includes('especialidad'));
-  const pi=h.findIndex(x=>x.includes('profesional'));
-  const fi=h.findIndex(x=>x.includes('fecha'));
-  const oi=h.findIndex(x=>x.includes('hora'));
-  const t=[];
-  for(let i=hi+1;i<rows.length;i++){
-    const r=rows[i];
-    if(!r||!r[ei])continue;
-    let fecha='';
-    if(r[fi]){
-      const raw=r[fi];
-      if(typeof raw==='number'){const d=new Date(Math.round((raw-25569)*86400*1000));fecha=d.toISOString().split('T')[0];}
-      else{const d=new Date(raw);fecha=isNaN(d)?String(raw).substring(0,10):d.toISOString().split('T')[0];}
+  if(hi===-1){
+    // Si no encuentra encabezado, asumir primera fila
+    hi=0;
+  }
+
+  const h=rows[hi].map(function(c){return String(c||'').toLowerCase().trim();});
+
+  // Buscar índices de columnas de forma flexible
+  var ci=-1,ei=-1,pi=-1,fi=-1,oi=-1;
+  for(var k=0;k<h.length;k++){
+    if(ci===-1 && (h[k].includes('lugar') || h[k].includes('centro'))) ci=k;
+    if(ei===-1 && h[k].includes('especialidad')) ei=k;
+    if(pi===-1 && h[k].includes('profesional')) pi=k;
+    if(fi===-1 && h[k].includes('fecha')) fi=k;
+    if(oi===-1 && h[k].includes('hora')) oi=k;
+  }
+
+  // Si no encontramos columnas clave, usar posiciones por defecto del informe
+  // El informe tiene: col0=lugar, col2=especialidad, col3=profesional, col4=fecha, col5=hora
+  if(ei===-1){
+    ci=0; ei=2; pi=3; fi=4; oi=5;
+  }
+
+  var t=[];
+  for(var i=hi+1;i<rows.length;i++){
+    var r=rows[i];
+    if(!r||r.length===0) continue;
+
+    var esp=String(r[ei]||'').trim();
+    if(!esp) continue;
+
+    var centro=String(r[ci]||'').trim();
+    var prof=pi>=0&&r[pi]?toTC(String(r[pi]).trim()):'';
+    var hora=oi>=0&&r[oi]?String(r[oi]).trim():'';
+
+    var fecha='';
+    if(fi>=0&&r[fi]){
+      var raw=r[fi];
+      if(raw instanceof Date){
+        fecha=raw.toISOString().split('T')[0];
+      } else if(typeof raw==='number'){
+        var d=new Date(Math.round((raw-25569)*86400*1000));
+        fecha=d.toISOString().split('T')[0];
+      } else {
+        var s=String(raw).trim();
+        // Intentar parsear fecha en varios formatos
+        var d2=new Date(s);
+        if(!isNaN(d2)) fecha=d2.toISOString().split('T')[0];
+        else fecha=s.substring(0,10);
+      }
     }
-    const centro=String(r[ci]||'').trim();
-    const esp=String(r[ei]||'').trim().toUpperCase();
-    const prof=r[pi]?toTC(String(r[pi]).trim()):'';
-    const hora=r[oi]?String(r[oi]).trim():'';
-    if(centro&&esp&&fecha)t.push({centro,esp,prof,fecha,hora});
+
+    if(centro&&esp&&fecha){
+      t.push({centro:centro,esp:esp.toUpperCase(),prof:prof,fecha:fecha,hora:hora});
+    }
   }
   return t;
 }
-function toTC(s){return s.toLowerCase().replace(/\b\w/g,c=>c.toUpperCase());}
-function showPreview(data){
-  const w=document.getElementById('preview-wrap');
-  document.getElementById('preview-head').innerHTML='<tr><th>Centro</th><th>Especialidad</th><th>Profesional</th><th>Fecha</th><th>Hora</th></tr>';
-  document.getElementById('preview-body').innerHTML=data.slice(0,8).map(r=>`<tr><td>${r.centro}</td><td>${r.esp.charAt(0)+r.esp.slice(1).toLowerCase()}</td><td>${r.prof}</td><td>${r.fecha}</td><td>${r.hora}</td></tr>`).join('');
-  w.style.display='block';
+
+function toTC(s){
+  return s.toLowerCase().replace(/(?:^|\s)\S/g,function(c){return c.toUpperCase();});
 }
+
+function showPreview(data){
+  document.getElementById('preview-head').innerHTML='<tr><th>Centro</th><th>Especialidad</th><th>Profesional</th><th>Fecha</th><th>Hora</th></tr>';
+  document.getElementById('preview-body').innerHTML=data.slice(0,10).map(function(r){
+    return '<tr><td>'+r.centro+'</td><td>'+r.esp.charAt(0)+r.esp.slice(1).toLowerCase()+'</td><td>'+r.prof+'</td><td>'+r.fecha+'</td><td>'+r.hora+'</td></tr>';
+  }).join('');
+  document.getElementById('preview-wrap').style.display='block';
+}
+
 async function publicar(){
-  const token=document.getElementById('gh-token').value.trim();
-  const owner=document.getElementById('gh-owner').value.trim();
-  const repo=document.getElementById('gh-repo').value.trim();
+  var token=document.getElementById('gh-token').value.trim();
+  var owner=document.getElementById('gh-owner').value.trim();
+  var repo=document.getElementById('gh-repo').value.trim();
   if(!token||!owner||!repo){showMsg('publish-msg','Completá la configuración de GitHub.','err');return;}
-  if(!parsedData||!parsedData.length){showMsg('publish-msg','No hay datos.','err');return;}
+  if(!parsedData||!parsedData.length){showMsg('publish-msg','No hay datos para publicar.','err');return;}
   document.getElementById('btn-publish').disabled=true;
   document.getElementById('btn-publish').textContent='Publicando...';
   showMsg('publish-msg','Subiendo a GitHub...','info');
   try{
-    const json={updated:new Date().toISOString(),turnos:parsedData};
-    const content=btoa(unescape(encodeURIComponent(JSON.stringify(json,null,2))));
-    const path='data/turnos.json';
-    let sha='';
-    const gr=await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}`,{headers:{Authorization:`token ${token}`,'Accept':'application/vnd.github.v3+json'}});
-    if(gr.ok){const d=await gr.json();sha=d.sha;}
-    const body={message:`Actualización de turnos — ${new Date().toLocaleString('es-AR')}`,content,committer:{name:'Admin Turnos',email:'admin@turnos.local'}};
-    if(sha)body.sha=sha;
-    const pr=await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${path}`,{method:'PUT',headers:{Authorization:`token ${token}`,'Accept':'application/vnd.github.v3+json','Content-Type':'application/json'},body:JSON.stringify(body)});
-    if(!pr.ok){const e=await pr.json();throw new Error(e.message||'Error');}
-    showMsg('publish-msg','✓ Publicado. Los cambios se ven en ~1 minuto.','ok');
-  }catch(e){showMsg('publish-msg','Error: '+e.message,'err');}
+    var json={updated:new Date().toISOString(),turnos:parsedData};
+    var content=btoa(unescape(encodeURIComponent(JSON.stringify(json,null,2))));
+    var path='data/turnos.json';
+    var sha='';
+    var gr=await fetch('https://api.github.com/repos/'+owner+'/'+repo+'/contents/'+path,{
+      headers:{Authorization:'token '+token,'Accept':'application/vnd.github.v3+json'}
+    });
+    if(gr.ok){var d=await gr.json();sha=d.sha||'';}
+    var body={message:'Actualización de turnos — '+new Date().toLocaleString('es-AR'),content:content,committer:{name:'Admin Turnos',email:'admin@turnos.local'}};
+    if(sha) body.sha=sha;
+    var pr=await fetch('https://api.github.com/repos/'+owner+'/'+repo+'/contents/'+path,{
+      method:'PUT',
+      headers:{Authorization:'token '+token,'Accept':'application/vnd.github.v3+json','Content-Type':'application/json'},
+      body:JSON.stringify(body)
+    });
+    if(!pr.ok){var e=await pr.json();throw new Error(e.message||'Error al publicar');}
+    showMsg('publish-msg','✓ Publicado correctamente. Los cambios se ven en ~1 minuto.','ok');
+  }catch(e){
+    showMsg('publish-msg','Error: '+e.message,'err');
+  }
   document.getElementById('btn-publish').disabled=false;
   document.getElementById('btn-publish').textContent='Publicar turnos';
 }
+
 function saveConfig(){
   localStorage.setItem('gh_token',document.getElementById('gh-token').value.trim());
   localStorage.setItem('gh_owner',document.getElementById('gh-owner').value.trim());
   localStorage.setItem('gh_repo',document.getElementById('gh-repo').value.trim());
   showMsg('config-msg','Guardado.','ok');
-  setTimeout(()=>hideMsg('config-msg'),2000);
+  setTimeout(function(){hideMsg('config-msg');},2000);
 }
 function loadConfig(){
   document.getElementById('gh-token').value=localStorage.getItem('gh_token')||'';
-  document.getElementById('gh-owner').value=localStorage.getItem('gh_owner')||'';
-  document.getElementById('gh-repo').value=localStorage.getItem('gh_repo')||'';
+  document.getElementById('gh-owner').value=localStorage.getItem('gh_owner')||'fpalermocreate';
+  document.getElementById('gh-repo').value=localStorage.getItem('gh_repo')||'turnos-dispo';
 }
-// Auto-login admin si ya tiene sesión de viewer con rol admin
-const saved=sessionStorage.getItem('admin_user');
-if(saved&&ADMINS.find(u=>u.user===saved)){
+
+// Auto-login si ya tiene sesión
+var saved=sessionStorage.getItem('admin_user');
+if(saved&&ADMINS.find(function(u){return u.user===saved;})){
   currentUser=saved;
-  document.getElementById('section-login').style.display='none';
-  document.getElementById('section-panel').style.display='block';
-  document.getElementById('section-config').style.display='block';
-  document.getElementById('panel-user').textContent='Sesión como '+currentUser;
-  loadConfig();
+  showPanel();
 }
 </script>
 </body>
