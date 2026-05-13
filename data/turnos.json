@@ -1,4658 +1,4658 @@
 {
-  "updated": "2026-05-13T18:14:14.635Z",
+  "updated": "2026-05-13T18:14:32.472Z",
   "turnos": [
     {
-      "centro": "ANESTESIOLOGIA",
+      "centro": "PASILLO",
       "esp": "ANESTESIOLOGIA",
-      "prof": "Anestesiologia",
+      "prof": "Anestesia (consulta Prequirurgica)",
       "fecha": "2026-05-15",
       "hora": "19:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "PASILLO",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Zangroniz Pedro Daniel",
       "fecha": "2026-05-13",
       "hora": "18:00"
     },
     {
-      "centro": "CIRUGIA CARDIOVASCULAR",
+      "centro": "PASILLO",
       "esp": "CIRUGIA CARDIOVASCULAR",
-      "prof": "Cirugia Cardiovascular",
+      "prof": "Sgrosso Jose Luis",
       "fecha": "2026-05-14",
       "hora": "15:00"
     },
     {
-      "centro": "CIRUGIA TORAXICA",
+      "centro": "PASILLO",
       "esp": "CIRUGIA TORAXICA",
-      "prof": "Cirugia Toraxica",
+      "prof": "Sgrosso Jose Luis",
       "fecha": "2026-05-14",
       "hora": "15:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "PASILLO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Asef Santiago Guido",
       "fecha": "2026-05-14",
       "hora": "08:50"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "PASILLO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Pecoraro Julieta",
       "fecha": "2026-05-20",
       "hora": "08:00"
     },
     {
-      "centro": "CIRUGiA GINECOLOGICA",
+      "centro": "PASILLO",
       "esp": "CIRUGIA GINECOLOGICA",
-      "prof": "Cirugia Ginecologica",
+      "prof": "Roncoroni Enrique Alfredo",
       "fecha": "2026-05-13",
       "hora": "15:30"
     },
     {
-      "centro": "CIRUGiA GINECOLOGICA",
+      "centro": "PASILLO",
       "esp": "CIRUGIA GINECOLOGICA",
-      "prof": "Cirugia Ginecologica",
+      "prof": "Dubois Analia",
       "fecha": "2026-05-13",
       "hora": "13:15"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "PASILLO",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Sgrosso Marina Sofia",
       "fecha": "2026-05-26",
       "hora": "09:50"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "PASILLO",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Genta Jose Luis",
       "fecha": "2026-05-18",
       "hora": "18:40"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "PASILLO",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Cruz Zarazaga Jose Guillermo",
       "fecha": "2026-05-18",
       "hora": "15:15"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "PASILLO",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Schiavoni Arredondo Diego Manuel",
       "fecha": "2026-05-13",
       "hora": "14:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Roncoroni Enrique Alfredo",
       "fecha": "2026-05-13",
       "hora": "15:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Molachino Victor Ernesto",
       "fecha": "2026-05-14",
       "hora": "17:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Cofone Mirta",
       "fecha": "2026-05-18",
       "hora": "09:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Dubois Analia",
       "fecha": "2026-05-13",
       "hora": "13:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Raccosta Maria Eugenia",
       "fecha": "2026-05-28",
       "hora": "09:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Epifani Natalia",
       "fecha": "2026-05-20",
       "hora": "08:00"
     },
     {
-      "centro": "HEMODINAMIA",
+      "centro": "PASILLO",
       "esp": "HEMODINAMIA",
-      "prof": "Hemodinamia",
+      "prof": "Kozak Fernando",
       "fecha": "2026-05-15",
       "hora": "14:30"
     },
     {
-      "centro": "HEMODINAMIA",
+      "centro": "PASILLO",
       "esp": "HEMODINAMIA",
-      "prof": "Hemodinamia",
+      "prof": "Zangroniz Pedro Daniel",
       "fecha": "2026-05-13",
       "hora": "18:00"
     },
     {
-      "centro": "INFECTOLOGIA",
+      "centro": "PASILLO",
       "esp": "INFECTOLOGIA",
-      "prof": "Infectologia",
+      "prof": "Lovesio Luciano Lisandro",
       "fecha": "2026-05-15",
       "hora": "11:15"
     },
     {
-      "centro": "MASTOLOGIA",
+      "centro": "PASILLO",
       "esp": "MASTOLOGIA",
-      "prof": "Mastologia",
+      "prof": "Molachino Victor Ernesto",
       "fecha": "2026-05-14",
       "hora": "17:15"
     },
     {
-      "centro": "ODONTOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "ODONTOLOGIA CLINICA",
-      "prof": "Odontologia Clinica",
+      "prof": "Mata Carina",
       "fecha": "2026-06-12",
       "hora": "16:00"
     },
     {
-      "centro": "ODONTOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "ODONTOLOGIA CLINICA",
-      "prof": "Odontologia Clinica",
+      "prof": "Mazzuchini Nanci",
       "fecha": "2026-06-12",
       "hora": "08:45"
     },
     {
-      "centro": "ODONTOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "ODONTOLOGIA CLINICA",
-      "prof": "Odontologia Clinica",
+      "prof": "Brussa Natalia",
       "fecha": "2026-06-12",
       "hora": "17:30"
     },
     {
-      "centro": "ODONTOLOGIA CLINICA",
+      "centro": "PASILLO",
       "esp": "ODONTOLOGIA CLINICA",
-      "prof": "Odontologia Clinica",
+      "prof": "Garcia Camila",
       "fecha": "2026-06-01",
       "hora": "08:30"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Tradotti Carolina",
       "fecha": "2026-05-13",
       "hora": "14:10"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Rubi Antonio",
       "fecha": "2026-05-18",
       "hora": "12:00"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Turra Arturo Esteban",
       "fecha": "2026-05-19",
       "hora": "08:40"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Roitman Gregorio",
       "fecha": "2026-06-03",
       "hora": "08:00"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Ramos Claudio Damian",
       "fecha": "2026-05-18",
       "hora": "09:15"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Roitman Claudio",
       "fecha": "2026-06-02",
       "hora": "08:10"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Charmet Pablo Hernan",
       "fecha": "2026-05-16",
       "hora": "09:30"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Benetti Fabrizio",
       "fecha": "2026-05-13",
       "hora": "17:45"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Rubi Luciano",
       "fecha": "2026-05-26",
       "hora": "19:15"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Amico Esteban",
       "fecha": "2026-05-29",
       "hora": "17:15"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Tjor Sebastian",
       "fecha": "2026-05-13",
       "hora": "13:20"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Boubila Martin Miguel",
       "fecha": "2026-05-18",
       "hora": "09:45"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Purrello Silvia",
       "fecha": "2026-05-20",
       "hora": "18:30"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Ranzuglia Gonzalo",
       "fecha": "2026-05-18",
       "hora": "09:15"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Biondo Leandro Nicolas",
       "fecha": "2026-05-15",
       "hora": "10:30"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Srebot Jose Ignacio",
       "fecha": "2026-05-27",
       "hora": "18:40"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Dobkin Fernando",
       "fecha": "2026-05-19",
       "hora": "08:40"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Turra Carlos Leonardo",
       "fecha": "2026-05-13",
       "hora": "14:00"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Camizasca Ivan",
       "fecha": "2026-05-26",
       "hora": "10:45"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "De Luca Ramiro",
       "fecha": "2026-05-19",
       "hora": "15:45"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Teran Mauricio",
       "fecha": "2026-05-14",
       "hora": "09:20"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Bracali Matias Noel",
       "fecha": "2026-05-18",
       "hora": "10:40"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Bordone Juan Pablo",
       "fecha": "2026-05-13",
       "hora": "13:15"
     },
     {
-      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE RODILLA",
-      "prof": "Traumatologia De Rodilla",
+      "prof": "Tradotti Carolina",
       "fecha": "2026-05-13",
       "hora": "14:10"
     },
     {
-      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE RODILLA",
-      "prof": "Traumatologia De Rodilla",
+      "prof": "Roitman Gregorio",
       "fecha": "2026-06-03",
       "hora": "08:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE RODILLA",
-      "prof": "Traumatologia De Rodilla",
+      "prof": "Roitman Claudio",
       "fecha": "2026-06-02",
       "hora": "08:10"
     },
     {
-      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE RODILLA",
-      "prof": "Traumatologia De Rodilla",
+      "prof": "Amico Esteban",
       "fecha": "2026-05-29",
       "hora": "17:15"
     },
     {
-      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE RODILLA",
-      "prof": "Traumatologia De Rodilla",
+      "prof": "Tjor Sebastian",
       "fecha": "2026-05-13",
       "hora": "13:20"
     },
     {
-      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE HOMBRO",
-      "prof": "Traumatologia De Hombro",
+      "prof": "Roitman Gregorio",
       "fecha": "2026-06-03",
       "hora": "08:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE HOMBRO",
-      "prof": "Traumatologia De Hombro",
+      "prof": "Roitman Claudio",
       "fecha": "2026-06-02",
       "hora": "08:10"
     },
     {
-      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE HOMBRO",
-      "prof": "Traumatologia De Hombro",
+      "prof": "Amico Esteban",
       "fecha": "2026-05-29",
       "hora": "17:15"
     },
     {
-      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE HOMBRO",
-      "prof": "Traumatologia De Hombro",
+      "prof": "Tjor Sebastian",
       "fecha": "2026-05-13",
       "hora": "13:20"
     },
     {
-      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE HOMBRO",
-      "prof": "Traumatologia De Hombro",
+      "prof": "Dobkin Fernando",
       "fecha": "2026-05-19",
       "hora": "08:40"
     },
     {
-      "centro": "TRAUMATOLOGIA DE CADERA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE CADERA",
-      "prof": "Traumatologia De Cadera",
+      "prof": "Turra Arturo Esteban",
       "fecha": "2026-05-19",
       "hora": "08:40"
     },
     {
-      "centro": "TRAUMATOLOGIA DE CADERA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE CADERA",
-      "prof": "Traumatologia De Cadera",
+      "prof": "Roitman Gregorio",
       "fecha": "2026-06-03",
       "hora": "08:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DE CADERA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE CADERA",
-      "prof": "Traumatologia De Cadera",
+      "prof": "Paganini Ricardo",
       "fecha": "2026-05-20",
       "hora": "11:45"
     },
     {
-      "centro": "TRAUMATOLOGIA DE CADERA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE CADERA",
-      "prof": "Traumatologia De Cadera",
+      "prof": "Ramos Claudio Damian",
       "fecha": "2026-05-18",
       "hora": "09:15"
     },
     {
-      "centro": "TRAUMATOLOGIA DE CADERA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE CADERA",
-      "prof": "Traumatologia De Cadera",
+      "prof": "Roitman Claudio",
       "fecha": "2026-06-02",
       "hora": "08:10"
     },
     {
-      "centro": "TRAUMATOLOGIA DE CADERA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE CADERA",
-      "prof": "Traumatologia De Cadera",
+      "prof": "Turra Carlos Leonardo",
       "fecha": "2026-05-13",
       "hora": "14:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DE CADERA Y RODILLA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE CADERA Y RODILLA",
-      "prof": "Traumatologia De Cadera Y Rodilla",
+      "prof": "Boubila Martin Miguel",
       "fecha": "2026-05-18",
       "hora": "09:45"
     },
     {
-      "centro": "TRAUMATOLOGIA NIÑOS",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA NIÑOS",
-      "prof": "Traumatologia Niños",
+      "prof": "Purrello Silvia",
       "fecha": "2026-05-20",
       "hora": "18:30"
     },
     {
-      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DEL DEPORTE",
-      "prof": "Traumatologia Del Deporte",
+      "prof": "Paganini Ricardo",
       "fecha": "2026-05-20",
       "hora": "11:45"
     },
     {
-      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DEL DEPORTE",
-      "prof": "Traumatologia Del Deporte",
+      "prof": "Camizasca Ivan",
       "fecha": "2026-05-26",
       "hora": "10:45"
     },
     {
-      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DEL DEPORTE",
-      "prof": "Traumatologia Del Deporte",
+      "prof": "De Luca Ramiro",
       "fecha": "2026-05-19",
       "hora": "15:45"
     },
     {
-      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE TOBILLO",
-      "prof": "Traumatologia De Tobillo",
+      "prof": "Roitman Gregorio",
       "fecha": "2026-06-03",
       "hora": "08:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE TOBILLO",
-      "prof": "Traumatologia De Tobillo",
+      "prof": "Roitman Claudio",
       "fecha": "2026-06-02",
       "hora": "08:10"
     },
     {
-      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE TOBILLO",
-      "prof": "Traumatologia De Tobillo",
+      "prof": "Charmet Pablo Hernan",
       "fecha": "2026-05-16",
       "hora": "09:30"
     },
     {
-      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE TOBILLO",
-      "prof": "Traumatologia De Tobillo",
+      "prof": "Boubila Martin Miguel",
       "fecha": "2026-05-18",
       "hora": "09:45"
     },
     {
-      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE TOBILLO",
-      "prof": "Traumatologia De Tobillo",
+      "prof": "Bordone Juan Pablo",
       "fecha": "2026-05-13",
       "hora": "13:15"
     },
     {
-      "centro": "CARDIOANGIOLOGIA INTERVENCIONISTA",
+      "centro": "PASILLO",
       "esp": "CARDIOANGIOLOGIA INTERVENCIONISTA",
-      "prof": "Cardioangiologia Intervencionista",
+      "prof": "Kozak Fernando",
       "fecha": "2026-05-15",
       "hora": "14:30"
     },
     {
-      "centro": "CARDIOANGIOLOGIA INTERVENCIONISTA",
+      "centro": "PASILLO",
       "esp": "CARDIOANGIOLOGIA INTERVENCIONISTA",
-      "prof": "Cardioangiologia Intervencionista",
+      "prof": "Zangroniz Pedro Daniel",
       "fecha": "2026-05-13",
       "hora": "18:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DE COLUMNA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE COLUMNA",
-      "prof": "Traumatologia De Columna",
+      "prof": "Ruiz Roman Andres",
       "fecha": "2026-05-15",
       "hora": "11:10"
     },
     {
-      "centro": "TRAUMATOLOGIA DE COLUMNA",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA DE COLUMNA",
-      "prof": "Traumatologia De Columna",
+      "prof": "Quijada Lucas",
       "fecha": "2026-05-21",
       "hora": "08:45"
     },
     {
-      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
-      "prof": "Traumatologia Muñeca Y Mano",
+      "prof": "Bichara Jorge Ariel",
       "fecha": "2026-05-13",
       "hora": "18:00"
     },
     {
-      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
-      "prof": "Traumatologia Muñeca Y Mano",
+      "prof": "Srebot Jose Ignacio",
       "fecha": "2026-05-27",
       "hora": "18:40"
     },
     {
-      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
-      "prof": "Traumatologia Muñeca Y Mano",
+      "prof": "Markarian Eduardo Alexis",
       "fecha": "2026-05-18",
       "hora": "09:15"
     },
     {
-      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "centro": "PASILLO",
       "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
-      "prof": "Traumatologia Muñeca Y Mano",
+      "prof": "Sartor Emanuel",
       "fecha": "2026-05-19",
       "hora": "13:30"
     },
     {
-      "centro": "INFECTOLOGIA PRE QUIRURGICA",
+      "centro": "PASILLO",
       "esp": "INFECTOLOGIA PRE QUIRURGICA",
-      "prof": "Infectologia Pre Quirurgica",
+      "prof": "Infectologia-consulta Preq Ugolini",
       "fecha": "2026-05-18",
       "hora": "10:30"
     },
     {
-      "centro": "INFECTOLOGIA PRE QUIRURGICA",
+      "centro": "PASILLO",
       "esp": "INFECTOLOGIA PRE QUIRURGICA",
-      "prof": "Infectologia Pre Quirurgica",
+      "prof": "Infectologia-consulta Preq Lovesio",
       "fecha": "2026-05-15",
       "hora": "09:20"
     },
     {
-      "centro": "CIRUGIA OFTALMOLOGICA",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "CIRUGIA OFTALMOLOGICA",
-      "prof": "Cirugia Oftalmologica",
+      "prof": "Velez Nicolas",
       "fecha": "2026-05-20",
       "hora": "11:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Suarez Beatriz Liliana",
       "fecha": "2026-05-14",
       "hora": "11:30"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Velez Nicolas",
       "fecha": "2026-05-20",
       "hora": "11:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Talarn Emilce Marcela",
       "fecha": "2026-05-20",
       "hora": "09:05"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Oliva Gabriel Germán",
       "fecha": "2026-05-15",
       "hora": "15:15"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Talarn Diego Carlos",
       "fecha": "2026-05-19",
       "hora": "09:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Suarez Villalobos Alvaro",
       "fecha": "2026-06-11",
       "hora": "08:40"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Sosa Luisina",
       "fecha": "2026-05-19",
       "hora": "08:45"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Maciello Gabriel Alberto",
       "fecha": "2026-05-16",
       "hora": "09:00"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (5-16 Años)",
+      "prof": "Talarn Diego Carlos",
       "fecha": "2026-05-19",
       "hora": "09:00"
     },
     {
-      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA QUIRURGICA",
-      "prof": "Oftalmologia Quirurgica",
+      "prof": "Velez Nicolas",
       "fecha": "2026-05-20",
       "hora": "11:00"
     },
     {
-      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA QUIRURGICA",
-      "prof": "Oftalmologia Quirurgica",
+      "prof": "Suarez Villalobos Alvaro",
       "fecha": "2026-06-11",
       "hora": "08:40"
     },
     {
-      "centro": "OFTAMOLOGIA CIRUGIA DE RETINA",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTAMOLOGIA CIRUGIA DE RETINA",
-      "prof": "Oftamologia Cirugia De Retina",
+      "prof": "Suarez Villalobos Alvaro",
       "fecha": "2026-06-11",
       "hora": "08:40"
     },
     {
-      "centro": "OFTALMOLOGIA PATOLOGIA DE LA CORNEA",
+      "centro": "OJOS - PLANTA BAJA",
       "esp": "OFTALMOLOGIA PATOLOGIA DE LA CORNEA",
-      "prof": "Oftalmologia Patologia De La Cornea",
+      "prof": "Oliva Gabriel Germán",
       "fecha": "2026-05-15",
       "hora": "15:15"
     },
     {
-      "centro": "CIRUGIA CARDIOVASCULAR",
+      "centro": "860 PB (TRAM)/ATENCION SUBSUELO",
       "esp": "CIRUGIA CARDIOVASCULAR",
-      "prof": "Cirugia Cardiovascular",
+      "prof": "Transplante Cardiaco Pre Y Post",
       "fecha": "2026-05-14",
       "hora": "09:00"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "860 PB (TRAM)/ATENCION SUBSUELO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Transplante Renopancreas Pre Y Post",
       "fecha": "2026-05-19",
       "hora": "09:00"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "860 PB (TRAM)/ATENCION SUBSUELO",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Transplante Renal Pre Y Post",
       "fecha": "2026-05-13",
       "hora": "12:15"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "860 PB (TRAM)/ATENCION SUBSUELO",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Transplante Medula Pre Y Post",
       "fecha": "2026-05-14",
       "hora": "11:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "NEUROLOGIA",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Plasenzotti Andrea Virginia",
       "fecha": "2026-05-15",
       "hora": "11:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "NEUROLOGIA",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Consiglio Francisco",
       "fecha": "2026-05-18",
       "hora": "14:45"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "NEUROLOGIA",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Libman Astrid",
       "fecha": "2026-05-14",
       "hora": "14:30"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "NEUROLOGIA",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Severino Federico Francisco",
       "fecha": "2026-05-16",
       "hora": "08:30"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "NEUROLOGIA",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Blesio Ayelen",
       "fecha": "2026-05-26",
       "hora": "18:40"
     },
     {
-      "centro": "INFECTOLOGIA",
+      "centro": "NEUROLOGIA",
       "esp": "INFECTOLOGIA",
-      "prof": "Infectologia",
+      "prof": "Ugolini Antonela",
       "fecha": "2026-05-21",
       "hora": "13:30"
     },
     {
-      "centro": "NEUROCIRUGIA",
+      "centro": "NEUROLOGIA",
       "esp": "NEUROCIRUGIA",
-      "prof": "Neurocirugia",
+      "prof": "Garrote Miguel Severiano",
       "fecha": "2026-05-19",
       "hora": "15:40"
     },
     {
-      "centro": "NEUROCIRUGIA",
+      "centro": "NEUROLOGIA",
       "esp": "NEUROCIRUGIA",
-      "prof": "Neurocirugia",
+      "prof": "Lazarte Juan Manuel",
       "fecha": "2026-05-13",
       "hora": "14:30"
     },
     {
-      "centro": "NEUROCIRUGIA",
+      "centro": "NEUROLOGIA",
       "esp": "NEUROCIRUGIA",
-      "prof": "Neurocirugia",
+      "prof": "Nallino Jose Carlos",
       "fecha": "2026-05-18",
       "hora": "16:15"
     },
     {
-      "centro": "NEUROCIRUGIA",
+      "centro": "NEUROLOGIA",
       "esp": "NEUROCIRUGIA",
-      "prof": "Neurocirugia",
+      "prof": "Nasi Nicolas Andres",
       "fecha": "2026-05-13",
       "hora": "13:10"
     },
     {
-      "centro": "NEUROCIRUGIA",
+      "centro": "NEUROLOGIA",
       "esp": "NEUROCIRUGIA",
-      "prof": "Neurocirugia",
+      "prof": "Gil Juan Manuel",
       "fecha": "2026-06-12",
       "hora": "10:00"
     },
     {
-      "centro": "NEUROCIRUGIA",
+      "centro": "NEUROLOGIA",
       "esp": "NEUROCIRUGIA",
-      "prof": "Neurocirugia",
+      "prof": "Mortarino Pablo Andres",
       "fecha": "2026-05-18",
       "hora": "09:20"
     },
     {
-      "centro": "NEUROLOGIA CLINICA",
+      "centro": "NEUROLOGIA",
       "esp": "NEUROLOGIA CLINICA",
-      "prof": "Neurologia Clinica",
+      "prof": "Fumagalli Ana Isabel",
       "fecha": "2026-05-30",
       "hora": "09:30"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "NEUROLOGIA",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Sanso Valentina",
       "fecha": "2026-05-14",
       "hora": "08:20"
     },
     {
-      "centro": "PSIQUIATRIA",
+      "centro": "NEUROLOGIA",
       "esp": "PSIQUIATRIA",
-      "prof": "Psiquiatria",
+      "prof": "Garrote Miguel",
       "fecha": "2026-06-08",
       "hora": "11:00"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "NEUROLOGIA",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Guaglianone Debora",
       "fecha": "2026-06-03",
       "hora": "08:45"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "NEUROLOGIA",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Martinez Maria Florencia",
       "fecha": "2026-05-14",
       "hora": "17:30"
     },
     {
-      "centro": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
+      "centro": "NEUROLOGIA",
       "esp": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
-      "prof": "Cuidados De Soporte Y Med.paliativa",
+      "prof": "Mas Yanina",
       "fecha": "2026-05-20",
       "hora": "15:00"
     },
     {
-      "centro": "NEUROLOGIA (CEFALEAS)",
+      "centro": "NEUROLOGIA",
       "esp": "NEUROLOGIA (CEFALEAS)",
-      "prof": "Neurologia (cefaleas)",
+      "prof": "Fumagalli Ana Isabel",
       "fecha": "2026-05-30",
       "hora": "09:30"
     },
     {
-      "centro": "NEURO (NEUROPATIAS-MIOPATIAS-MIAST.",
+      "centro": "NEUROLOGIA",
       "esp": "NEURO (NEUROPATIAS-MIOPATIAS-MIAST.",
-      "prof": "Neuro (neuropatias-miopatias-miast.",
+      "prof": "Fumagalli Ana Isabel",
       "fecha": "2026-05-30",
       "hora": "09:30"
     },
     {
-      "centro": "ENFERMEDADES DE LA NUTRICION",
+      "centro": "NEUROLOGIA",
       "esp": "ENFERMEDADES DE LA NUTRICION",
-      "prof": "Enfermedades De La Nutricion",
+      "prof": "Severino Federico Francisco",
       "fecha": "2026-05-16",
       "hora": "08:30"
     },
     {
-      "centro": "TRATAMIENTO DEL DOLOR",
+      "centro": "NEUROLOGIA",
       "esp": "TRATAMIENTO DEL DOLOR",
-      "prof": "Tratamiento Del Dolor",
+      "prof": "Fontanella German Hector",
       "fecha": "2026-05-13",
       "hora": "12:40"
     },
     {
-      "centro": "TRATAMIENTO DEL DOLOR",
+      "centro": "NEUROLOGIA",
       "esp": "TRATAMIENTO DEL DOLOR",
-      "prof": "Tratamiento Del Dolor",
+      "prof": "Aletta De Sylvas Maria Jose",
       "fecha": "2026-05-18",
       "hora": "12:15"
     },
     {
-      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "centro": "NEUROLOGIA",
       "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
-      "prof": "Traumatologia Muñeca Y Mano",
+      "prof": "Sartor Emanuel",
       "fecha": "2026-05-26",
       "hora": "09:15"
     },
     {
-      "centro": "CIRUGIA DE CABEZA Y CUELLO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CIRUGIA DE CABEZA Y CUELLO",
-      "prof": "Cirugia De Cabeza Y Cuello",
+      "prof": "Bassagaisteguy Luis Horacio",
       "fecha": "2026-05-14",
       "hora": "14:50"
     },
     {
-      "centro": "CIRUGIA BUCOMAXILOFACIAL",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CIRUGIA BUCOMAXILOFACIAL",
-      "prof": "Cirugia Bucomaxilofacial",
+      "prof": "Lima Jose Luis",
       "fecha": "2026-06-02",
       "hora": "13:15"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Chirife Jorge",
       "fecha": "2026-05-14",
       "hora": "15:30"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Oyharbide Sergio Alberto",
       "fecha": "2026-05-14",
       "hora": "09:15"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Carrizo Ayelen",
       "fecha": "2026-05-15",
       "hora": "09:30"
     },
     {
-      "centro": "CIRUGIA TORAXICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CIRUGIA TORAXICA",
-      "prof": "Cirugia Toraxica",
+      "prof": "Piatti Facundo",
       "fecha": "2026-05-15",
       "hora": "10:15"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Greca Alcides Alejandro",
       "fecha": "2026-05-13",
       "hora": "12:15"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Plasenzotti Andrea Virginia",
       "fecha": "2026-05-20",
       "hora": "08:40"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Kilstein Jorge",
       "fecha": "2026-05-15",
       "hora": "12:15"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Pecoraro Julieta",
       "fecha": "2026-05-14",
       "hora": "10:10"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Ruiz Mario Gustavo",
       "fecha": "2026-05-21",
       "hora": "14:00"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Splendiani Maria Jose",
       "fecha": "2026-05-13",
       "hora": "17:45"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Genta Jose Luis",
       "fecha": "2026-05-13",
       "hora": "15:20"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Cruz Zarazaga Jose Guillermo",
       "fecha": "2026-05-13",
       "hora": "15:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Osta Marisabel",
       "fecha": "2026-05-14",
       "hora": "15:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Navarini Roberto Hugo",
       "fecha": "2026-05-14",
       "hora": "08:40"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Farandato Federico",
       "fecha": "2026-05-15",
       "hora": "08:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Alonso Maria Encarnacion",
       "fecha": "2026-06-01",
       "hora": "09:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Beltran Lucia",
       "fecha": "2026-06-03",
       "hora": "08:45"
     },
     {
-      "centro": "GINECO ONCOLOGIA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "GINECO ONCOLOGIA",
-      "prof": "Gineco Oncologia",
+      "prof": "Navarini Roberto Hugo",
       "fecha": "2026-05-14",
       "hora": "08:40"
     },
     {
-      "centro": "HEPATOLOGIA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "HEPATOLOGIA",
-      "prof": "Hepatologia",
+      "prof": "Transplante Hepatico Pre Y Post",
       "fecha": "2026-05-14",
       "hora": "13:40"
     },
     {
-      "centro": "ANALISIS HEMATOLÓGICOS",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "ANALISIS HEMATOLÓGICOS",
-      "prof": "Analisis Hematológicos",
+      "prof": "Laboratorio De Oncohematologia",
       "fecha": "2026-05-14",
       "hora": "08:10"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Spinelli Nadia Soledad",
       "fecha": "2026-05-26",
       "hora": "18:30"
     },
     {
-      "centro": "NUTRICION ONCOLOGICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "NUTRICION ONCOLOGICA",
-      "prof": "Nutricion Oncologica",
+      "prof": "Spinelli Nadia Soledad",
       "fecha": "2026-05-26",
       "hora": "18:30"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Godoy Maria Victoria",
       "fecha": "2026-05-14",
       "hora": "13:45"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Lagorio Sergio",
       "fecha": "2026-05-13",
       "hora": "15:15"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Gabriel Angel",
       "fecha": "2026-05-14",
       "hora": "10:20"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Coria Maria Valeria",
       "fecha": "2026-05-27",
       "hora": "07:45"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Pinzone Jorge Daniel",
       "fecha": "2026-05-15",
       "hora": "09:50"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Demaria Juan Pablo",
       "fecha": "2026-05-22",
       "hora": "08:15"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Mezzabotta Cristian",
       "fecha": "2026-05-13",
       "hora": "13:30"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Demaria Nicolas",
       "fecha": "2026-05-18",
       "hora": "16:45"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Debuchy Alan Guido",
       "fecha": "2026-05-15",
       "hora": "17:30"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Ruiz Roque Ivan",
       "fecha": "2026-06-11",
       "hora": "12:00"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "De Pauli Daniela Iris",
       "fecha": "2026-05-26",
       "hora": "10:30"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Mantelli Adrian Jesus",
       "fecha": "2026-05-15",
       "hora": "17:00"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Peralta Martin Andres(sp)",
       "fecha": "2026-05-15",
       "hora": "15:40"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
-      "prof": "Otorrinolaringologia Quirurgica",
+      "prof": "Demaria Juan Pablo",
       "fecha": "2026-05-22",
       "hora": "08:15"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
-      "prof": "Otorrinolaringologia Quirurgica",
+      "prof": "Demaria Nicolas",
       "fecha": "2026-05-18",
       "hora": "16:45"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
-      "prof": "Otorrinolaringologia Quirurgica",
+      "prof": "Peralta Martin Andres(sp)",
       "fecha": "2026-05-15",
       "hora": "15:40"
     },
     {
-      "centro": "PROCTOLOGIA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "PROCTOLOGIA",
-      "prof": "Proctologia",
+      "prof": "Chirife Jorge",
       "fecha": "2026-05-14",
       "hora": "15:30"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "OROÑO 866 1ER PISO",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Guaglianone Debora",
       "fecha": "2026-05-18",
       "hora": "09:30"
     },
     {
-      "centro": "CIRUGIA GENERAL COLOPROCTOLOGIA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL COLOPROCTOLOGIA",
-      "prof": "Cirugia General Coloproctologia",
+      "prof": "Villaggi Javier Ignacio",
       "fecha": "2026-06-08",
       "hora": "14:30"
     },
     {
-      "centro": "CIRUGIA DE CABEZA Y CUELLO",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA DE CABEZA Y CUELLO",
-      "prof": "Cirugia De Cabeza Y Cuello",
+      "prof": "Demaria Leonardo",
       "fecha": "2026-05-13",
       "hora": "17:30"
     },
     {
-      "centro": "CIRUGIA BUCOMAXILOFACIAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA BUCOMAXILOFACIAL",
-      "prof": "Cirugia Bucomaxilofacial",
+      "prof": "Blanco Roberto",
       "fecha": "2026-05-13",
       "hora": "19:40"
     },
     {
-      "centro": "CIRUGIA BUCOMAXILOFACIAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA BUCOMAXILOFACIAL",
-      "prof": "Cirugia Bucomaxilofacial",
+      "prof": "Moljo Javier Marcelo",
       "fecha": "2026-06-11",
       "hora": "09:00"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Ciribe Jorge",
       "fecha": "2026-06-02",
       "hora": "16:15"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Boretti Juan Jose Francisco",
       "fecha": "2026-05-20",
       "hora": "13:30"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Capitaine Funes Carlos",
       "fecha": "2026-05-21",
       "hora": "13:30"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Somoza Nicolas Ezequiel",
       "fecha": "2026-05-14",
       "hora": "09:45"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Pellegrino Hector Enrique",
       "fecha": "2026-05-18",
       "hora": "15:15"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Chort Federico Manuel",
       "fecha": "2026-05-27",
       "hora": "12:30"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Crisci Javier Ignacio",
       "fecha": "2026-05-13",
       "hora": "14:00"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Biagiola David Alberto",
       "fecha": "2026-05-18",
       "hora": "15:30"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Carrizo Ayelen",
       "fecha": "2026-05-20",
       "hora": "12:15"
     },
     {
-      "centro": "CIRUGIA TORAXICA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA TORAXICA",
-      "prof": "Cirugia Toraxica",
+      "prof": "Capitaine Funes Carlos",
       "fecha": "2026-05-21",
       "hora": "13:30"
     },
     {
-      "centro": "CIRUGIA TORAXICA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA TORAXICA",
-      "prof": "Cirugia Toraxica",
+      "prof": "Piatti Facundo",
       "fecha": "2026-05-18",
       "hora": "10:15"
     },
     {
-      "centro": "CIRUGIA MALFORMACIONES VASCULARES",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "CIRUGIA MALFORMACIONES VASCULARES",
-      "prof": "Cirugia Malformaciones Vasculares",
+      "prof": "Sueiras Munuce Ines",
       "fecha": "2026-05-18",
       "hora": "13:00"
     },
     {
-      "centro": "GASTROENTEROLOGIA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "GASTROENTEROLOGIA",
-      "prof": "Gastroenterologia",
+      "prof": "Galmes Jorge",
       "fecha": "2026-05-14",
       "hora": "15:45"
     },
     {
-      "centro": "HEMODINAMIA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "HEMODINAMIA",
-      "prof": "Hemodinamia",
+      "prof": "Sylvestre Begnis Federico",
       "fecha": "2026-05-19",
       "hora": "08:15"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Ciribe Jorgelina",
       "fecha": "2026-05-14",
       "hora": "10:40"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Melian Carolina",
       "fecha": "2026-05-18",
       "hora": "11:15"
     },
     {
-      "centro": "OTORRINO(MAREOS/ACUFENOS)",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "OTORRINO(MAREOS/ACUFENOS)",
-      "prof": "Otorrino(mareos/acufenos)",
+      "prof": "Melian Carolina",
       "fecha": "2026-05-18",
       "hora": "11:15"
     },
     {
-      "centro": "PROCTOLOGIA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "PROCTOLOGIA",
-      "prof": "Proctologia",
+      "prof": "Galmes Jorge",
       "fecha": "2026-05-14",
       "hora": "15:45"
     },
     {
-      "centro": "PROCTOLOGIA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "PROCTOLOGIA",
-      "prof": "Proctologia",
+      "prof": "Villaggi Javier Ignacio",
       "fecha": "2026-06-08",
       "hora": "14:30"
     },
     {
-      "centro": "PROCTOLOGIA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "PROCTOLOGIA",
-      "prof": "Proctologia",
+      "prof": "Pellegrino Hector Enrique",
       "fecha": "2026-05-18",
       "hora": "15:15"
     },
     {
-      "centro": "PROCTOLOGIA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "PROCTOLOGIA",
-      "prof": "Proctologia",
+      "prof": "Salim Leonardo",
       "fecha": "2026-05-15",
       "hora": "10:45"
     },
     {
-      "centro": "PROCTOLOGIA",
+      "centro": "OROÑO 866 2DO PISO",
       "esp": "PROCTOLOGIA",
-      "prof": "Proctologia",
+      "prof": "Chort Federico Manuel",
       "fecha": "2026-05-27",
       "hora": "12:30"
     },
     {
-      "centro": "ALERGIA GENERAL",
+      "centro": "SANTIAGO",
       "esp": "ALERGIA GENERAL",
-      "prof": "Alergia General",
+      "prof": "Molinari Ivan Pablo",
       "fecha": "2026-05-13",
       "hora": "17:45"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SANTIAGO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Zuccali Bibiana",
       "fecha": "2026-05-14",
       "hora": "11:15"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SANTIAGO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Espinoza Monica",
       "fecha": "2026-05-26",
       "hora": "17:30"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SANTIAGO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Garcia Alejandro",
       "fecha": "2026-05-18",
       "hora": "14:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SANTIAGO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Fernandez Celina Angelica",
       "fecha": "2026-05-18",
       "hora": "08:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SANTIAGO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Paultroni Maria Laura",
       "fecha": "2026-05-22",
       "hora": "14:50"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SANTIAGO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Kippes Antonela",
       "fecha": "2026-05-14",
       "hora": "14:45"
     },
     {
-      "centro": "CIRUGiA GINECOLOGICA",
+      "centro": "SANTIAGO",
       "esp": "CIRUGIA GINECOLOGICA",
-      "prof": "Cirugia Ginecologica",
+      "prof": "Isnardi Facundo Martin",
       "fecha": "2026-05-15",
       "hora": "09:30"
     },
     {
-      "centro": "CIRUGiA GINECOLOGICA",
+      "centro": "SANTIAGO",
       "esp": "CIRUGIA GINECOLOGICA",
-      "prof": "Cirugia Ginecologica",
+      "prof": "Dubois Analia",
       "fecha": "2026-06-11",
       "hora": "12:00"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Gonzalez Maria Florencia",
       "fecha": "2026-06-12",
       "hora": "10:00"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Paultroni Maria Laura",
       "fecha": "2026-05-22",
       "hora": "14:50"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Severino Federico Francisco",
       "fecha": "2026-05-28",
       "hora": "18:20"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Gonzalez Maria Florencia",
       "fecha": "2026-06-12",
       "hora": "10:00"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Fanelli Brenda",
       "fecha": "2026-05-21",
       "hora": "14:30"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Blesio Ayelen",
       "fecha": "2026-05-15",
       "hora": "12:40"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Dretakis Angela",
       "fecha": "2026-05-13",
       "hora": "14:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Bloise Leticia Andrea",
       "fecha": "2026-05-13",
       "hora": "17:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Farandato Federico",
       "fecha": "2026-05-14",
       "hora": "08:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Llusa Elena",
       "fecha": "2026-06-09",
       "hora": "16:40"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Isnardi Facundo Martin",
       "fecha": "2026-05-15",
       "hora": "09:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Dubois Analia",
       "fecha": "2026-06-11",
       "hora": "12:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Camer Florencia Angela",
       "fecha": "2026-06-08",
       "hora": "18:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Raccosta Maria Eugenia",
       "fecha": "2026-05-13",
       "hora": "15:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Anmuth Nerina",
       "fecha": "2026-05-13",
       "hora": "12:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Roggi Sofia",
       "fecha": "2026-05-14",
       "hora": "08:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Alonso Maria Encarnacion",
       "fecha": "2026-05-27",
       "hora": "09:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Isa Pavia Carolina",
       "fecha": "2026-05-21",
       "hora": "17:20"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SANTIAGO",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Epifani Natalia",
       "fecha": "2026-05-14",
       "hora": "15:00"
     },
     {
-      "centro": "INFECTOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "INFECTOLOGIA",
-      "prof": "Infectologia",
+      "prof": "Ugolini Antonela",
       "fecha": "2026-05-22",
       "hora": "08:45"
     },
     {
-      "centro": "INFECTOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "INFECTOLOGIA",
-      "prof": "Infectologia",
+      "prof": "Subira Carolina Soledad",
       "fecha": "2026-06-01",
       "hora": "17:15"
     },
     {
-      "centro": "MASTOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "MASTOLOGIA",
-      "prof": "Mastologia",
+      "prof": "Alonso Maria Encarnacion",
       "fecha": "2026-06-01",
       "hora": "12:30"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Vinuela Amilcar",
       "fecha": "2026-05-22",
       "hora": "14:00"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Morinigo Claudio",
       "fecha": "2026-05-20",
       "hora": "12:15"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Molina Rojas Antonio",
       "fecha": "2026-05-14",
       "hora": "08:45"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Costantini Ma Soledad",
       "fecha": "2026-05-19",
       "hora": "13:15"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Molina Rojas Lucas",
       "fecha": "2026-05-18",
       "hora": "14:15"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Pendino Rogelio",
       "fecha": "2026-05-14",
       "hora": "16:00"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Bozikovich Carolina",
       "fecha": "2026-05-18",
       "hora": "08:15"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Mannarino Silvina Estela",
       "fecha": "2026-05-18",
       "hora": "09:30"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Liguori Carla Estefania",
       "fecha": "2026-05-18",
       "hora": "18:20"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Suligoy Julieta Anahi",
       "fecha": "2026-05-26",
       "hora": "16:15"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "SANTIAGO",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Espinoza Monica",
       "fecha": "2026-05-27",
       "hora": "12:00"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "SANTIAGO",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Tabasso Maira Cintia",
       "fecha": "2026-05-13",
       "hora": "13:15"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "SANTIAGO",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Bertani Natali",
       "fecha": "2026-05-13",
       "hora": "12:20"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "SANTIAGO",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Roldan Roberto",
       "fecha": "2026-05-14",
       "hora": "13:30"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "centro": "SANTIAGO",
       "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
-      "prof": "Otorrinolaringologia Quirurgica",
+      "prof": "Roldan Roberto",
       "fecha": "2026-05-14",
       "hora": "13:30"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "SANTIAGO",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Martinez Maria Florencia",
       "fecha": "2026-05-18",
       "hora": "10:00"
     },
     {
-      "centro": "SOBREPESO Y OBESIDAD",
+      "centro": "SANTIAGO",
       "esp": "SOBREPESO Y OBESIDAD",
-      "prof": "Sobrepeso Y Obesidad",
+      "prof": "Tabasso Maira Cintia",
       "fecha": "2026-05-13",
       "hora": "13:15"
     },
     {
-      "centro": "ENFERMEDADES DE LA NUTRICION",
+      "centro": "SANTIAGO",
       "esp": "ENFERMEDADES DE LA NUTRICION",
-      "prof": "Enfermedades De La Nutricion",
+      "prof": "Severino Federico Francisco",
       "fecha": "2026-05-28",
       "hora": "18:20"
     },
     {
-      "centro": "PROGRAMA DE DETECCION TEMPRANA",
+      "centro": "SANTIAGO",
       "esp": "PROGRAMA DE DETECCION TEMPRANA",
-      "prof": "Programa De Deteccion Temprana",
+      "prof": "Pendino Rogelio",
       "fecha": "2026-05-14",
       "hora": "16:00"
     },
     {
-      "centro": "ASESORIA GENETICA DEL CANCER HEREDI",
+      "centro": "SANTIAGO",
       "esp": "ASESORIA GENETICA DEL CANCER HEREDI",
-      "prof": "Asesoria Genetica Del Cancer Heredi",
+      "prof": "Anmuth Nerina",
       "fecha": "2026-05-20",
       "hora": "11:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Pentimalli Bruno (cons Sur)",
       "fecha": "2026-05-29",
       "hora": "12:20"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Garros Pablo (cons Sur)",
       "fecha": "2026-05-15",
       "hora": "08:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Audisio Belen Estefania (cons Sur)",
       "fecha": "2026-05-18",
       "hora": "19:15"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "SAN MARTIN 4485",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Carrizo Ayelen (cons Sur)",
       "fecha": "2026-05-20",
       "hora": "08:45"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Fernandez Alvarez Felipe (cons Sur)",
       "fecha": "2026-05-13",
       "hora": "17:30"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Lingo Mariano Nicolas (cons Sur)",
       "fecha": "2026-06-10",
       "hora": "09:40"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Scalese Cintia (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "17:00"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "SAN MARTIN 4485",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Jankovic Romina Ines (cons Sur)",
       "fecha": "2026-06-10",
       "hora": "11:40"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "SAN MARTIN 4485",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Had Carla Lorena (cons Sur)",
       "fecha": "2026-06-08",
       "hora": "13:00"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Fernandez Alvarez Felipe (cons Sur)",
       "fecha": "2026-05-13",
       "hora": "17:30"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Buscema Valeria (cons Sur)",
       "fecha": "2026-06-09",
       "hora": "17:00"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Buscema Valeria (cons Sur)",
       "fecha": "2026-06-09",
       "hora": "17:00"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Sotelo Claudia (cons Sur)",
       "fecha": "2026-05-26",
       "hora": "09:00"
     },
     {
-      "centro": "GASTROENTEROLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "GASTROENTEROLOGIA",
-      "prof": "Gastroenterologia",
+      "prof": "Ortiz Maria Jimena (cons Sur)",
       "fecha": "2026-06-04",
       "hora": "08:00"
     },
     {
-      "centro": "GASTROENTEROLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "GASTROENTEROLOGIA",
-      "prof": "Gastroenterologia",
+      "prof": "Guelman Greta (cons Sur)",
       "fecha": "2026-05-27",
       "hora": "09:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Farandato Federico (cons Sur)",
       "fecha": "2026-05-20",
       "hora": "08:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Ochoa Heleg Berenice (cons Sur)",
       "fecha": "2026-05-19",
       "hora": "16:10"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Racigh Daniela (cons Sur)",
       "fecha": "2026-05-18",
       "hora": "10:50"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Alonso Maria Encarnacion (cons Sur)",
       "fecha": "2026-05-19",
       "hora": "08:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Mandrilli German (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "13:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Paggi Laura Roxana (cons Sur)",
       "fecha": "2026-06-01",
       "hora": "13:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Dichehut Maria Eugenia (cons Sur)",
       "fecha": "2026-05-15",
       "hora": "09:45"
     },
     {
-      "centro": "INFECTOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "INFECTOLOGIA",
-      "prof": "Infectologia",
+      "prof": "Ugolini Antonela (cons Sur)",
       "fecha": "2026-05-19",
       "hora": "08:30"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Martinez Rafael (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "17:20"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Bozikovich Carolina (cons Sur)",
       "fecha": "2026-05-22",
       "hora": "08:15"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "SAN MARTIN 4485",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Bianchi Florencia (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "08:45"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "SAN MARTIN 4485",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Teresich Romina (cons Sur)",
       "fecha": "2026-05-21",
       "hora": "12:00"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "SAN MARTIN 4485",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Cichillitti Maria V (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "18:00"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "SAN MARTIN 4485",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Albornoz Anahi (cons Sur)",
       "fecha": "2026-05-13",
       "hora": "17:30"
     },
     {
-      "centro": "OBSTETRICIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "OBSTETRICIA",
-      "prof": "Obstetricia",
+      "prof": "Farandato Federico (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "19:45"
     },
     {
-      "centro": "OBSTETRICIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "OBSTETRICIA",
-      "prof": "Obstetricia",
+      "prof": "Fiscella Claudio (cons Sur)",
       "fecha": "2026-05-26",
       "hora": "17:30"
     },
     {
-      "centro": "OBSTETRICIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "OBSTETRICIA",
-      "prof": "Obstetricia",
+      "prof": "Moron Maria Gaudalupe (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "08:40"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "SAN MARTIN 4485",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Diaz Carlos (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "12:20"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "SAN MARTIN 4485",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Dulcich Sofia (cons Sur)",
       "fecha": "2026-05-20",
       "hora": "17:45"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "centro": "SAN MARTIN 4485",
       "esp": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (5-16 Años)",
+      "prof": "Diaz Carlos (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "12:20"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Albanese Victor Hugo (cons Sur)",
       "fecha": "2026-05-18",
       "hora": "13:20"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Briggiler Jorge (cons Sur)",
       "fecha": "2026-05-14",
       "hora": "17:45"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Ianni Daniela (cons Sur)",
       "fecha": "2026-05-18",
       "hora": "09:45"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Martinangelio Patricia (cons Sur)",
       "fecha": "2026-05-19",
       "hora": "15:15"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Serrano Maria Carla (cons Sur)",
       "fecha": "2026-05-18",
       "hora": "13:45"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Wacker Erica (cons Sur)",
       "fecha": "2026-05-19",
       "hora": "08:45"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Crippa Carina (cons Sur)",
       "fecha": "2026-05-20",
       "hora": "16:45"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "SAN MARTIN 4485",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Fernandez Bussy A.(cons Sur)",
       "fecha": "2026-05-20",
       "hora": "12:20"
     },
     {
-      "centro": "NEUMONOLOGIA PEDIATRICA",
+      "centro": "SAN MARTIN 4485",
       "esp": "NEUMONOLOGIA PEDIATRICA",
-      "prof": "Neumonologia Pediatrica",
+      "prof": "Giussani Natali Roxana (cons Sur)",
       "fecha": "2026-05-28",
       "hora": "14:20"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "TRANSPLANTE",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Jaurretche Sebastian Pedro",
       "fecha": "2026-05-19",
       "hora": "14:20"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "TRANSPLANTE",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Lioi Tori Victoria",
       "fecha": "2026-05-14",
       "hora": "17:40"
     },
     {
-      "centro": "TRANSPLANTE MEDULA",
+      "centro": "TRANSPLANTE",
       "esp": "TRANSPLANTE MEDULA",
-      "prof": "Transplante Medula",
+      "prof": "Tx Alonso Virginia",
       "fecha": "2026-05-15",
       "hora": "11:00"
     },
     {
-      "centro": "MASTOLOGIA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "MASTOLOGIA",
-      "prof": "Mastologia",
+      "prof": "Mignini Luciano Enrique",
       "fecha": "2026-05-27",
       "hora": "10:20"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Spinelli Nadia Soledad",
       "fecha": "2026-05-27",
       "hora": "15:45"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Zucchetti Eliana",
       "fecha": "2026-05-13",
       "hora": "18:15"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Horsch Lara",
       "fecha": "2026-06-05",
       "hora": "08:30"
     },
     {
-      "centro": "NUTRICION ONCOLOGICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "NUTRICION ONCOLOGICA",
-      "prof": "Nutricion Oncologica",
+      "prof": "Spinelli Nadia Soledad",
       "fecha": "2026-05-27",
       "hora": "15:45"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Brown Arnold Mario Alfredo",
       "fecha": "2026-05-26",
       "hora": "10:20"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Trivisonno Fabian Mariano",
       "fecha": "2026-06-11",
       "hora": "16:30"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Martinengo Gaston",
       "fecha": "2026-05-28",
       "hora": "12:40"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Serafino Dario Waldemar",
       "fecha": "2026-05-15",
       "hora": "08:20"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Garbaos Gabriel",
       "fecha": "2026-05-26",
       "hora": "15:30"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Cigno Edgardo Luis",
       "fecha": "2026-05-22",
       "hora": "13:15"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Fruci Luisina",
       "fecha": "2026-05-14",
       "hora": "10:40"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Torres Sebastian Ariel",
       "fecha": "2026-05-27",
       "hora": "13:40"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Monzon Jesica",
       "fecha": "2026-05-26",
       "hora": "14:00"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Carbone Zarate Alejandro",
       "fecha": "2026-05-14",
       "hora": "09:00"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Barichello Federico Jesuan",
       "fecha": "2026-05-20",
       "hora": "16:00"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Ostoich Sandra Anabel",
       "fecha": "2026-05-13",
       "hora": "13:20"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Jurado Salgado Ramiro",
       "fecha": "2026-05-19",
       "hora": "17:00"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Dri Alejandro Adhemar",
       "fecha": "2026-06-09",
       "hora": "08:20"
     },
     {
-      "centro": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
-      "prof": "Cuidados De Soporte Y Med.paliativa",
+      "prof": "Mas Yanina",
       "fecha": "2026-05-14",
       "hora": "13:30"
     },
     {
-      "centro": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "CUIDADOS DE SOPORTE Y MED.PALIATIVA",
-      "prof": "Cuidados De Soporte Y Med.paliativa",
+      "prof": "Capozza Maria Ines",
       "fecha": "2026-06-01",
       "hora": "18:30"
     },
     {
-      "centro": "ASESORIA GENETICA DEL CANCER HEREDI",
+      "centro": "ONCOLOGIA (SOLO ONCÓLOGOS)",
       "esp": "ASESORIA GENETICA DEL CANCER HEREDI",
-      "prof": "Asesoria Genetica Del Cancer Heredi",
+      "prof": "Beltran Lucia",
       "fecha": "2026-05-14",
       "hora": "14:30"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "OROÑO 740",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Vera Castillo Oscar (oroño 740)",
       "fecha": "2026-05-13",
       "hora": "12:45"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "OROÑO 740",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Spinelli Eugenia (oroño 740)",
       "fecha": "2026-05-16",
       "hora": "09:00"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "OROÑO 740",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Vera Barros Lucia Ines (oroño 740)",
       "fecha": "2026-06-05",
       "hora": "10:20"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "OROÑO 740",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Rossignol Rodrigo (oroño 740)",
       "fecha": "2026-06-02",
       "hora": "08:40"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "OROÑO 740",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Mogliani Valentin (oroño 740)",
       "fecha": "2026-05-14",
       "hora": "10:20"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "OROÑO 740",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Giuliani Maria Javiera (oroño 740)",
       "fecha": "2026-05-14",
       "hora": "17:40"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "OROÑO 740",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Marinovich Vanesa (oroño 740)",
       "fecha": "2026-05-22",
       "hora": "10:30"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 740",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Munuce Hernan (oroño 740)",
       "fecha": "2026-05-14",
       "hora": "13:10"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 740",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Fernandez Alvarez Felipe(oroño 740)",
       "fecha": "2026-05-19",
       "hora": "18:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 740",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Meschini Gabriela (oroño 740)",
       "fecha": "2026-05-19",
       "hora": "09:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 740",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Seri Faviola Maria (oroño 740)",
       "fecha": "2026-05-15",
       "hora": "14:15"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 740",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Caminer Ana Clara (oroño 740)",
       "fecha": "2026-05-13",
       "hora": "13:10"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 740",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Costantini Ma Soledad (oroño 740)",
       "fecha": "2026-05-14",
       "hora": "19:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 740",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Diez Tomas (oroño 740)",
       "fecha": "2026-05-26",
       "hora": "17:30"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "OROÑO 740",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Ricciuti Paolo (oroño 740)",
       "fecha": "2026-05-16",
       "hora": "08:45"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Giavarini Alejandro (oroño 740)",
       "fecha": "2026-05-26",
       "hora": "08:30"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Ortega Veronica Andrea (oroño 740)",
       "fecha": "2026-06-12",
       "hora": "09:40"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Lashak Celina (oroño 740)",
       "fecha": "2026-05-18",
       "hora": "15:40"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Had Carla Lorena (oroño 740)",
       "fecha": "2026-06-04",
       "hora": "12:20"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Martinelli Maria Flor (oroño 740)",
       "fecha": "2026-06-02",
       "hora": "12:45"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Rosso Pablo Joaquin (oroño 740)",
       "fecha": "2026-05-27",
       "hora": "15:40"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Bonifacio Maria Julia (oroño 740)",
       "fecha": "2026-06-08",
       "hora": "13:15"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Squeff Mario (oroño 740)",
       "fecha": "2026-06-12",
       "hora": "14:20"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Calligaris Maria (oroño 740)",
       "fecha": "2026-05-15",
       "hora": "08:30"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Cambursano Cintia (oroño 740)",
       "fecha": "2026-06-01",
       "hora": "10:10"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Pereson Antonela (oroño 740)",
       "fecha": "2026-06-04",
       "hora": "14:10"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Moreno Maria Carolina (oroño 740)",
       "fecha": "2026-05-28",
       "hora": "09:50"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Amormino Rocio Isabel (oroño 740)",
       "fecha": "2026-05-15",
       "hora": "10:00"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "OROÑO 740",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Llahyah Yamile Alejandra(oroño 740)",
       "fecha": "2026-06-08",
       "hora": "09:20"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Seibel Noemi (oroño 740)",
       "fecha": "2026-05-27",
       "hora": "11:00"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Fernandez Alvarez Felipe(oroño 740)",
       "fecha": "2026-05-19",
       "hora": "18:00"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Bayo Salvador (oroño 740)",
       "fecha": "2026-05-18",
       "hora": "19:00"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Seibel Noemi (oroño 740)",
       "fecha": "2026-05-27",
       "hora": "11:00"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Pitasny Gabriel (oroño 740)",
       "fecha": "2026-05-27",
       "hora": "16:20"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Bayo Salvador (oroño 740)",
       "fecha": "2026-05-18",
       "hora": "19:00"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Sgrosso Marina Sofia (oroño 740)",
       "fecha": "2026-05-13",
       "hora": "13:00"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Bordigoni Ulises (oroño 740)",
       "fecha": "2026-05-14",
       "hora": "08:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 740",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Beltran Lucia (oroño 740)",
       "fecha": "2026-06-09",
       "hora": "11:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 740",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Linares Casas Maria (oroño 740)",
       "fecha": "2026-05-29",
       "hora": "09:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 740",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Buono Yanina (oroño 740)",
       "fecha": "2026-05-22",
       "hora": "17:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 740",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Reano Maria E (oroño 740)",
       "fecha": "2026-05-14",
       "hora": "13:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 740",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Burki Jesica (oroño 740)",
       "fecha": "2026-05-13",
       "hora": "12:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 740",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Arballo Maria C (oroño 740)",
       "fecha": "2026-06-05",
       "hora": "09:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "OROÑO 740",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Racigh Daniela (oroño 740)",
       "fecha": "2026-05-26",
       "hora": "16:10"
     },
     {
-      "centro": "MASTOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "MASTOLOGIA",
-      "prof": "Mastologia",
+      "prof": "Mignini Luciano (oroño 740)",
       "fecha": "2026-05-18",
       "hora": "08:20"
     },
     {
-      "centro": "MASTOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "MASTOLOGIA",
-      "prof": "Mastologia",
+      "prof": "Arballo Maria C (oroño 740)",
       "fecha": "2026-06-05",
       "hora": "09:45"
     },
     {
-      "centro": "GINECOLOGÍA PEDIÁTRICA",
+      "centro": "OROÑO 740",
       "esp": "GINECOLOGÍA PEDIÁTRICA",
-      "prof": "Ginecología Pediátrica",
+      "prof": "Buono Yanina (oroño 740)",
       "fecha": "2026-05-22",
       "hora": "17:30"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "OROÑO 740",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Costantini Ma Soledad (oroño 740)",
       "fecha": "2026-05-14",
       "hora": "19:00"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Amigot Beatriz (oroño 740)",
       "fecha": "2026-05-14",
       "hora": "15:00"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "OROÑO 740",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Carbo Sebastian (oroño 740)",
       "fecha": "2026-05-18",
       "hora": "08:00"
     },
     {
-      "centro": "GENETICA",
+      "centro": "OROÑO 740",
       "esp": "GENETICA",
-      "prof": "Genetica",
+      "prof": "Carbognani Silvia (oroño 740)",
       "fecha": "2026-05-16",
       "hora": "09:20"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Pons Estel Bernardo (oroño 740)",
       "fecha": "2026-05-13",
       "hora": "18:00"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Quintana Rosana (oroño 740)",
       "fecha": "2026-05-14",
       "hora": "16:10"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Chavero Ignacio (oroño 740)",
       "fecha": "2026-05-20",
       "hora": "16:30"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Pons Estel Guillermo (oroño 740)",
       "fecha": "2026-06-09",
       "hora": "16:40"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Caminer Ana Clara (oroño 740)",
       "fecha": "2026-05-13",
       "hora": "13:30"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Nieto Romina Estefania (oroño 740)",
       "fecha": "2026-06-01",
       "hora": "16:45"
     },
     {
-      "centro": "SOBREPESO Y OBESIDAD",
+      "centro": "OROÑO 740",
       "esp": "SOBREPESO Y OBESIDAD",
-      "prof": "Sobrepeso Y Obesidad",
+      "prof": "Carbo Sebastian (oroño 740)",
       "fecha": "2026-05-18",
       "hora": "08:00"
     },
     {
-      "centro": "MEDICO",
+      "centro": "OROÑO 740",
       "esp": "MEDICO",
-      "prof": "Medico",
+      "prof": "Ricciuti Paolo (oroño 740)",
       "fecha": "2026-05-16",
       "hora": "08:45"
     },
     {
-      "centro": "COSMETOLOGIA",
+      "centro": "OROÑO 740",
       "esp": "COSMETOLOGIA",
-      "prof": "Cosmetologia",
+      "prof": "Benitez Monica",
       "fecha": "2026-05-19",
       "hora": "15:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Sandalo Lucia Amelia(kine Sur)",
       "fecha": "2026-05-14",
       "hora": "13:20"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Ricciuti Paolo Renzo (kine Sur)",
       "fecha": "2026-05-15",
       "hora": "15:15"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Calcagno Maria Florencia (kine Sur)",
       "fecha": "2026-06-01",
       "hora": "11:00"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Acerbo Ignacio (kine Sur)",
       "fecha": "2026-06-09",
       "hora": "17:30"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Chavero Ignacio (kine Sur)",
       "fecha": "2026-05-19",
       "hora": "15:30"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Ramos Fernando Augusto (kine Sur)",
       "fecha": "2026-05-15",
       "hora": "12:30"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Purrello Silvia (kine Sur)",
       "fecha": "2026-05-19",
       "hora": "11:00"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Spagnoli Gerardo (kine Sur)",
       "fecha": "2026-05-19",
       "hora": "10:30"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Kraier Andres (kine Sur)",
       "fecha": "2026-05-14",
       "hora": "09:50"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "De Luca Ramiro (kine Sur)",
       "fecha": "2026-05-18",
       "hora": "18:40"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Teran Mauricio (kine Sur)",
       "fecha": "2026-05-15",
       "hora": "10:20"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Lopez Noe Luciano Martin (kine Sur)",
       "fecha": "2026-05-18",
       "hora": "13:00"
     },
     {
-      "centro": "MEDICO",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "MEDICO",
-      "prof": "Medico",
+      "prof": "Ricciuti Paolo Renzo (kine Sur)",
       "fecha": "2026-05-15",
       "hora": "15:15"
     },
     {
-      "centro": "TRAUMATOLOGIA NIÑOS",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA NIÑOS",
-      "prof": "Traumatologia Niños",
+      "prof": "Purrello Silvia (kine Sur)",
       "fecha": "2026-05-19",
       "hora": "11:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA DEL DEPORTE",
-      "prof": "Traumatologia Del Deporte",
+      "prof": "Kraier Andres (kine Sur)",
       "fecha": "2026-05-14",
       "hora": "09:50"
     },
     {
-      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA DEL DEPORTE",
-      "prof": "Traumatologia Del Deporte",
+      "prof": "De Luca Ramiro (kine Sur)",
       "fecha": "2026-05-18",
       "hora": "18:40"
     },
     {
-      "centro": "TRAUMATOLOGIA INFANTO JUVENIL",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA INFANTO JUVENIL",
-      "prof": "Traumatologia Infanto Juvenil",
+      "prof": "Kraier Andres (kine Sur)",
       "fecha": "2026-05-14",
       "hora": "09:50"
     },
     {
-      "centro": "CARDIOLOGIA PEDIATRICA",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "CARDIOLOGIA PEDIATRICA",
-      "prof": "Cardiologia Pediatrica",
+      "prof": "Mollo Felix Martin (kine Sur)",
       "fecha": "2026-05-21",
       "hora": "16:45"
     },
     {
-      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
-      "prof": "Traumatologia Muñeca Y Mano",
+      "prof": "Muñoz Mariana Cecilia (cons Sur)",
       "fecha": "2026-05-19",
       "hora": "13:45"
     },
     {
-      "centro": "TRAUMATOLOGIA MUÑECA Y MANO",
+      "centro": "SAN MARTIN 4465 KINE",
       "esp": "TRAUMATOLOGIA MUÑECA Y MANO",
-      "prof": "Traumatologia Muñeca Y Mano",
+      "prof": "Muñoz Mariana Cecilia (kine Sur)",
       "fecha": "2026-06-05",
       "hora": "17:45"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Zajdel Sharon (kine Bras)",
       "fecha": "2026-05-19",
       "hora": "09:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Torres Va Guillermo (kine Bras)",
       "fecha": "2026-05-18",
       "hora": "10:40"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Dominguez Maria Jose (kine Bras)",
       "fecha": "2026-05-19",
       "hora": "18:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Pendino Juan Carlos (kine Bras)",
       "fecha": "2026-05-13",
       "hora": "19:10"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Acharta Maria Eugenia (kine Bras)",
       "fecha": "2026-06-12",
       "hora": "08:30"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Scalese Cintia (kine Bras)",
       "fecha": "2026-05-18",
       "hora": "14:20"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Acharta Maria Eugenia (kine Bras)",
       "fecha": "2026-06-12",
       "hora": "08:30"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Navarro Mariangeles (kine Bras)",
       "fecha": "2026-05-28",
       "hora": "10:45"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Severino Federico (kine Bras)",
       "fecha": "2026-06-01",
       "hora": "14:00"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Vinuela Amilcar (kine Bras)",
       "fecha": "2026-05-20",
       "hora": "08:15"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Silvestrini Carla (kine Bras)",
       "fecha": "2026-05-14",
       "hora": "13:45"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Tradotti Carolina (kine Bras)",
       "fecha": "2026-05-15",
       "hora": "11:10"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Purrello Silvia (kine Bras)",
       "fecha": "2026-05-19",
       "hora": "15:10"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "De Luca Ramiro (kine Bras)",
       "fecha": "2026-05-15",
       "hora": "16:15"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Lopez Noe Luciano (kine Bras)",
       "fecha": "2026-05-21",
       "hora": "09:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "TRAUMATOLOGIA DE RODILLA",
-      "prof": "Traumatologia De Rodilla",
+      "prof": "Tradotti Carolina (kine Bras)",
       "fecha": "2026-05-15",
       "hora": "11:10"
     },
     {
-      "centro": "ENFERMEDADES DE LA NUTRICION",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "ENFERMEDADES DE LA NUTRICION",
-      "prof": "Enfermedades De La Nutricion",
+      "prof": "Severino Federico (kine Bras)",
       "fecha": "2026-06-01",
       "hora": "14:00"
     },
     {
-      "centro": "TRAUMATOLOGIA NIÑOS",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "TRAUMATOLOGIA NIÑOS",
-      "prof": "Traumatologia Niños",
+      "prof": "Purrello Silvia (kine Bras)",
       "fecha": "2026-05-19",
       "hora": "15:10"
     },
     {
-      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "centro": "GO FISHERTON KINESIO BRASSEY 7937",
       "esp": "TRAUMATOLOGIA DEL DEPORTE",
-      "prof": "Traumatologia Del Deporte",
+      "prof": "De Luca Ramiro (kine Bras)",
       "fecha": "2026-05-15",
       "hora": "16:15"
     },
     {
-      "centro": "CIRUGIA OFTALMOLOGICA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "CIRUGIA OFTALMOLOGICA",
-      "prof": "Cirugia Oftalmologica",
+      "prof": "Velez Nicolas",
       "fecha": "2026-05-14",
       "hora": "17:30"
     },
     {
-      "centro": "CIRUGIA OFTALMOLOGICA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "CIRUGIA OFTALMOLOGICA",
-      "prof": "Cirugia Oftalmologica",
+      "prof": "Martinez Melella Francisco",
       "fecha": "2026-05-21",
       "hora": "08:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Velez Nicolas",
       "fecha": "2026-05-14",
       "hora": "17:30"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Peruzzo Lisandro Hugo",
       "fecha": "2026-05-14",
       "hora": "09:30"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Martinez Melella Francisco",
       "fecha": "2026-05-21",
       "hora": "08:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Talarn Diego Carlos",
       "fecha": "2026-05-14",
       "hora": "16:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Suarez Villalobos Alvaro",
       "fecha": "2026-06-05",
       "hora": "16:50"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Barlatey Maria Soledad",
       "fecha": "2026-05-14",
       "hora": "15:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Rufanacht Virginia Soledad",
       "fecha": "2026-05-18",
       "hora": "09:15"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Fissore Marianela Anabel",
       "fecha": "2026-05-21",
       "hora": "09:15"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Verna Useglio Maria",
       "fecha": "2026-05-13",
       "hora": "18:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Santalucia Mirna Soledad",
       "fecha": "2026-05-14",
       "hora": "10:10"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Perez Risso Maria Soledad",
       "fecha": "2026-05-29",
       "hora": "14:15"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Dalmau Alejandra",
       "fecha": "2026-05-18",
       "hora": "11:15"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Ezcurra Maria Lucia",
       "fecha": "2026-05-13",
       "hora": "13:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Miassi Fernando Cesar",
       "fecha": "2026-05-13",
       "hora": "12:45"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Ciarlo Elina",
       "fecha": "2026-05-19",
       "hora": "09:15"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Zega Bruno Fernando",
       "fecha": "2026-05-13",
       "hora": "13:15"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Garcilazo Facundo",
       "fecha": "2026-05-18",
       "hora": "16:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Rossi Lucia Vanesa",
       "fecha": "2026-05-14",
       "hora": "16:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Basano Lucia Maria Del Valle",
       "fecha": "2026-06-03",
       "hora": "12:00"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Audicana Melina",
       "fecha": "2026-05-15",
       "hora": "15:30"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Gerster Fanny Andrea",
       "fecha": "2026-05-18",
       "hora": "13:10"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Marengo Marina",
       "fecha": "2026-05-14",
       "hora": "16:50"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Alvarez Maria Florencia",
       "fecha": "2026-05-16",
       "hora": "10:30"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Alvarez Lorena Silvina",
       "fecha": "2026-05-20",
       "hora": "08:30"
     },
     {
-      "centro": "OFTALMOLOGIA (SOLO ADULTOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA (SOLO ADULTOS)",
-      "prof": "Oftalmologia (solo Adultos)",
+      "prof": "Maldonado Nadia Belen",
       "fecha": "2026-05-22",
       "hora": "16:00"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "prof": "Talarn Emilce Marcela",
       "fecha": "2026-05-28",
       "hora": "08:40"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "prof": "Di Sipio Agustina",
       "fecha": "2026-05-29",
       "hora": "11:15"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "prof": "Gregoret Ana Ines",
       "fecha": "2026-06-03",
       "hora": "08:15"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "prof": "Perez Risso Maria Soledad",
       "fecha": "2026-05-29",
       "hora": "14:15"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "prof": "Basano Lucia Maria Del Valle",
       "fecha": "2026-06-03",
       "hora": "12:00"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (5-16 Años)",
+      "prof": "Talarn Diego Carlos",
       "fecha": "2026-05-14",
       "hora": "16:00"
     },
     {
-      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA QUIRURGICA",
-      "prof": "Oftalmologia Quirurgica",
+      "prof": "Velez Nicolas",
       "fecha": "2026-05-14",
       "hora": "17:30"
     },
     {
-      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA QUIRURGICA",
-      "prof": "Oftalmologia Quirurgica",
+      "prof": "Martinez Melella Francisco",
       "fecha": "2026-05-21",
       "hora": "08:00"
     },
     {
-      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA QUIRURGICA",
-      "prof": "Oftalmologia Quirurgica",
+      "prof": "Suarez Villalobos Alvaro",
       "fecha": "2026-06-05",
       "hora": "16:50"
     },
     {
-      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA QUIRURGICA",
-      "prof": "Oftalmologia Quirurgica",
+      "prof": "Miassi Fernando Cesar",
       "fecha": "2026-05-13",
       "hora": "12:45"
     },
     {
-      "centro": "OFTALMOLOGIA QUIRURGICA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA QUIRURGICA",
-      "prof": "Oftalmologia Quirurgica",
+      "prof": "Garcilazo Facundo",
       "fecha": "2026-05-18",
       "hora": "16:00"
     },
     {
-      "centro": "ORTOPTISTA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "ORTOPTISTA",
-      "prof": "Ortoptista",
+      "prof": "Mangoni Liliana Marisa",
       "fecha": "2026-05-13",
       "hora": "17:15"
     },
     {
-      "centro": "ORTOPTISTA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "ORTOPTISTA",
-      "prof": "Ortoptista",
+      "prof": "Bembo Gonzalo Carlos",
       "fecha": "2026-05-19",
       "hora": "14:45"
     },
     {
-      "centro": "ALERGIA OCULAR",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "ALERGIA OCULAR",
-      "prof": "Alergia Ocular",
+      "prof": "Chorzepa Gonzalo",
       "fecha": "2026-05-18",
       "hora": "08:00"
     },
     {
-      "centro": "OFTAMOLOGIA CIRUGIA DE RETINA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTAMOLOGIA CIRUGIA DE RETINA",
-      "prof": "Oftamologia Cirugia De Retina",
+      "prof": "Suarez Villalobos Alvaro",
       "fecha": "2026-06-05",
       "hora": "16:50"
     },
     {
-      "centro": "OFTAMOLOGIA CIRUGIA DE RETINA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTAMOLOGIA CIRUGIA DE RETINA",
-      "prof": "Oftamologia Cirugia De Retina",
+      "prof": "Miassi Fernando Cesar",
       "fecha": "2026-05-13",
       "hora": "12:45"
     },
     {
-      "centro": "OFTALMOLOGIA PATOLOGIA DE LA CORNEA",
+      "centro": "GO OFTALMOLOGIA (OROÑO 1495)",
       "esp": "OFTALMOLOGIA PATOLOGIA DE LA CORNEA",
-      "prof": "Oftalmologia Patologia De La Cornea",
+      "prof": "Grossi Daniel German",
       "fecha": "2026-05-18",
       "hora": "12:45"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Crisci Javier Ignacio (cons Bras)",
       "fecha": "2026-05-19",
       "hora": "09:45"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Gurrieri Maria Eugenia (cons Bras)",
       "fecha": "2026-05-14",
       "hora": "19:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Machado Bibiana Paola (cons Bras)",
       "fecha": "2026-05-19",
       "hora": "16:30"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Cimenton Natali (cons Bras)",
       "fecha": "2026-05-19",
       "hora": "14:15"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Meschini Gabriela (cons Bras)",
       "fecha": "2026-05-18",
       "hora": "09:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Discaciati Santiago (cons Bras)",
       "fecha": "2026-05-18",
       "hora": "14:40"
     },
     {
-      "centro": "CIRUGiA GINECOLOGICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "CIRUGIA GINECOLOGICA",
-      "prof": "Cirugia Ginecologica",
+      "prof": "Miralles Noelia Lucia(cons Bras)",
       "fecha": "2026-05-19",
       "hora": "10:30"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Jankovic Romina Ines (cons Bras)",
       "fecha": "2026-06-12",
       "hora": "09:00"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Reynoso Maria Belen (cons Bras)",
       "fecha": "2026-06-10",
       "hora": "14:50"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Chorzepa Carolina (cons Bras)",
       "fecha": "2026-05-14",
       "hora": "08:30"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Bertaina Carolina (cons Bras)",
       "fecha": "2026-05-13",
       "hora": "13:30"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Amormino Rocio Isabel (cons Bras)",
       "fecha": "2026-05-20",
       "hora": "09:45"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Llahyah Yamile Alejandra (cons Bras",
       "fecha": "2026-06-04",
       "hora": "16:45"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Sgrosso Marina (cons Bras)",
       "fecha": "2026-05-14",
       "hora": "08:30"
     },
     {
-      "centro": "GASTROENTEROLOGIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "GASTROENTEROLOGIA",
-      "prof": "Gastroenterologia",
+      "prof": "Zambello Yanina (cons Bras)",
       "fecha": "2026-05-18",
       "hora": "13:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Reano Maria Eugenia (cons Bras)",
       "fecha": "2026-06-09",
       "hora": "12:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Racca Georgina (cons Bras)",
       "fecha": "2026-05-14",
       "hora": "08:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Rodriguez Soledad V. (cons Bras)",
       "fecha": "2026-05-18",
       "hora": "13:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Daher Valeria Marina (cons Bras)",
       "fecha": "2026-06-12",
       "hora": "08:40"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Dominici Sofia (cons Bras)",
       "fecha": "2026-05-22",
       "hora": "14:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Miralles Noelia Lucia(cons Bras)",
       "fecha": "2026-05-19",
       "hora": "10:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Boccoli Lucia (cons Bras)",
       "fecha": "2026-06-02",
       "hora": "14:30"
     },
     {
-      "centro": "NEFROLOGIA INFANTIL",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "NEFROLOGIA INFANTIL",
-      "prof": "Nefrologia Infantil",
+      "prof": "Rivichini Patricia (cons Bras)",
       "fecha": "2026-05-26",
       "hora": "12:00"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Galassi Marcos (cons Bras)",
       "fecha": "2026-05-20",
       "hora": "08:50"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Carbo Sebastian (cons Bras)",
       "fecha": "2026-05-21",
       "hora": "13:50"
     },
     {
-      "centro": "OBSTETRICIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "OBSTETRICIA",
-      "prof": "Obstetricia",
+      "prof": "Moron Maria Gaudalupe (cons Bras)",
       "fecha": "2026-05-18",
       "hora": "15:40"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Acerbo Ignacio (cons Bras)",
       "fecha": "2026-06-12",
       "hora": "14:00"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "OFTALMOLOGIA PEDIATRICA (0-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (0-16 Años)",
+      "prof": "Collin Barbara (cons Bras)",
       "fecha": "2026-05-20",
       "hora": "15:50"
     },
     {
-      "centro": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "OFTALMOLOGIA PEDIATRICA (5-16 AÑOS)",
-      "prof": "Oftalmologia Pediatrica (5-16 Años)",
+      "prof": "Vanoli Dolzani Maria (cons Bras)",
       "fecha": "2026-05-15",
       "hora": "09:10"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Imhoff Ricardo Adolfo (cons Bras)",
       "fecha": "2026-05-14",
       "hora": "14:30"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Mejico Edmundo Jose (cons Bras)",
       "fecha": "2026-05-19",
       "hora": "16:45"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Fantin Mercedes Maria (cons Bras)",
       "fecha": "2026-06-04",
       "hora": "08:30"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Neri Maria Florencia (cons Bras)",
       "fecha": "2026-05-15",
       "hora": "09:15"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Moretta Cyntia Anabel (cons Bras)",
       "fecha": "2026-05-19",
       "hora": "09:45"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Marino Antonela Cielo (cons Bras)",
       "fecha": "2026-05-13",
       "hora": "16:15"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Ianni Daniela Alejandra (cons Bras)",
       "fecha": "2026-05-19",
       "hora": "15:00"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Lucero Maria Silvana (cons Bras)",
       "fecha": "2026-05-13",
       "hora": "17:30"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Martin Diana Gabriela (cons Bras)",
       "fecha": "2026-06-04",
       "hora": "10:45"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Miretti Carlos Dario (cons Bras)",
       "fecha": "2026-05-16",
       "hora": "10:15"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Scrimizzi Silvina (cons Bras)",
       "fecha": "2026-05-14",
       "hora": "11:30"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Wacker Erica (cons Bras)",
       "fecha": "2026-05-15",
       "hora": "08:45"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Wapenka Angelica Valeria (cons Bras",
       "fecha": "2026-05-18",
       "hora": "09:45"
     },
     {
-      "centro": "PROCTOLOGIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "PROCTOLOGIA",
-      "prof": "Proctologia",
+      "prof": "Salim Leonardo (cons Bras)",
       "fecha": "2026-05-19",
       "hora": "18:30"
     },
     {
-      "centro": "SOBREPESO Y OBESIDAD",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "SOBREPESO Y OBESIDAD",
-      "prof": "Sobrepeso Y Obesidad",
+      "prof": "Carbo Sebastian (cons Bras)",
       "fecha": "2026-05-21",
       "hora": "13:50"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Callaci Agustin (cons Bras)",
       "fecha": "2026-05-13",
       "hora": "14:10"
     },
     {
-      "centro": "NEUMONOLOGIA PEDIATRICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "NEUMONOLOGIA PEDIATRICA",
-      "prof": "Neumonologia Pediatrica",
+      "prof": "Giussani Natali Roxana (cons.bras)",
       "fecha": "2026-05-18",
       "hora": "08:15"
     },
     {
-      "centro": "MEDICO",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "MEDICO",
-      "prof": "Medico",
+      "prof": "Gurrieri Maria Eugenia (cons Bras)",
       "fecha": "2026-05-14",
       "hora": "19:00"
     },
     {
-      "centro": "NUTRICION PEDIATRICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "NUTRICION PEDIATRICA",
-      "prof": "Nutricion Pediatrica",
+      "prof": "Calderini Estefania (cons Bras)",
       "fecha": "2026-05-14",
       "hora": "12:00"
     },
     {
-      "centro": "NUTRICION PEDIATRICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "NUTRICION PEDIATRICA",
-      "prof": "Nutricion Pediatrica",
+      "prof": "Albornoz Anahi(cons Bras)",
       "fecha": "2026-05-15",
       "hora": "17:30"
     },
     {
-      "centro": "DERMATOLOGIA PEDIATRICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "DERMATOLOGIA PEDIATRICA",
-      "prof": "Dermatologia Pediatrica",
+      "prof": "Jankovic Romina Ines (cons Bras)",
       "fecha": "2026-06-11",
       "hora": "13:00"
     },
     {
-      "centro": "DERMATOLOGIA PEDIATRICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "DERMATOLOGIA PEDIATRICA",
-      "prof": "Dermatologia Pediatrica",
+      "prof": "Chorzepa Carolina (cons Bras)",
       "fecha": "2026-05-19",
       "hora": "14:00"
     },
     {
-      "centro": "UROLOGIA PEDIATRICA",
+      "centro": "GO FISHERTON BRASSEY 7947",
       "esp": "UROLOGIA PEDIATRICA",
-      "prof": "Urologia Pediatrica",
+      "prof": "Garcia Lucia Celeste",
       "fecha": "2026-05-26",
       "hora": "16:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Staffieri Gustavo Jose (jcr)",
       "fecha": "2026-05-18",
       "hora": "16:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Imhoff Denise (jcr)",
       "fecha": "2026-05-16",
       "hora": "11:10"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Zajdel Sharon Geraldine (jcr)",
       "fecha": "2026-05-21",
       "hora": "09:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Covelli Guillermo (jcr)",
       "fecha": "2026-05-19",
       "hora": "09:15"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Chichizola Nicolas (jcr)",
       "fecha": "2026-06-05",
       "hora": "12:45"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Lopez Silvana (jcr)",
       "fecha": "2026-05-21",
       "hora": "08:15"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Burgos Mariana (jcr)",
       "fecha": "2026-05-13",
       "hora": "12:15"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Caminer Ana Clara (jcr)",
       "fecha": "2026-05-14",
       "hora": "08:40"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Diodati Sheila (jcr)",
       "fecha": "2026-05-14",
       "hora": "08:40"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Discaciati Santiago (jcr)",
       "fecha": "2026-05-13",
       "hora": "17:30"
     },
     {
-      "centro": "DEPORTOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "DEPORTOLOGIA",
-      "prof": "Deportologia",
+      "prof": "Diaz Cristian(jcr)",
       "fecha": "2026-05-18",
       "hora": "14:00"
     },
     {
-      "centro": "DEPORTOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "DEPORTOLOGIA",
-      "prof": "Deportologia",
+      "prof": "Montrasi Marcelo (jcr)",
       "fecha": "2026-05-13",
       "hora": "16:50"
     },
     {
-      "centro": "DEPORTOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "DEPORTOLOGIA",
-      "prof": "Deportologia",
+      "prof": "Benetti Ines Maria (jcr)",
       "fecha": "2026-05-14",
       "hora": "12:30"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Schalin Cecilia (jcr)",
       "fecha": "2026-06-03",
       "hora": "11:15"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Neri Maria Florencia (jcr)",
       "fecha": "2026-05-14",
       "hora": "16:00"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Miretti Carlos Dario (jcr)",
       "fecha": "2026-05-19",
       "hora": "13:20"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Rusconi Marcela Cintia (jcr)",
       "fecha": "2026-05-21",
       "hora": "14:30"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Scrimizzi Silvina (jcr)",
       "fecha": "2026-05-22",
       "hora": "17:00"
     },
     {
-      "centro": "PEDIATRIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "PEDIATRIA",
-      "prof": "Pediatria",
+      "prof": "Wapenka Angelica Valeria (jcr)",
       "fecha": "2026-05-13",
       "hora": "14:15"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Chavero Ignacio (jcr)",
       "fecha": "2026-05-14",
       "hora": "17:15"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Caminer Ana Clara (jcr)",
       "fecha": "2026-05-14",
       "hora": "08:40"
     },
     {
-      "centro": "SIN ESPECIALIDAD",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "SIN ESPECIALIDAD",
-      "prof": "Sin Especialidad",
+      "prof": "Valdettaro Alejandro",
       "fecha": "2026-05-16",
       "hora": "08:00"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Amico Esteban (jcr)",
       "fecha": "2026-05-18",
       "hora": "08:30"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Kraier Andres (jcr)",
       "fecha": "2026-05-15",
       "hora": "09:30"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Ferrazini Gonzalo (jcr)",
       "fecha": "2026-05-15",
       "hora": "15:00"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Bordone Juan Pablo (jcr)",
       "fecha": "2026-05-14",
       "hora": "16:00"
     },
     {
-      "centro": "TRAUMATOLOGIA GENERAL",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA GENERAL",
-      "prof": "Traumatologia General",
+      "prof": "Estrella Sebastian (jcr)",
       "fecha": "2026-05-18",
       "hora": "16:30"
     },
     {
-      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA DE RODILLA",
-      "prof": "Traumatologia De Rodilla",
+      "prof": "Moscariello Federico (jcr)",
       "fecha": "2026-05-15",
       "hora": "14:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DE RODILLA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA DE RODILLA",
-      "prof": "Traumatologia De Rodilla",
+      "prof": "Amico Esteban (jcr)",
       "fecha": "2026-05-18",
       "hora": "08:30"
     },
     {
-      "centro": "TRAUMATOLOGIA DE HOMBRO",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA DE HOMBRO",
-      "prof": "Traumatologia De Hombro",
+      "prof": "Amico Esteban (jcr)",
       "fecha": "2026-05-18",
       "hora": "08:30"
     },
     {
-      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA DEL DEPORTE",
-      "prof": "Traumatologia Del Deporte",
+      "prof": "Moscariello Federico (jcr)",
       "fecha": "2026-05-15",
       "hora": "14:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DEL DEPORTE",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA DEL DEPORTE",
-      "prof": "Traumatologia Del Deporte",
+      "prof": "Kraier Andres (jcr)",
       "fecha": "2026-05-15",
       "hora": "09:30"
     },
     {
-      "centro": "TRAUMATOLOGIA INFANTO JUVENIL",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA INFANTO JUVENIL",
-      "prof": "Traumatologia Infanto Juvenil",
+      "prof": "Kraier Andres (jcr)",
       "fecha": "2026-05-15",
       "hora": "09:30"
     },
     {
-      "centro": "TRAUMATOLOGIA DE TOBILLO",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA DE TOBILLO",
-      "prof": "Traumatologia De Tobillo",
+      "prof": "Bordone Juan Pablo (jcr)",
       "fecha": "2026-05-14",
       "hora": "16:00"
     },
     {
-      "centro": "TRAUMATOLOGIA DE COLUMNA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "TRAUMATOLOGIA DE COLUMNA",
-      "prof": "Traumatologia De Columna",
+      "prof": "Quijada Lucas (jcr)",
       "fecha": "2026-06-01",
       "hora": "08:10"
     },
     {
-      "centro": "CARDIOLOGIA PEDIATRICA",
+      "centro": "GO JOCKEY CLUB ROSARIO",
       "esp": "CARDIOLOGIA PEDIATRICA",
-      "prof": "Cardiologia Pediatrica",
+      "prof": "Biga Constanza (jcr)",
       "fecha": "2026-05-19",
       "hora": "09:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Plasenzotti Andrea Virginia",
       "fecha": "2026-05-13",
       "hora": "18:20"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Angeletti Damian Adolfo",
       "fecha": "2026-06-12",
       "hora": "08:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Cavina Patricia",
       "fecha": "2026-05-20",
       "hora": "11:15"
     },
     {
-      "centro": "NEFROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "NEFROLOGIA",
-      "prof": "Nefrologia",
+      "prof": "Jaurretche Sebastian Pedro",
       "fecha": "2026-05-13",
       "hora": "15:50"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Sanso Valentina",
       "fecha": "2026-05-18",
       "hora": "14:20"
     },
     {
-      "centro": "ONCOLOGIA CLINICA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "ONCOLOGIA CLINICA",
-      "prof": "Oncologia Clinica",
+      "prof": "Dri Alejandro Adhemar",
       "fecha": "2026-06-05",
       "hora": "10:40"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Zeno Lelio",
       "fecha": "2026-05-18",
       "hora": "12:15"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Bragagnolo Julio Cesar",
       "fecha": "2026-05-14",
       "hora": "09:00"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Fadil Iturralde Jose Luis",
       "fecha": "2026-05-27",
       "hora": "08:00"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Sanso Oscar Cesar Augusto",
       "fecha": "2026-05-27",
       "hora": "14:30"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Pedemonte Jose German",
       "fecha": "2026-06-01",
       "hora": "16:20"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Sanchez Mazzaferri Fabio",
       "fecha": "2026-06-11",
       "hora": "09:15"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Casiello Patricio",
       "fecha": "2026-05-28",
       "hora": "15:00"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Llan De Rosos Matias Roberto",
       "fecha": "2026-05-26",
       "hora": "15:30"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Cueli Paulo Javier",
       "fecha": "2026-05-15",
       "hora": "15:30"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Spais Lauro Humberto",
       "fecha": "2026-05-21",
       "hora": "12:45"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Callaci Agustin",
       "fecha": "2026-05-21",
       "hora": "17:15"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Roldan Fernando",
       "fecha": "2026-05-26",
       "hora": "08:40"
     },
     {
-      "centro": "UROLOGIA",
+      "centro": "BV OROÑO 1024 PB (UROLOGIA)",
       "esp": "UROLOGIA",
-      "prof": "Urologia",
+      "prof": "Fernandez Bussy Agustin",
       "fecha": "2026-05-15",
       "hora": "09:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Del Rio Alfredo",
       "fecha": "2026-05-26",
       "hora": "10:15"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Quintero Oscar Mario",
       "fecha": "2026-05-14",
       "hora": "17:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Imhoff Jose Luis",
       "fecha": "2026-05-13",
       "hora": "16:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Rossi Oscar",
       "fecha": "2026-05-14",
       "hora": "09:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Garcia Orsetti Gonzalo",
       "fecha": "2026-05-20",
       "hora": "17:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Staffieri Gustavo Jose",
       "fecha": "2026-06-04",
       "hora": "12:15"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Monti Roberto",
       "fecha": "2026-05-14",
       "hora": "18:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Poy Carlos Alberto",
       "fecha": "2026-05-18",
       "hora": "08:45"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Rodriguez Botta Guillermo",
       "fecha": "2026-05-19",
       "hora": "14:45"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Yacono Esmendi Marcos Roberto",
       "fecha": "2026-05-20",
       "hora": "09:45"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Ros German",
       "fecha": "2026-05-22",
       "hora": "13:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Imhoff Denise",
       "fecha": "2026-05-18",
       "hora": "13:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Valarino Pablo Nicolas",
       "fecha": "2026-05-18",
       "hora": "17:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Laspina Marcela",
       "fecha": "2026-05-15",
       "hora": "10:45"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Grazziani Franco Sebastian",
       "fecha": "2026-05-15",
       "hora": "11:45"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Miretto Sabrina",
       "fecha": "2026-06-02",
       "hora": "10:20"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Julia Sabrina Fabiana",
       "fecha": "2026-05-15",
       "hora": "14:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Diez Fabian Antonio",
       "fecha": "2026-05-18",
       "hora": "16:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Barranco Vanina",
       "fecha": "2026-06-02",
       "hora": "15:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Calderon Jones Osvaldo Leon",
       "fecha": "2026-06-02",
       "hora": "12:15"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Cerri Elisa",
       "fecha": "2026-05-14",
       "hora": "16:45"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Uviedo Martina",
       "fecha": "2026-05-14",
       "hora": "15:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Escobar Maira",
       "fecha": "2026-05-14",
       "hora": "18:00"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Villa Celida Gisele",
       "fecha": "2026-05-15",
       "hora": "13:45"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Palacio Manuela",
       "fecha": "2026-05-13",
       "hora": "17:20"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Romanutti Valentina",
       "fecha": "2026-05-22",
       "hora": "12:20"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Ramos Karina Analia",
       "fecha": "2026-05-20",
       "hora": "12:00"
     },
     {
-      "centro": "CIRUGIA CARDIOVASCULAR",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CIRUGIA CARDIOVASCULAR",
-      "prof": "Cirugia Cardiovascular",
+      "prof": "Sgrosso Jose Luis",
       "fecha": "2026-05-13",
       "hora": "14:00"
     },
     {
-      "centro": "CIRUGIA CARDIOVASCULAR",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CIRUGIA CARDIOVASCULAR",
-      "prof": "Cirugia Cardiovascular",
+      "prof": "Rodriguez Sebastian",
       "fecha": "2026-05-13",
       "hora": "12:30"
     },
     {
-      "centro": "CIRUGIA CARDIOVASCULAR",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CIRUGIA CARDIOVASCULAR",
-      "prof": "Cirugia Cardiovascular",
+      "prof": "Candusso Pablo Gabriel",
       "fecha": "2026-05-18",
       "hora": "15:50"
     },
     {
-      "centro": "CIRUGIA TORAXICA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CIRUGIA TORAXICA",
-      "prof": "Cirugia Toraxica",
+      "prof": "Sgrosso Jose Luis",
       "fecha": "2026-05-13",
       "hora": "14:00"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Zucchetti Eliana",
       "fecha": "2026-05-15",
       "hora": "16:00"
     },
     {
-      "centro": "CARDIOLOGIA-ELECTROFISIOLOGIA",
+      "centro": "BV OROÑO 1024 1 PISO (CARDIOLOGIA)",
       "esp": "CARDIOLOGIA-ELECTROFISIOLOGIA",
-      "prof": "Cardiologia-electrofisiologia",
+      "prof": "Del Rio Alfredo",
       "fecha": "2026-05-26",
       "hora": "10:15"
     },
     {
-      "centro": "ALERGIA GENERAL",
+      "centro": "RIOJA 2234 SP",
       "esp": "ALERGIA GENERAL",
-      "prof": "Alergia General",
+      "prof": "Molinari Ivan (rioja 2234)",
       "fecha": "2026-05-29",
       "hora": "09:00"
     },
     {
-      "centro": "ALERGIA GENERAL",
+      "centro": "RIOJA 2234 SP",
       "esp": "ALERGIA GENERAL",
-      "prof": "Alergia General",
+      "prof": "Cochet Natalia (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "12:40"
     },
     {
-      "centro": "ALERGIA GENERAL",
+      "centro": "RIOJA 2234 SP",
       "esp": "ALERGIA GENERAL",
-      "prof": "Alergia General",
+      "prof": "Chorzepa Gonzalo (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "17:30"
     },
     {
-      "centro": "ALERGIA INFANTIL",
+      "centro": "RIOJA 2234 SP",
       "esp": "ALERGIA INFANTIL",
-      "prof": "Alergia Infantil",
+      "prof": "Chorzepa Gonzalo (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "17:30"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Torres Rios Guillermo (rioja 2234)",
       "fecha": "2026-05-18",
       "hora": "11:20"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Garros Pablo (rioja 2234)",
       "fecha": "2026-05-15",
       "hora": "11:40"
     },
     {
-      "centro": "CARDIOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CARDIOLOGIA",
-      "prof": "Cardiologia",
+      "prof": "Torres Va Guillermo (rioja 2234)",
       "fecha": "2026-05-21",
       "hora": "14:45"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Cardoso Martin (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "15:15"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Kestens Andrea (rioja 2234)",
       "fecha": "2026-05-15",
       "hora": "09:40"
     },
     {
-      "centro": "CIRUGIA PLASTICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CIRUGIA PLASTICA",
-      "prof": "Cirugia Plastica",
+      "prof": "Giurastante Andrea (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "09:10"
     },
     {
-      "centro": "CIRUGIA GENERAL",
+      "centro": "RIOJA 2234 SP",
       "esp": "CIRUGIA GENERAL",
-      "prof": "Cirugia General",
+      "prof": "Bitetti Lisandro (rioja 2234)",
       "fecha": "2026-05-15",
       "hora": "13:40"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Miguel Ricardo (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "09:30"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Ponce De Leon Carolina (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "12:45"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Antonione Bruno(rioja 2234)",
       "fecha": "2026-05-18",
       "hora": "08:15"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "De Biasi Dante (rioja 2234)",
       "fecha": "2026-05-18",
       "hora": "10:00"
     },
     {
-      "centro": "CLINICA MEDICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "CLINICA MEDICA",
-      "prof": "Clinica Medica",
+      "prof": "Frontini Lorena (rioja 2234)",
       "fecha": "2026-06-03",
       "hora": "19:00"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "RIOJA 2234 SP",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Mitrani Sara (rioja 2234)",
       "fecha": "2026-05-18",
       "hora": "14:15"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "RIOJA 2234 SP",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Habermacher Susana (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "13:45"
     },
     {
-      "centro": "DERMATOLOGIA ADULTOS",
+      "centro": "RIOJA 2234 SP",
       "esp": "DERMATOLOGIA ADULTOS",
-      "prof": "Dermatologia Adultos",
+      "prof": "Zacchino Gabriela (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "08:30"
     },
     {
-      "centro": "DIABETOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "DIABETOLOGIA",
-      "prof": "Diabetologia",
+      "prof": "Buscema Valeria (rioja 2234)",
       "fecha": "2026-06-02",
       "hora": "11:00"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Buscema Valeria (rioja 2234)",
       "fecha": "2026-06-02",
       "hora": "11:00"
     },
     {
-      "centro": "ENDOCRINOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "ENDOCRINOLOGIA",
-      "prof": "Endocrinologia",
+      "prof": "Sotelo Claudia (rioja 2234)",
       "fecha": "2026-05-28",
       "hora": "10:20"
     },
     {
-      "centro": "FLEBOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "FLEBOLOGIA",
-      "prof": "Flebologia",
+      "prof": "Cavanagh Jean (rioja 2234)",
       "fecha": "2026-05-19",
       "hora": "16:50"
     },
     {
-      "centro": "GASTROENTEROLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GASTROENTEROLOGIA",
-      "prof": "Gastroenterologia",
+      "prof": "Roldan Liliana (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "08:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Dretakis Angela (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "18:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Bloise Leticia (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "10:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Cofone Mirta (rioja 2234)",
       "fecha": "2026-05-19",
       "hora": "10:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Angeletti Damian (rioja 2234)",
       "fecha": "2026-06-12",
       "hora": "14:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Garcia Loza Carlos (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "12:40"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Stur Karim (rioja 2234)",
       "fecha": "2026-05-21",
       "hora": "14:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Lovera Claudia (rioja 2234)",
       "fecha": "2026-05-29",
       "hora": "08:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Aguirre Marcela (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "08:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Farandato Federico (rioja 2234)",
       "fecha": "2026-05-19",
       "hora": "08:00"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Buono Yanina (rioja 2234)",
       "fecha": "2026-06-09",
       "hora": "10:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Burki Jesica (rioja 2234)",
       "fecha": "2026-05-18",
       "hora": "10:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Daher Valeria (rioja 2234)",
       "fecha": "2026-05-22",
       "hora": "10:20"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Martin Ana Maria (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "17:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Ferretti Gabriela (rioja 2234)",
       "fecha": "2026-05-19",
       "hora": "17:10"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Schlaen Pablo (rioja 2234)",
       "fecha": "2026-06-09",
       "hora": "15:30"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Ochoa Heleg Berenice (rioja 2234)",
       "fecha": "2026-05-18",
       "hora": "15:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Hails Ines (rioja 2234)",
       "fecha": "2026-06-08",
       "hora": "12:45"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Bonaudi Gina (rioja 2234)",
       "fecha": "2026-05-20",
       "hora": "08:15"
     },
     {
-      "centro": "GINECOLOGIA CLINICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGIA CLINICA",
-      "prof": "Ginecologia Clinica",
+      "prof": "Isa Pavia Carolina (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "12:40"
     },
     {
-      "centro": "INFECTOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "INFECTOLOGIA",
-      "prof": "Infectologia",
+      "prof": "Antonione Bruno(rioja 2234)",
       "fecha": "2026-05-18",
       "hora": "08:15"
     },
     {
-      "centro": "GINECOLOGÍA PEDIÁTRICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "GINECOLOGÍA PEDIÁTRICA",
-      "prof": "Ginecología Pediátrica",
+      "prof": "Buono Yanina (rioja 2234)",
       "fecha": "2026-06-09",
       "hora": "10:45"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Fernandez Octavio (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "19:15"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Amigot Beatriz (rioja 2234)",
       "fecha": "2026-05-19",
       "hora": "12:30"
     },
     {
-      "centro": "NEUMONOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "NEUMONOLOGIA",
-      "prof": "Neumonologia",
+      "prof": "Galassi Marcos (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "14:20"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "RIOJA 2234 SP",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Bianchi Florencia (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "12:30"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "RIOJA 2234 SP",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Sabignoso Tamara (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "12:45"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "RIOJA 2234 SP",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Teresich Romina (rioja 2234)",
       "fecha": "2026-06-01",
       "hora": "12:30"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "RIOJA 2234 SP",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Cichillitti Maria V (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "09:35"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "RIOJA 2234 SP",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Silvestrini Carla (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "12:15"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "RIOJA 2234 SP",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Zucchetti Eliana (rioja 2234)",
       "fecha": "2026-05-18",
       "hora": "17:45"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "RIOJA 2234 SP",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Moreno Jimena (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "15:15"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "RIOJA 2234 SP",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Horsch Lara (rioja 2234)",
       "fecha": "2026-06-02",
       "hora": "08:45"
     },
     {
-      "centro": "NUTRICION",
+      "centro": "RIOJA 2234 SP",
       "esp": "NUTRICION",
-      "prof": "Nutricion",
+      "prof": "Schalin Cecilia (rioja 2234)",
       "fecha": "2026-06-09",
       "hora": "13:30"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "RIOJA 2234 SP",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Sanocio Lucrecia (rioja 2234)",
       "fecha": "2026-05-18",
       "hora": "15:30"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "RIOJA 2234 SP",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Chialvo Lucrecia (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "18:40"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "RIOJA 2234 SP",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Antonione Franca(rioja 2234)",
       "fecha": "2026-05-15",
       "hora": "15:40"
     },
     {
-      "centro": "HEMATOLOGIA GENERAL",
+      "centro": "RIOJA 2234 SP",
       "esp": "HEMATOLOGIA GENERAL",
-      "prof": "Hematologia General",
+      "prof": "Siffredi Virginia (rioja 2234)",
       "fecha": "2026-05-14",
       "hora": "19:00"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
+      "centro": "RIOJA 2234 SP",
       "esp": "OTORRINOLARINGOLOGIA CLINICA ADULTO",
-      "prof": "Otorrinolaringologia Clinica Adulto",
+      "prof": "Principi Daniela (rioja 2234)",
       "fecha": "2026-05-27",
       "hora": "16:45"
     },
     {
-      "centro": "OTORRINOLARINGOLOGIA QUIRURGICA",
+      "centro": "RIOJA 2234 SP",
       "esp": "OTORRINOLARINGOLOGIA QUIRURGICA",
-      "prof": "Otorrinolaringologia Quirurgica",
+      "prof": "Principi Daniela (rioja 2234)",
       "fecha": "2026-05-27",
       "hora": "16:45"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Soldano Juan (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "16:15"
     },
     {
-      "centro": "REUMATOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "REUMATOLOGIA",
-      "prof": "Reumatologia",
+      "prof": "Ramos Fernando Augusto (rioja 2234)",
       "fecha": "2026-05-13",
       "hora": "19:25"
     },
     {
-      "centro": "OTOLOGÍA(CLÍNICA Y CIRUGÍA DE OÍDO)",
+      "centro": "RIOJA 2234 SP",
       "esp": "OTOLOGÍA(CLÍNICA Y CIRUGÍA DE OÍDO)",
-      "prof": "Otología(clínica Y Cirugía De Oído)",
+      "prof": "Principi Daniela (rioja 2234)",
       "fecha": "2026-05-27",
       "hora": "16:45"
     },
     {
-      "centro": "SEXOLOGIA",
+      "centro": "RIOJA 2234 SP",
       "esp": "SEXOLOGIA",
-      "prof": "Sexologia",
+      "prof": "Bonaudi Gina (rioja 2234)",
       "fecha": "2026-05-20",
       "hora": "08:15"
     }
