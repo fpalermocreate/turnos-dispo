@@ -177,63 +177,86 @@ function handleFile(file){
 function parseRows(rows){
   if(!rows||rows.length===0) return [];
 
-  // Buscar fila de encabezados
-  let hi=-1;
-  for(let i=0;i<Math.min(15,rows.length);i++){
-    if(!rows[i]) continue;
-    const r=rows[i].map(function(c){return String(c||'').toLowerCase();});
-    if(r.some(function(c){return c.includes('especialidad');})){hi=i;break;}
+  // Buscar fila de encabezados — busca la que tenga "Especialidad" y "Profesional"
+  var hi=-1;
+  for(var i=0;i<Math.min(20,rows.length);i++){
+    var row=rows[i];
+    if(!row||!row.length) continue;
+    var hayEsp=false, hayProf=false;
+    for(var k=0;k<row.length;k++){
+      var cell=String(row[k]||'').toLowerCase().trim();
+      if(cell.includes('especialidad')) hayEsp=true;
+      if(cell.includes('profesional')) hayProf=true;
+    }
+    if(hayEsp&&hayProf){hi=i;break;}
   }
+  // Si no encontró fila con ambas, buscar solo "especialidad"
   if(hi===-1){
-    // Si no encuentra encabezado, asumir primera fila
-    hi=0;
+    for(var i=0;i<Math.min(20,rows.length);i++){
+      var row=rows[i];
+      if(!row||!row.length) continue;
+      for(var k=0;k<row.length;k++){
+        if(String(row[k]||'').toLowerCase().includes('especialidad')){hi=i;break;}
+      }
+      if(hi!==-1) break;
+    }
   }
+  if(hi===-1) hi=0;
 
-  const h=rows[hi].map(function(c){return String(c||'').toLowerCase().trim();});
+  var h=rows[hi].map(function(c){return String(c||'').toLowerCase().trim();});
 
-  // Buscar índices de columnas de forma flexible
+  // Mapear columnas por nombre
   var ci=-1,ei=-1,pi=-1,fi=-1,oi=-1;
   for(var k=0;k<h.length;k++){
-    if(ci===-1 && (h[k].includes('lugar') || h[k].includes('centro'))) ci=k;
-    if(ei===-1 && h[k].includes('especialidad')) ei=k;
-    if(pi===-1 && h[k].includes('profesional')) pi=k;
-    if(fi===-1 && h[k].includes('fecha')) fi=k;
-    if(oi===-1 && h[k].includes('hora')) oi=k;
+    if(ci===-1&&(h[k].includes('lugar')||h[k].includes('centro'))) ci=k;
+    if(ei===-1&&h[k].includes('especialidad')) ei=k;
+    if(pi===-1&&h[k].includes('profesional')) pi=k;
+    if(fi===-1&&h[k].includes('fecha')) fi=k;
+    if(oi===-1&&h[k].includes('hora')) oi=k;
   }
 
-  // Si no encontramos columnas clave, usar posiciones por defecto del informe
-  // El informe tiene: col0=lugar, col2=especialidad, col3=profesional, col4=fecha, col5=hora
-  if(ei===-1){
-    ci=0; ei=2; pi=3; fi=4; oi=5;
-  }
+  // Fallback a posiciones fijas del informe estándar (col A=lugar, col B=especialidad, col C=profesional, col D=cod, col E=fecha, col F=hora)
+  if(ci===-1) ci=0;
+  if(ei===-1) ei=1;
+  if(pi===-1) pi=2;
+  if(fi===-1) fi=4;
+  if(oi===-1) oi=5;
 
   var t=[];
+  // Saltear filas vacías después del encabezado
   for(var i=hi+1;i<rows.length;i++){
     var r=rows[i];
     if(!r||r.length===0) continue;
 
+    var centro=String(r[ci]||'').trim();
     var esp=String(r[ei]||'').trim();
+    if(!centro&&!esp) continue; // fila vacía
     if(!esp) continue;
 
-    var centro=String(r[ci]||'').trim();
-    var prof=pi>=0&&r[pi]?toTC(String(r[pi]).trim()):'';
-    var hora=oi>=0&&r[oi]?String(r[oi]).trim():'';
+    var prof=(r[pi]!=null&&r[pi]!=='')?toTC(String(r[pi]).trim()):'';
+    var hora=(r[oi]!=null&&r[oi]!=='')?String(r[oi]).trim():'';
 
     var fecha='';
-    if(fi>=0&&r[fi]){
+    if(r[fi]!=null&&r[fi]!==''){
       var raw=r[fi];
-      if(raw instanceof Date){
-        fecha=raw.toISOString().split('T')[0];
-      } else if(typeof raw==='number'){
-        var d=new Date(Math.round((raw-25569)*86400*1000));
-        fecha=d.toISOString().split('T')[0];
-      } else {
-        var s=String(raw).trim();
-        // Intentar parsear fecha en varios formatos
-        var d2=new Date(s);
-        if(!isNaN(d2)) fecha=d2.toISOString().split('T')[0];
-        else fecha=s.substring(0,10);
-      }
+      try{
+        if(raw instanceof Date){
+          fecha=raw.toISOString().split('T')[0];
+        } else if(typeof raw==='number'&&raw>1){
+          var d=new Date(Math.round((raw-25569)*86400*1000));
+          fecha=d.toISOString().split('T')[0];
+        } else {
+          var s=String(raw).trim();
+          // formato dd/mm/yyyy
+          var m=s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+          if(m) fecha=m[3]+'-'+m[2].padStart(2,'0')+'-'+m[1].padStart(2,'0');
+          else {
+            var d2=new Date(s);
+            if(!isNaN(d2)) fecha=d2.toISOString().split('T')[0];
+            else fecha=s.substring(0,10);
+          }
+        }
+      }catch(ex){fecha='';}
     }
 
     if(centro&&esp&&fecha){
