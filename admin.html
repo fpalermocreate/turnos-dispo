@@ -95,11 +95,7 @@ a{color:var(--azul)}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js"></script>
 <script>
 const ADMINS=[{user:'admin',passHash:'240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9'}];
-
-async function sha256(msg){
-  const buf=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(msg));
-  return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');
-}
+async function sha256(msg){const buf=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(msg));return Array.from(new Uint8Array(buf)).map(b=>b.toString(16).padStart(2,'0')).join('');}
 let currentUser=null,parsedData=null;
 function showMsg(id,t,type){const el=document.getElementById(id);el.textContent=t;el.className='msg msg-'+type;el.style.display='block';}
 function hideMsg(id){document.getElementById(id).style.display='none';}
@@ -150,7 +146,7 @@ function handleFile(file){
       document.getElementById('file-info').textContent='✓ '+file.name+' — '+parsedData.length+' turnos encontrados';
       document.getElementById('publish-section').style.display='block';
       hideMsg('publish-msg');
-    }catch(err){document.getElementById('file-info').textContent='Error: '+err.message;}
+    }catch(err){document.getElementById('file-info').textContent='Error: '+err.message;console.error(err);}
   };
   reader.readAsArrayBuffer(file);
 }
@@ -158,51 +154,50 @@ function handleFile(file){
 function parseRows(rows){
   if(!rows||!rows.length)return[];
 
-  // Buscar la fila que tenga AMBAS: "especialidad" Y "profesional"
+  // Buscar fila de encabezados: la que tenga "Especialidad" Y "Profesional" Y algo de "Lugar/Atención"
   let hi=-1;
   for(let i=0;i<Math.min(20,rows.length);i++){
     const row=rows[i];
     if(!row||!row.length)continue;
-    let hayEsp=false,hayProf=false;
-    for(let k=0;k<row.length;k++){
-      const c=String(row[k]||'').toLowerCase().trim();
-      if(c.includes('especialidad'))hayEsp=true;
-      if(c.includes('profesional'))hayProf=true;
+    const vals=row.map(c=>String(c||'').toLowerCase().trim());
+    if(vals.some(v=>v.includes('especialidad')) && vals.some(v=>v.includes('profesional'))){
+      hi=i;break;
     }
-    if(hayEsp&&hayProf){hi=i;break;}
   }
   if(hi===-1)return[];
 
-  // Mapear columnas por nombre
-  const h=rows[hi].map(c=>String(c||'').toLowerCase().trim());
-  let ci=-1,ei=-1,pi=-1,fi=-1,oi=-1;
-  for(let k=0;k<h.length;k++){
-    const col=h[k];
-    if(ci===-1&&(col.includes('lugar')||col.includes('atenci')))ci=k;
-    if(ei===-1&&col.includes('especialidad'))ei=k;
-    if(pi===-1&&col.includes('profesional'))pi=k;
-    if(fi===-1&&col.includes('fecha'))fi=k;
-    if(oi===-1&&col.includes('hora'))oi=k;
-  }
-  // Fallback: A=lugar(0), B=especialidad(1), C=profesional(2), D=cod(3), E=fecha(4), F=hora(5)
-  if(ci===-1)ci=0;
-  if(ei===-1)ei=1;
-  if(pi===-1)pi=2;
-  if(fi===-1)fi=4;
-  if(oi===-1)oi=5;
+  // Columnas FIJAS del informe estándar:
+  // col 0 = Lugar de Atención
+  // col 1 = Especialidad
+  // col 2 = Profesional
+  // col 3 = Cód.
+  // col 4 = Fecha
+  // col 5 = Hora
+  const CI=0, EI=1, PI=2, FI=4, OI=5;
 
   const t=[];
   for(let i=hi+1;i<rows.length;i++){
     const r=rows[i];
     if(!r||!r.length)continue;
-    const centro=String(r[ci]||'').trim();
-    const esp=String(r[ei]||'').trim();
-    // Saltar filas vacías — requiere al menos centro Y especialidad
-    if(!centro||!esp)continue;
-    const prof=String(r[pi]||'').trim()?toTC(String(r[pi]).trim()):'';
-    const hora=String(r[oi]||'').trim();
-    const fecha=parseFecha(r[fi]);
-    if(fecha)t.push({centro,esp:esp.toUpperCase(),prof,fecha,hora});
+
+    const centro=String(r[CI]||'').trim();
+    const esp=String(r[EI]||'').trim();
+    const prof=String(r[PI]||'').trim();
+    const hora=String(r[OI]||'').trim();
+
+    // Saltar filas vacías o sin especialidad
+    if(!esp)continue;
+
+    const fecha=parseFecha(r[FI]);
+    if(!fecha)continue;
+
+    t.push({
+      centro:centro,
+      esp:esp.toUpperCase(),
+      prof:prof?toTC(prof):'',
+      fecha:fecha,
+      hora:hora
+    });
   }
   return t;
 }
@@ -212,11 +207,9 @@ function parseFecha(raw){
   try{
     if(raw instanceof Date){return fmt(raw);}
     if(typeof raw==='number'&&raw>1){
-      // Serial Excel — ajustar zona horaria usando UTC
       return fmt(new Date(Math.round((raw-25569)*86400*1000)));
     }
     const s=String(raw).trim();
-    // dd/mm/yyyy
     const m=s.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
     if(m)return m[3]+'-'+m[2].padStart(2,'0')+'-'+m[1].padStart(2,'0');
     const d=new Date(s);
